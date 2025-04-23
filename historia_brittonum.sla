@@ -115,14 +115,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="4180.0176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="10" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="5012.0208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="11" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="5012.0208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="12" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1803286264" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="695486875241.915" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1803286264" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="695507160311.863" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1803253880" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9007380046.0008" gYpos="695485890985.705" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1803253880" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9011643238.0008" gYpos="695506176055.653" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -1095,6 +1095,183 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="He was expelled by the Greeks because of the killing of Turnus, whom Aeneas killed."/>
                 <ITEXT CH=" Since Silvius was related to Aeneas, who killed Turnus, king of Rutuli, the Greeks expelled Silvius from their land."/>
                 <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="5048.0208" OwnPage="11" ItemID="1847994952" PTYPE="4" WIDTH="522" HEIGHT="289.609773248409" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 289.61 L0 289.61 L0 0 Z" copath="M0 0 L522 0 L522 289.61 L0 289.61 L0 0 Z" gXpos="136.0008" gYpos="5048.0208" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <ITEXT FONT="DejaVu Serif Bold" CH="11"/>
+                <ITEXT CH=" Aenēās autem rēgnāvit tribus annīs apud Latīnōs. Ascanius rēgnāvit annīs 37, post quem Silvius Aenēae fīlius rēgnāvit annīs 12, Postumus"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" annīs trīgintā novem, ā quō Albānōrum rēgēs Silviī appellātī sunt, cuius frāter erat Brittō. Quandō rēgnābat Brittō in Brittannīā, Helī"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" sacerdōs iūdicābat in Isrāhēl et tunc arca testāmentī ab aliēnigenīs possidēbātur. Postumus frāter eius apud Latīnōs rēgnābat."/>
+                <para PARENT="Latin"/>
+                <ITEXT FONT="DejaVu Serif Bold" CH="12"/>
+                <ITEXT CH=" Post intervāllum multōrum annōrum nōn minus 800 Pictī vēnērunt et occupāvērunt īnsulās, quae vocantur Orcadēs, et posteā ex īnsulīs vastāvērunt regiōnēs multās et occupāvērunt eās in sinistrālī plāgā Brittanniae, et maneant ibi tertiam partem Brittanniae tenentēs usque in hodiernum diem."/>
+                <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="5338.54777070064" OwnPage="11" ItemID="1843344184" PTYPE="4" WIDTH="522" HEIGHT="92.1783439490446" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 92.1783 L0 92.1783 L0 0 Z" copath="M0 0 L522 0 L522 92.1783 L0 92.1783 L0 0 Z" gXpos="136.0008" gYpos="5338.54777070064" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="Postumus (&quot;late-born&quot;) appears to be the name of a Latin king who reigned after Silvius, perhaps of a son of Brutus born after Brutus's death. Brittō appears to be a variant spelling of Brutus."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Eli the priest was judging in Israel and then the ark of the testimony was possessed by foreigners."/>
+                <ITEXT CH=" The account of the Philistines seizing the Ark of the Covenant is found in 1 Samuel 4."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.0008" YPOS="5048.0208" OwnPage="12" ItemID="1845781864" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.0008" gYpos="5048.0208" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="ā: from, out of, by, since"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ab: from, out of, by, since"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aeneae: Aeneas, Trojan prince and legendary founder of Alba Longa, birthplace of Romulus and Remus (genitive case)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aeneas: Aeneas, Trojan prince and legendary founder of Alba Longa, birthplace of Romulus and Remus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="albānōrum: of the people of Alba Longa"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aliēnigenīs: strangers, foreigners; plural masculine  from aliēnigena, aliēnigenae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="annīs: years; plural masculine  from annus, annī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="annōrum: of years; plural masculine genitive from annus, annī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="appellātī: having been called; plural masculine nominative perfect passive participle from "/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="apud: at, by, near"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="arca: chest, coffer, coffin, cell; singular feminine nominative from arca, arcae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Ascanius: Ascanius, legendary king of Alba Longa, son of Aeneas (ablative or dative case)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="autem: but, however, moreover"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Brittannia: Britain"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Brittanniae: Britain (nominative plural or genitive singular case)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="brittō: Briton, an inhabitant of Britain; singular masculine nominative from Britto, Brittonis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cuius: whose; singular genitive from quis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="diem: day; singular common accusative from diēs, diēī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eās: their; plural feminine accusative from is, ea, id"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eius: his/her/its"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="erat: he was; 3rd person singular imperfect active from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ex: out of, from"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fīlius: son; singular masculine nominative from fīlius, fīlī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="frāter: brother; singular masculine nominative from frāter, frātris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="helī: Eli, Old Testament high priest."/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hodiernum: today; singular neuter nominative from hodiernus, hodierna, hodiernum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ibī: there, then"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: into (with accusative), in (with ablative)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="īnsulās: islands; plural feminine accusative from īnsula, īnsulae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="īnsulīs: islands; plural feminine  from īnsula, īnsulae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="intervallum: interval, distance; singular neuter nominative from intervallum, intervallī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="isrāhēl: Israel; singular masculine nominative from Isrāhēl, Isrāhēlis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="iūdicābat: he was judging, he was deciding; 3rd person singular imperfect active from judico, judicare, judicavi, judicatus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="latīnōs: Latins, of Latium; plural masculine accusative from Latīnus, Latīna, Latīnum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="maneant: he remains; 3rd person plural present active subjunctive from maneō, manēre, mānsī, mānsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="minus: less"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="multās: many; plural feminine accusative from multus, multa -um, -, plūrimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="multōrum: many; plural masculine genitive from multus, multa -um, -, plūrimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōn: not"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="novem: nine; from novem, nonus -a -um, noveni -ae -a, novie (n)s"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="occupāvērunt: they seized, overtook, attacked; 3rd person plural perfect active from occupo, occupare, occupavi, occupatus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Orcades: The Orkney Isles, located off the northern coast of Scotland"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="partem: part; singular feminine accusative from pars, partis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pictī: Picts, a Scottish tribe; singular masculine genitive perfect passive participle from pingo, pingere, pinxi, pictus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="plāga: coast; singular feminine nominative from plāga, plāgae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="possidēbātur: it was being possessed; infinitive"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="post: behind, after, since"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="posteā: thereafter, later"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="postumus: late, particularly of a child born after a father's death; singular masculine nominative from postumus, postuma, postumum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quae: who; plural female nom. or neuter nom. or acc. of quis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quandō: when, because"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quem: what, singular masculine accusative of qui"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quō: what; singular ablative of quis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rēgēs: kings; 2nd person singular future active from rego, regere, rexi, rectus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="regiōnēs: regions; plural feminine nominative from regiō, regiōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rēgnābat: he was reigning; 3rd person singular imperfect active from rēgnō, rēgnāre, rēgnāvī, rēgnātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rēgnāvit: he reigned; 3rd person singular perfect active from rēgnō, rēgnāre, rēgnāvī, rēgnātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sacerdōs: priest; singular common nominative from sacerdōs, sacerdōtis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Silviī: Silvius, son of Aeneas (or Ascanius) (genitive case)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Silvius: Silvius, son of Aeneas (or Ascanius)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sinistrali: left, singular feminine ablative from sinistra, sinistrae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tenentēs: holding; plural common nominative present participle from teneō, tenēre, tenuī, tentus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tertiam: third; singular feminine accusative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="testamenti: of a will, of a testament; singular neuter genitive from testāmentum, testāmentī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tribus: three; plural dative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="trīgintā: thirty"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tunc: then"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ūsque: until, all the way, up until"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vāstāvērunt: they ravaged, they devastated; 3rd person plural perfect active from vāstō, vāstāre, vāstāvī, vāstātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vēnērunt: they came; 3rd person plural perfect active from veniō, venīre, vēnī, ventus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vocantur: they are called; 3rd person plural present passive from vocō, vocāre, vocāvī, vocātus"/>
+                <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
