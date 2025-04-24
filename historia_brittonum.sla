@@ -125,14 +125,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="8340.0336" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="20" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="9172.0368" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="21" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="9172.0368" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="22" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1803286264" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="695529404749.404" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1803286264" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="695570643820.001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1803253880" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9014563090.0008" gYpos="695528420493.194" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1803253880" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9019618822.0008" gYpos="695569659563.791" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -799,13 +799,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ad: to, towards, at, according to"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aeneae: Aeneas, Trojan prince and legendary founder of Alba Longa, birthplace of Romulus and Remus (genitive case)"/>
+                <ITEXT CH="Aeneae: Aeneas, Trojan prince and legendary founder of Alba Longa, birthplace of Romulus and Remus (genitive case)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Ascaniō: Ascanius, legendary king of Alba Longa, son of Aeneas (ablative or dative case)"/>
+		<para PARENT="Vocab"/>
+                <ITEXT CH="Ascanium: Ascanius, legendary king of Alba Longa, son of Aeneas (accusative case)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="autem: but, however, moreover"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="brūtō: Brutus; singular masculine dative from Brūtus, Brūtī"/>
+                <ITEXT CH="Brūtō: Brutus; singular masculine dative from Brūtus, Brūtī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnsīderandam: considering; singular feminine accusative future passive participle from cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus"/>
                 <para PARENT="Vocab"/>
@@ -813,7 +815,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dūxit: he lead; infinitive"/>
+                <ITEXT CH="dūxit: he lead; 3rd person singular perfect from dūcō, dūcere, dūxī, ductus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eius: his/her/its"/>
                 <para PARENT="Vocab"/>
@@ -845,7 +847,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hanc: this; singular feminine accusative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hominibus: persons, men; plural masculine  from homō, hominis"/>
+                <ITEXT CH="hominibus: persons, men; plural masculine ablative from homō, hominis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illīus: of that; singular genitive from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
@@ -855,7 +857,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="magus: magician; singular masculine nominative from magus, magī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="masculum: male; singular neuter nominative from masculus, mascula, masculum"/>
+                <ITEXT CH="masculum: male; singular neuter accusative from masculus, mascula, masculum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mātrem: mother; singular feminine accusative from māter, mātris"/>
                 <para PARENT="Vocab"/>
@@ -865,11 +867,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mortis: death; singular feminine genitive from mors, mortis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mortua: dead; singular feminine nominative perfect participle from "/>
+                <ITEXT CH="mortua + est: she died; singular feminine nominative perfect participle from morior, morī, mortuus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mulier: woman; singular feminine nominative from mulier, mulieris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nātīvitāte: birth, nativity; singular feminine  from nātīvitās, nātīvitātis"/>
+                <ITEXT CH="nātīvitāte: birth, nativity; singular feminine ablative from nātīvitās, nātīvitātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōmen: name; singular neuter nominative from nōmen, nōminis"/>
                 <para PARENT="Vocab"/>
@@ -877,13 +879,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nurus: young woman, daughter-in-law; singular feminine nominative from nurus, nurūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nūtrītus: having been nourished; singular masculine nominative perfect participle from "/>
+                <ITEXT CH="nūtrītus + est: he was nourished; singular masculine nominative perfect participle from nūtriō, nūtrīre, nūtrīvī, nūtrītus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="occīdō, occīdere, occīdī, occīsus: to kill; infinitive"/>
+                <ITEXT CH="occīdet: he will kill; 3rd person singular future from occīdō, occīdere, occīdī, occīsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="occīsus: having been killed; singular masculine nominative perfect passive participle from "/>
+                <ITEXT CH="occīsus: having been killed; singular masculine nominative perfect passive participle from occīdō, occīdere, occīdī, occīsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="omnibus: all; plural  dative from omnis, omnis, omne"/>
+                <ITEXT CH="omnibus: all; plural ablative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="patrem: father; singular masculine accusative from pater, patris"/>
                 <para PARENT="Vocab"/>
@@ -909,11 +911,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suum: his; singular masculine accusative from suus, sui"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Ascanium&quot;, :part-of-speech :unknown}"/>
-                <para PARENT="Vocab"/>
                 <ITEXT CH="ut: so that"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="uterō: womb; singular masculine dative from uter.o"/>
+                <ITEXT CH="uterō: womb; singular masculine ablative from uterus, uterī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="uxōrem: wife; singular feminine accusative from uxor, uxōris"/>
                 <para PARENT="Vocab"/>
@@ -921,7 +921,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vel: or"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vocātum: having been called; singular neuter nominative perfect passive participle from "/>
+                <ITEXT CH="vocātum: having been called; singular neuter nominative perfect passive participle from vocō, vocāre, vocāvī, vocātum"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
