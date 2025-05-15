@@ -125,14 +125,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="8340.0336" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="20" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="9172.0368" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="21" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="9172.0368" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="22" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="655474973" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="695758333757.82" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="655474973" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="695831861208.592" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="655434765" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9042628798.0008" gYpos="695757349501.61" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="655434765" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9051642946.0008" gYpos="695830876952.382" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -1472,7 +1472,9 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="Et posteā cōnspiciunt turrim vitream in mediō marī et hominēs cōnspiciēbant super turrim et quaerēbant loquī ad illōs et numquam respondēbant et ipsī ūnō annō ad oppugnātiōnem turris properāvērunt cum omnibus ciulīs suīs et cum omnibus mulieribus exceptā ūnā ciulā, quae cōnfrācta est naufragiō, in quā erant virī trīgintā totidemque mulierēs. Et aliae nāvēs nāvigāvērunt ad expugnandam turrim, et dum omnēs dēscenderant in lītore, quod erat circā turrim, operuit illōs mare et dēmersī sunt et nōn ēvāsit ūnus ex illīs. Et dē familiā illīus ciulae, quae relicta est propter frāctiōnem, tōta Hibernia implēta est usque in hodiernum diem. Et posteā vēnērunt paulātim ā partibus Hispāniae et tenuērunt regiōnēs plūrimās."/>
+                <ITEXT CH="Et posteā cōnspiciunt turrim vitream"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" in mediō marī et hominēs cōnspiciēbant super turrim et quaerēbant loquī ad illōs et numquam respondēbant et ipsī ūnō annō ad oppugnātiōnem turris properāvērunt cum omnibus ciulīs suīs et cum omnibus mulieribus exceptā ūnā ciulā, quae cōnfrācta est naufragiō, in quā erant virī trīgintā totidemque mulierēs. Et aliae nāvēs nāvigāvērunt ad expugnandam turrim, et dum omnēs dēscenderant in lītore, quod erat circā turrim, operuit illōs mare et dēmersī sunt et nōn ēvāsit ūnus ex illīs. Et dē familiā illīus ciulae, quae relicta est propter frāctiōnem, tōta Hibernia implēta est usque in hodiernum diem. Et posteā vēnērunt paulātim ā partibus Hispāniae et tenuērunt regiōnēs plūrimās."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -1485,7 +1487,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aliae: other; plural feminine nominative from alius, alia, aliud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="annō: year; singular masculine dative from annus, annī"/>
+                <ITEXT CH="annō: year; singular masculine ablative from annus, annī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="circā: around, about, concerning"/>
                 <para PARENT="Vocab"/>
@@ -1505,7 +1507,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="de: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dēmersī: I submerged, I sank; plural masculine nominative perfect passive participle from "/>
+                <ITEXT CH="dēmersī: dēmersī sunt = they were submerged; plural masculine nominative perfect passive participle from dēmergō, dēmergere, dēmersī, dēmersus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēscenderant: they had descended; 3rd person plural pluperfect active from dēscendō, dēscendere, dēscendī, dēscēnsus"/>
                 <para PARENT="Vocab"/>
@@ -1523,17 +1525,17 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ex: out of, from"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="excepta: take out; remove; follow; receive; ward off, relieve; singular feminine nominative perfect passive participle from excipiō, excipere, excēpī, exceptus"/>
+                <ITEXT CH="exceptā: except; feminine ablative from exceptus, -a, -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="expugnandam: assaulting, storming, conquering; singular feminine accusative future passive participle from expugnō, expugnāre, expugnāvī, expugnātus"/>
+                <ITEXT CH="expugnandam: assaulting, storming, conquering; singular feminine accusative gerund from expugnō, expugnāre, expugnāvī, expugnātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="familia: family; singular feminine nominative from familia, familiae"/>
+                <ITEXT CH="familiā: family; singular feminine ablative from familia, familiae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frāctiōnem: breaking; singular feminine accusative from frāctiō, frāctiōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hībernia: Ireland; singular feminine nominative from Hībernia, Hīberniae"/>
+                <ITEXT CH="Hībernia: Ireland; singular feminine nominative from Hībernia, Hīberniae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hispāniae: of Hispania; singular feminine genitive from Hispānia, Hispāniae"/>
+                <ITEXT CH="Hispāniae: of Hispania; singular feminine genitive from Hispānia, Hispāniae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hodiernum: today; singular neuter nominative from hodiernus, hodierna, hodiernum"/>
                 <para PARENT="Vocab"/>
@@ -1551,21 +1553,21 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ipsī: itself; sing. dative or plural masc. nom. from ipse, ipsa, ipsum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lītore: beach, shore; singular neuter  from lītus, lītoris"/>
+                <ITEXT CH="lītore: beach, shore; singular neuter ablative from lītus, lītoris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="loquī: to speak, to say; infinitive"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mare: sea; singular neuter nominative from mare, maris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="marī: sea; singular neuter  from mare, maris"/>
+                <ITEXT CH="marī: sea; singular neuter ablative from mare, maris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mediō: middle; singular masculine dative from medius, media, medium"/>
+                <ITEXT CH="mediō: middle; singular masculine ablative from medius, media, medium"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mulierēs: women; plural feminine nominative from mulier, mulieris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mulieribus: women; plural feminine  from mulier, mulieris"/>
+                <ITEXT CH="mulieribus: women; plural feminine ablative from mulier, mulieris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="naufragiō: shipwreck; singular neuter dative from naufragium, naufragi(i)"/>
+                <ITEXT CH="naufragiō: shipwreck; singular neuter ablative from naufragium, naufragiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvēs: boats; plural feminine nominative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
@@ -1577,13 +1579,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnēs: all, every; plural common nominative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="omnibus: all; plural  dative from omnis, omnis, omne"/>
+                <ITEXT CH="omnibus: all; plural ablative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="operuit: he covered; 3rd person singular perfect active from operiō, operīre, operuī, opertus"/>
+                <ITEXT CH="operuit: it covered; 3rd person singular perfect active from operiō, operīre, operuī, opertus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="oppugnātiōnem: assault, attack; singular feminine accusative from oppugnātiō, oppugnātiōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="partibus: parts; plural feminine  from pars, partis"/>
+                <ITEXT CH="partibus: parts; plural feminine ablative from pars, partis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="paulātim: little by little"/>
                 <para PARENT="Vocab"/>
@@ -1605,7 +1607,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="regiōnēs: regions; plural feminine nominative from regiō, regiōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="relicta: having been left behind; singular feminine nominative perfect passive participle from "/>
+                <ITEXT CH="relicta: relicta est = was left behind; singular feminine nominative perfect passive participle from "/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="respondēbant: they were responding; 3rd person plural imperfect active from respondeō, respondēre, respondī, respōnsus"/>
                 <para PARENT="Vocab"/>
@@ -1638,9 +1640,6 @@
                 <ITEXT CH="virī: man; singular neuter genitive from virus, viri"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vitream: of glass, glassy, resemblingg glass in its color (greenish), translucency, or glitter; singular feminine accusative from vitreus, vitrea, vitreum"/>
-                <para PARENT="Vocab"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="(excepta)"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -1656,6 +1655,16 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH="The thirty wives in each ship appears to mean that the voyage is meant to establish a civilization. Presumably the wives all have their own husbands, and aren't all married to the three sons."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="7003.26114649682" OwnPage="15" ItemID="648313197" PTYPE="4" WIDTH="522" HEIGHT="47.6942675159235" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 47.6943 L0 47.6943 L0 0 Z" copath="M0 0 L522 0 L522 47.6943 L0 47.6943 L0 0 Z" gXpos="136.0008" gYpos="7003.26114649682" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="The glass tower shares some similarities to the crystal column encountered by the Irish monk St. Brendan on his sea voyage in the "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nāvigātiō Sānctī Brendānī Abbātis"/>
+                <ITEXT CH=", namely its glassy construction and its being in the middle of the sea."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
