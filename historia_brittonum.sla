@@ -125,14 +125,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="8340.0336" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="20" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="9172.0368" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="21" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="9172.0368" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="22" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="655474973" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="695831861208.592" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="655474973" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="695920379693.017" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="655434765" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9051642946.0008" gYpos="695830876952.382" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="655434765" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9062494930.0008" gYpos="695919395436.807" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -1666,6 +1666,28 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Nāvigātiō Sānctī Brendānī Abbātis"/>
                 <ITEXT CH=", namely its glassy construction and its being in the middle of the sea."/>
                 <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="7544.0304" OwnPage="17" ItemID="708449965" PTYPE="4" WIDTH="522" HEIGHT="410.975969426751" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 410.976 L0 410.976 L0 0 Z" copath="M0 0 L522 0 L522 410.976 L0 410.976 L0 0 Z" gXpos="136.0008" gYpos="7544.0304" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <ITEXT FONT="DejaVu Serif Bold" CH="14"/>
+                <ITEXT CH=" Novissimē vēnit Damhoctor et ibi habitāvit cum omnī genere suō usque hodiē in Brittannīā. Istoreth Istorīnī fīlius tenuit Dalriēta cum suīs; Builc autem cum suīs tenuit Euboniam īnsulam et aliās circiter; fīliī autem Liethān obtinuērunt in regiōne Demetōrum et in aliīs regiōnibus, id est Guir Cetguēlī, dōnec expulsī sunt ā Cunedā et ā fīliīs eius ab omnibus Brittannicīs regiōnibus."/>
+                <para PARENT="Latin"/>
+                <ITEXT FONT="DejaVu Serif Bold" CH="15"/>
+                <ITEXT CH=" Sī quis autem scīre voluerit, quandō vel quō tempore fuit inhabitābilis et dēserta Hibernia, sīc mihi perītissimī Scottōrum nūntiāvērunt. Quandō vēnērunt per mare rubrum fīliī Isrāhēl, Aegyptiī vēnērunt et secūtī sunt et dēmersī, ut in lēge legitur. Erat vir nōbilis dē Scythiā cum magnā familiā apud Aegyptiōs et expulsus est ā rēgnō suō et ibi erat, quandō Aegyptiī mersī sunt, et nōn perrēxit ad persequendum populum deī. Illī autem, quī superfuerant, iniērunt cōnsilium, ut expellerent illum, nē rēgnum illōrum obsīderet et occupāret, quia fortēs illōrum dēmersī erant in rubrum mare, et expulsus est."/>
+                <trail PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="8376.0336" OwnPage="19" ItemID="636761469" PTYPE="4" WIDTH="522" HEIGHT="474.15748280255" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 474.157 L0 474.157 L0 0 Z" copath="M0 0 L522 0 L522 474.157 L0 474.157 L0 0 Z" gXpos="136.0008" gYpos="8376.0336" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <ITEXT CH="At ille per quadrāgintā et duōs annōs ambulāvit per Āfricam, et vēnērunt ad ārās Filistīnōrum per lacum Salīnārum et vēnērunt inter Rusicadam et montēs Azāriae et vēnērunt per flūmen Malvam et trānsiērunt per Maritāniam ad columnās Herculis et nāvigāvērunt Tyrrēnum mare et pervēnērunt ad Hispāniam usque et ibi habitāvērunt per multōs annōs et crēvērunt et multiplicātī sunt nimis et gēns illōrum multiplicāta est nimis. et posteā vēnērunt ad Hiberniam post mīlle et duōs annōs, postquam mersī sunt Aegyptiī in rubrum mare, et ad regiōnēs Dariēta, in tempore, quō rēgnābat Brūtus apud Rōmānōs, ā quō cōnsulēs esse coepērunt, deinde tribūnī plēbis ac dictātōrēs. et cōnsulēs rūrsum rem pūblicam obtinuērunt per annōs 447, quae prius rēgia dignitāte damnātā fuerat."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Brittōnēs vēnērunt in tertiā aetāte mundī ad Brittanniam; Scottī autem in quārta obtinuērunt Hiberniam. Scottī autem, quī sunt in occidente, et Pictī dē aquilōne pugnābant ūnanimiter et ūnō impetū contrā Brittōnēs indēsinenter, quia sine armīs ūtēbantur Brittōnēs. et post multum intervāllum temporis Rōmānī monarchiam tōtīus mundī obtinuērunt."/>
+                <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
