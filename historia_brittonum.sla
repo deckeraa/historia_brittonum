@@ -225,14 +225,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="49940.1936" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="120" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="50772.1968" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="121" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="50772.1968" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="122" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="350815017" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="714303913058.114" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="350815017" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="715172384622.482" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="350938713" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9715727206.0008" gYpos="714302928801.904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="350938713" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9736334470.0008" gYpos="715171400366.272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -11050,6 +11050,171 @@
                 <ITEXT CH="(Aedibrith Aedldric Aedlfred Aelfguin Aelfret Alcfrid Aluson Anfrid Bearnoch Beldeg Beornec Birdei Decdric Deothere Eadguin Ealdric Ealric Eanfled Echfird Echfrid Edric Eobba Fleasur Garan Gechbrond Ida Inguec Lin Osbiu Osguald Osgudu Osguid Oslapf Osmer Riemmelth Royth Rum V Woden alli offa pictis)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="42"/>
+                <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="48312.1872" OwnPage="115" ItemID="719178089" PTYPE="4" WIDTH="522" HEIGHT="465.793691719788" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 465.794 L0 465.794 L0 0 Z" copath="M0 0 L522 0 L522 465.794 L0 465.794 L0 0 Z" gXpos="136.0008" gYpos="48312.1872" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <ITEXT CH="Dē geneālogiā rēgum Cantiae."/>
+                <para PARENT="Latin"/>
+                <ITEXT FONT="DejaVu Serif Bold" CH="58"/>
+                <ITEXT CH=" Hengīst genuit Octha, genuit Ossā, genuit Eormoric, genuit Ealdbert, genuit Ealdbald, genuit Ercunbert, genuit Ecgberth."/>
+                <para PARENT="Latin"/>
+                <para/>
+                <ITEXT CH="Dē ortū rēgum Eastanglōrum."/>
+                <para PARENT="Latin"/>
+                <ITEXT FONT="DejaVu Serif Bold" CH="59"/>
+                <ITEXT CH=" Woden genuit Casser, genuit Titinōn, genuit Trigil, genuit Rodmunt, genuit Rippan, genuit Guillem Guechān, ipse prīmus rēgnāvit in Brittannīā super gentem Eastanglōrum. Guecha genuit Guffan, genuit Tydil, genuit Ecnī, genuit Adric, genuit Aldul, genuit Elric."/>
+                <para PARENT="Latin"/>
+                <para/>
+                <ITEXT CH="Dē geneālogiā Merciōrum."/>
+                <para PARENT="Latin"/>
+                <ITEXT FONT="DejaVu Serif Bold" CH="60"/>
+                <ITEXT CH=" Woden genuit Guedolgeat, genuit Gueagōn, genuit Guithleg, genuit Guerdmund, genuit Offa, genuit Ongen, genuit Eamer, genuit Pubba. Ipse Pubba habuit duodecim fīliōs, quōrum duo notitiōrēs mihi sunt quam aliī, id est Penda et Ēuā fīlius Penda, fīlius Pubba. Ecgfrid fīlius Offa, fīlius Duminfert, fīlius Eandulf, fīlius Ossulf, fīlius Ēua, fīlius Pubba."/>
+                <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.0008" YPOS="48312.1872" OwnPage="116" ItemID="737371369" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.0008" gYpos="48312.1872" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="aliī: others; singular  dative from alius, alia, aliud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="amer: love, like; fall in love with; be fond of; have a tendency to; 1st person singular present passive subjunctive from amō, amāre, amāvī, amātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Brittannia: Britain"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cantiae: white, gray; aged, old, wise; hoary; foamy, white-capped; white w/snow/frost; singular feminine genitive from canus, cana, canum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="casser: bring to naught, destroy; annul, make null and void; 1st person singular present passive subjunctive from casso, cassare, cassavi, cassatus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="de: of, from, away from, down from"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="duo: two"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="duodecim: two"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="est: he is; 3rd person singular present active from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eua: Eve; singular feminine nominative from Eva, Evae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fīliōs: sons; plural masculine accusative from fīlius, fīlī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fīlius: son; singular masculine nominative from fīlius, fīlī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="geneālogia: genealogy; singular feminine nominative from geneālogia, geneālogiae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="gentem: people, clan, nation; singular feminine accusative from gēns, gentis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="genuit: he begot; 3rd person singular perfect active from gigno, gignere, genui, genitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="habuit: he had; 3rd person singular perfect active from habeō, habēre, habuī, habitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="id: it"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: into (with accusative), in (with ablative)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ipse: itself; singular masculine nominative from ipse, ipsa, ipsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="merciorum: trade; buy; plural neuter genitive from mercor, mercari, mercatus sum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mihī: to me;(pronoun)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="notitiores: notify; plural common nominative from noteo, notere, notui, notitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="offa: lump of food, cake; singular feminine nominative from offa, offae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ortū: rising, beginning; singular neuter ablative from orior, orīrī, ortus sum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ossa: bones; plural neuter nominative from oss.a"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prīmus: first; singular masculine nominative from prīmus, prīma, prīmum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quam: how? how much?"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quōrum: of whom; plural masc or neut. genitive of quis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rēgnāvit: he reigned; 3rd person singular perfect active from rēgnō, rēgnāre, rēgnāvī, rēgnātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rēgum: of kings; plural masculine genitive from rēx, rēgis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sunt: they are; 3rd person plural present active from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="super: above, on top of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Adric&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Aldul&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Duminfert&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Ealdbald&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Ealdbert&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Eandulf&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Eastanglorum&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Ecgberth&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Ecgfrid&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Ecni&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Elric&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Eormoric&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Ercunbert&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Gueagon&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Guecha&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Guechan&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Guedolgeat&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Guerdmund&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Guffan&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Guillem&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Guithleg&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Hengist&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Octha&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Ongen&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Ossulf&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Penda&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Pubba&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Rippan&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Rodmunt&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Titinon&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Trigil&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Tydil&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Woden&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="(Adric Aldul Duminfert Ealdbald Ealdbert Eandulf Eastanglorum Ecgberth Ecgfrid Ecni Elric Eormoric Ercunbert Gueagon Guecha Guechan Guedolgeat Guerdmund Guffan Guillem Guithleg Hengist Octha Ongen Ossulf Penda Pubba Rippan Rodmunt Titinon Trigil Tydil Woden amer cantiae casser eua merciorum notitiores offa)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="40"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
