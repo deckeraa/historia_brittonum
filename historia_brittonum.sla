@@ -265,14 +265,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="66580.2576" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="160" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="161" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="162" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1414765818" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="739667523956.792" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1414765818" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="741192745567.14" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1414787562" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="10230224590.0008" gYpos="739666539700.582" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1414787562" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="10257588334.0008" gYpos="741191761310.93" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -1840,9 +1840,17 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="At ille per quadrāgintā et duōs annōs ambulāvit per Āfricam, et vēnērunt ad ārās Filistīnōrum per lacum Salīnārum et vēnērunt inter Rusicadam et montēs Azāriae et vēnērunt per flūmen Malvam et trānsiērunt per Maritāniam ad columnās Herculis et nāvigāvērunt Tyrrēnum mare et pervēnērunt ad Hispāniam usque et ibi habitāvērunt per multōs annōs et crēvērunt et multiplicātī sunt nimis et gēns illōrum multiplicāta est nimis. Et posteā vēnērunt ad Hiberniam post mīlle et duōs annōs, postquam mersī sunt Aegyptiī in rubrum mare, et ad regiōnēs Dalriēta, in tempore, quō rēgnābat Brūtus apud Rōmānōs, ā quō cōnsulēs esse coepērunt, deinde tribūnī plēbis ac dictātōrēs. Et cōnsulēs rūrsum rem pūblicam obtinuērunt per annōs 447, quae prius rēgia dignitāte damnātā fuerat."/>
+                <ITEXT CH="At ille per quadrāgintā et duōs annōs ambulāvit per Āfricam, et vēnērunt ad ārās"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" Filistīnōrum per Lacum Salīnārum et vēnērunt inter Rusicadam et montēs Azāriae et vēnērunt per flūmen Malvam et trānsiērunt per Maritāniam ad columnās Herculis et nāvigāvērunt Tyrrēnum mare et pervēnērunt ad Hispāniam usque et ibi habitāvērunt per multōs annōs et crēvērunt et multiplicātī sunt nimis et gēns illōrum multiplicāta est nimis. Et posteā vēnērunt ad Hiberniam post mīlle et duōs annōs, postquam mersī sunt Aegyptiī in rubrum mare, et ad regiōnēs Dalriēta, in tempore, quō rēgnābat Brūtus apud Rōmānōs, ā quō cōnsulēs esse"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" coepērunt, deinde tribūnī plēbis ac dictātōrēs. Et cōnsulēs rūrsum rem pūblicam obtinuērunt per annōs 447, quae prius"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" rēgia dignitāte damnātā fuerat."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Brittōnēs vēnērunt in tertiā aetāte mundī ad Brittanniam; Scottī autem in quārtā obtinuērunt Hiberniam. Scottī autem, quī sunt in occidente, et Pictī dē aquilōne pugnābant ūnanimiter et ūnō impetū contrā Brittōnēs indēsinenter, quia sine armīs ūtēbantur Brittōnēs. Et post multum intervāllum temporis Rōmānī monarchiam tōtīus mundī obtinuērunt."/>
+                <ITEXT CH="Brittōnēs vēnērunt in tertiā aetāte mundī ad Brittanniam; Scottī autem in quārtā obtinuērunt Hiberniam. Scottī autem, quī sunt in occidente, et Pictī dē aquilōne pugnābant ūnanimiter et ūnō impetū contrā Brittōnēs indēsinenter, quia sine armīs ūtēbantur"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" Brittōnēs. Et post multum intervāllum temporis Rōmānī monarchiam tōtīus mundī obtinuērunt."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -14637,6 +14645,25 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="8"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Because their strong (men) had been drowned in the Red Sea."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="8850.03821656051" OwnPage="19" ItemID="1407944426" PTYPE="4" WIDTH="522" HEIGHT="161.885350318471" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 161.885 L0 161.885 L0 0 Z" copath="M0 0 L522 0 L522 161.885 L0 161.885 L0 0 Z" gXpos="136.0008" gYpos="8850.03821656051" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="The Altars of the Philistines and the Lake of Salt-Works are likely places in North Africa, since it appears that the journey taken is west from Egypt across North Africa, then across the Straits of Gibralter to Spain. It's possible that the Lacum Salīnārum refers to the Dead Sea, which is very salty, in which case the Altars of the Philistines would refer to a place that was in Philistine territory."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="From which consuls began to be, then tribunes of the plebs and dictators."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And consuls again held the republic for 447 years, which before had been condemned by royal dignity."/>
+                <ITEXT CH=" This refers to the period in which Rome had seven legendary kings, the last of whom was overthown and the consulship reinstated."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Because the Britons were using no weapons."/>
+                <ITEXT CH=" Perhaps this means the Britons were under-armed, rather than completely unarmed."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
