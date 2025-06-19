@@ -269,14 +269,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="66580.2576" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="160" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="161" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="162" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1341782820" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="765795233281.879" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1341782820" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="766281535824.308" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1341760484" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="10698977422.0008" gYpos="765794249025.669" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1341760484" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="10707702094.0008" gYpos="766280551568.099" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -3968,7 +3968,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="gentibus: peoples, clans, nations; plural feminine ablative  from gēns, gentis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Grātiānum: Grātiānus, king of the Romans"/>
+                <ITEXT CH="Grātiānum: Grātiān, emperor of the Western Roman Empire from 367 to 383"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Guic: Cant Guic, a city, likely in modern-day Brittany"/>
                 <para PARENT="Vocab"/>
@@ -4128,7 +4128,7 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Bold" CH="29"/>
-                <ITEXT CH=" Iterum repetendus est sermō dē Maximiānō tyrannō. Grātiānus cum frātre Valentiānō reganvit vī annīs et Ambrosius Mediolānēnsis epīscopus clārus habētur in catholicōrum dogmate. Valentiānus cum Theodosīō rēgnāvit annīs viīī. Synodus Cōnstantīnopolim colligitur ā cccxviīī patribus, in quā omnēs haeresēs damnantur. Hieronyum tum presbyter Bethleem tōtō mundō clāruit. Dum Grātiānus imperium regēbat in tōtō mundō, in Brittanniā per sēditiōnem mīlitum Maximus imperātor factus est. Quī mox dum in Galliās trānsfretāret, Grātiānus Parāssis Meroblaudis magistrī mīlitum prōditiōne superātus est et fugiēns Lugdūnī captus atque occīsus est. Maximus Victōrem fīlium suum cōnsortem fēcit. Martīnus Turonēnsis epīscopus in magnīs virtūtibus clāruit. Post multum intervāllum temporis ā Valentīniānō et Theodosīō cōnsulibus in tertiō ab Avvilevā lapide spoliātus indūmentīs rēgiīs sistitur et capite damnātur. Cuius fīlius Victor eōdem annō ab Argabaste comite interfectus est in Galliā."/>
+                <ITEXT CH=" Iterum repetendus est sermō dē Maximiānō tyrannō. Grātiānus cum frātre Valentiānō reganvit 6 annīs et Ambrosius Mediolānēnsis epīscopus clārus habētur in catholicōrum dogmate. Valentiānus cum Theodosīō rēgnāvit annīs 8. Synodus Cōnstantīnopolim colligitur ā 318 patribus, in quā omnēs haeresēs damnantur. Hieronyum tum presbyter Bethleem tōtō mundō clāruit. Dum Grātiānus imperium regēbat in tōtō mundō, in Brittanniā per sēditiōnem mīlitum Maximus imperātor factus est. Quī mox dum in Galliās trānsfretāret, Grātiānus Parāssis Meroblaudis magistrī mīlitum prōditiōne superātus est et fugiēns Lugdūnī captus atque occīsus est. Maximus Victōrem fīlium suum cōnsortem fēcit. Martīnus Turonēnsis epīscopus in magnīs virtūtibus clāruit. Post multum intervāllum temporis ā Valentīniānō et Theodosīō cōnsulibus in tertiō ab Avvilevā lapide spoliātus indūmentīs rēgiīs sistitur et capite damnātur. Cuius fīlius Victor eōdem annō ab Argabaste comite interfectus est in Galliā."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -4204,7 +4204,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ab: from, out of, by, since"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ambrosius: immortal, divine, of things belonging to the gods; ambrosial; singular masculine nominative from ambrosius, ambrosia, ambrosium"/>
+                <ITEXT CH="Ambrosius: St. Ambrose of Milan"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="annīs: years; plural masculine  from annus, annī"/>
                 <para PARENT="Vocab"/>
@@ -4230,7 +4230,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnsortem: consort; singular common accusative from cōnsors, cōnsortis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōnstantīnopolim: Constantinople; singular feminine accusative from Constantinopolis, Constantinopolis"/>
+                <ITEXT CH="Cōnstantīnopolim: Constantinople; singular feminine accusative from Constantinopolis, Constantinopolis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnsulibus: consuls; plural masculine  from cōnsul, cōnsulis"/>
                 <para PARENT="Vocab"/>
@@ -4294,13 +4294,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lapide: stone; singular masculine  from lapis, lapidis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lugduni: Lyons in France; Leyden (-Batava) in Belgium; singular neuter genitive from Lugdunum, Lugduni"/>
+                <ITEXT CH="Lugdūnī: Lyons, France;; singular neuter genitive from Lugdunum, Lugduni"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="magistrī: teacher; singular masculine genitive from magister, magistrī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="māgnīs: large; plural  dative from māgnus, māgna -um, major -or -us, maximus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="martinus: Mars, Roman god of war; warlike spirit, fighting, battle, army, force of arms; singular masculine nominative from Mars, Martis"/>
+                <ITEXT CH="Martinus: St. Martin of Tours"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="maximus: largest; singular masculine nominative from māgnus, māgna -um, major -or -us, maximus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -4364,37 +4364,39 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tum: then"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tyrannō: tyrant; singular masculine dative from tyrannus, tyrannī"/>
+                <ITEXT CH="tyrannō: tyrant; singular masculine ablative from tyrannus, tyrannī"/>
+		
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Argabaste&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Argabaste: Arbogast, a Roman officer of Frankish origin who killed Victor, the son of Magnus Maximus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Avvileva&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Avvileva: Aquileia, Italy"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Bethleem&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Bethleem: Bethlehem"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Hieronyum&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Hieronyum: Saint Jerome"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Maximiano&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Maximiānō: Magnus Maximus, emperor of the western Roman empire from 383 to 388, who took the throne by killing Gratian"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Mediolanensis&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Mediolanensis: of Milan"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Meroblaudis&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Meroblaudis: Flavius Merobaudes, a Roman army officer of Frankish origin who supported Magnus Maximus against Gratian (ablative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Parassis&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Parāssis: in Paris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Turonensis&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Turonensis: of Tours, France"/>
+		
                 <para PARENT="Vocab"/>
-                <ITEXT CH="valentiano: Valens; (Emperor Flavius Julius Valens 364-378 lost at Adrianople); singular masculine dative from Valens, Valentis"/>
+                <ITEXT CH="Valentiānō: Valens; (Emperor Flavius Julius Valens 364-378 lost at Adrianople); singular masculine dative from Valens, Valentis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="valentianus: Valens; (Emperor Flavius Julius Valens 364-378 lost at Adrianople); singular masculine nominative from Valens, Valentis"/>
+                <ITEXT CH="Valentiānus: Valens; (Emperor Flavius Julius Valens 364-378 lost at Adrianople); singular masculine nominative from Valens, Valentis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="valentiniano: Valentinian; (Emperor Flavius Valentinian I 364-375; II 375-392); singular masculine dative from Valentinianus, Valentiniani"/>
+                <ITEXT CH="Valentīniānō: Valentinian; (Emperor Flavius Valentinian I 364-375; II 375-392); singular masculine ablative from Valentinianus, Valentiniani"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="victor: victor; singular masculine nominative from victor, victōris"/>
+                <ITEXT CH="Victor: Victor, son of Magnus Maximus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="victorem: conqueror; victor; [in apposition =&gt; victorious, conquering]; singular masculine accusative from victor, victōris"/>
+                <ITEXT CH="Victorem: Victor, son of Magnus Maximus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="virtūtibus: virtues, manliness, power; plural feminine  from virtūs, virtūtis"/>
+                <ITEXT CH="virtūtibus: virtues, manliness, power; plural feminine ablative from virtūs, virtūtis"/>
                 <para PARENT="Vocab"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="(Argabaste Avvileva Bethleem Hieronyum Maximiano Mediolanensis Meroblaudis Parassis Turonensis ambrosius gratianus lugduni martinus theodosio valentiano valentianus valentiniano victorem)"/>
