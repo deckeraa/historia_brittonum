@@ -269,14 +269,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="66580.2576" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="160" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="161" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="162" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1972778760" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="769506053250.532" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1972778760" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="771583891386.368" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1972774920" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="10765552618.0008" gYpos="769505068994.323" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1972774920" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="10802830762.0008" gYpos="771582907130.159" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -4563,6 +4563,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Rōmānōrum: Romans; plural masculine genitive from Rōmānūs, -a -um"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="sablōnibus: with sand/dust; plural neuter ablative variant spelling of sabulīs, from sabulum, sabulī."/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="scelere: crime; singular neuter ablative from scelus, sceleris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sēcum: with oneself"/>
@@ -4583,8 +4585,6 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="triumphō: triumph; singular masculine ablative from triumphus, triumphī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;sablonibus&quot;, :part-of-speech :unknown}"/>
-                <para PARENT="Vocab"/>
                 <ITEXT CH="ūsque: until, all the way, up until"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vēnērunt: they came; 3rd person plural perfect active from veniō, venīre, vēnī, ventus"/>
@@ -4596,11 +4596,6 @@
                 <ITEXT CH="vicibus: times; plural feminine ablative from vicis, vicis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vindicandum: vindicating; singular neuter accusative future passive participle from vindicō, vindicāre, vindicāvī, vindicātus"/>
-                <para PARENT="Vocab"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="(sablonibus t) -- likely from sabulum, sabulī"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="2"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -4609,9 +4604,13 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Bold" CH="30"/>
-                <ITEXT CH=" Tribus vicibus occīsī sunt ducēs Rōmānōrum ā Brittannīs. Brittōnēs autem dum anxiēbantur ā barbarōrum gentibus, id est Scottōrum et Pictōrum, flāgitābant auxilium Rōmānōrum, et dum lēgātī mittēbantur cum magnō lūctū et cum sablōnibus super capita sua intrābant et portābant magna mūnera sēcum cōnsulibus Rōmānōrum prō admissō scelere occīsiōnis ducum et suscipiēbant cōnsulēs grāta dōna ab illīs, et prōmittēbant cum iūrāmentō accipere iugum Rōmānicī iūris, licet dūrum fuisset."/>
+                <ITEXT CH=" Tribus vicibus occīsī sunt ducēs Rōmānōrum ā Brittannīs. Brittōnēs autem dum anxiēbantur ā barbarōrum gentibus, id est Scottōrum et Pictōrum, flāgitābant auxilium Rōmānōrum, et dum lēgātī mittēbantur cum magnō lūctū et cum sablōnibus super capita sua intrābant et portābant magna mūnera sēcum cōnsulibus Rōmānōrum prō admissō scelere occīsiōnis ducum et suscipiēbant cōnsulēs grāta dōna ab illīs, et prōmittēbant cum iūrāmentō accipere iugum Rōmānicī iūris, licet"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" dūrum fuisset."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Et Rōmānī vēnērunt cum maximō exercitū ad auxilium eōrum et posuērunt imperātōrēs in Brittanniā et compositō imperātōre cum ducibus revertēbantur exercitū ad Rōmam usque, et sīc alternātim per 348 annōs faciēbant. Brittōnēs autem propter gravitātem imperiī occīdēbant ducēs Rōmānōrum et auxilium posteā petēbant. Rōmānī autem ad imperium auxiliumque et ad vindicandum veniēbant et spoliātā Brittanniā aurō argentōque cum aere et omnī pretiōsa veste et melle cum magnō triumphō revertēbantur."/>
+                <ITEXT CH="Et Rōmānī vēnērunt cum maximō exercitū ad auxilium eōrum et posuērunt imperātōrēs in Brittanniā et compositō imperātōre cum ducibus revertēbantur exercitū ad Rōmam usque, et sīc alternātim per 348 annōs faciēbant. Brittōnēs autem propter gravitātem imperiī occīdēbant ducēs Rōmānōrum et auxilium posteā petēbant. Rōmānī autem ad imperium auxiliumque et ad vindicandum veniēbant et spoliātā Brittanniā aurō argentōque cum aere et omnī pretiōsa veste et melle"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" cum magnō triumphō revertēbantur."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -14856,6 +14855,18 @@
                 <ITEXT CH=" and "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="lapide"/>
                 <ITEXT CH=" to make the sentence easier to parse."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="19635.821656051" OwnPage="45" ItemID="334191641" PTYPE="4" WIDTH="522" HEIGHT="132.993630573248" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 132.994 L0 132.994 L0 0 Z" copath="M0 0 L522 0 L522 132.994 L0 132.994 L0 0 Z" gXpos="136.0008" gYpos="19635.821656051" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And they promised with an oath to accept the yoke of Roman law,it being permitted to have been hard."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="melle"/>
+                <ITEXT CH=" literally means &quot;with honey&quot; but here likely indicates pleasant things in general."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
