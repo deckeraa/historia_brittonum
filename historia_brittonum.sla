@@ -269,14 +269,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="66580.2576" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="160" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="161" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="162" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1972778760" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="774614993028.671" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1972778760" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="776648621842.468" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1972774920" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="10857211246.0008" gYpos="774614008772.462" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1972774920" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="10893696238.0008" gYpos="776647637586.259" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -4853,11 +4853,19 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Bold" CH="32"/>
-                <ITEXT CH=" In tempore illīus venit sānctus Germānus ad praedicandum in Brittanniā et clāruit apud illōs in multīs virtūtibus et multī per eum salvī factī sunt et plūrimī periērunt."/>
+                <ITEXT CH=" In tempore illīus venit sānctus Germānus ad praedicandum in Brittanniā et clāruit apud illōs in multīs virtūtibus et multī per eum salvī factī sunt et plūrimī periērunt"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Aliquanta mīrācula, quae per illum fēcit deus, scrībendā dēcrēvī."/>
+                <ITEXT CH="Aliquanta mīrācula, quae per illum fēcit deus, scrībenda"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" dēcrēvī."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Prīmum mīrāculum dē mīrāculīs eīs: erat quīdam rēx inīquus atque tyrannus valdē, cui nōmen erat Benlī. Illum vir sānctus voluit vīsitāre et properāre ad inīquum rēgem, ut praedicāret illī. At cum ipse homō deī vēnisset ad ōstium urbis cum comitibus suīs, venit portārius et salūtāvit eōs et mīsērunt eum ad rēgem et rēx dūrum respōnsum dedit illīs et cum iūrāmentō dīxit: sī fuerint vel sī mānserint usque ad caput annī, nōn venient umquam in mediō urbis meae. "/>
+                <ITEXT CH="Prīmum mīrāculum dē mīrāculīs eīs: erat quīdam rēx inīquus atque tyrannus valdē, cui nōmen erat Benlī. Illum vir sānctus voluit vīsitāre et properāre ad inīquum rēgem, ut praedicāret illī. At cum ipse homō Deī vēnisset ad ōstium urbis cum comitibus suīs, vēnit portārius et salūtāvit eōs et mīsērunt"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" eum ad rēgem et rēx dūrum respōnsum dedit illīs et cum iūrāmentō dīxit: sī fuerint"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" vel sī mānserint usque ad caput annī, nōn venient umquam in mediō urbis meae. "/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -5035,11 +5043,6 @@
                 <ITEXT CH="vīsitāre: to visit; present infinitive from vīsitō, vīsitāre, vīsitāvī, vīsitātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="voluit: he wanted; 3rd person singular perfect active from volō, velle, voluī, -"/>
-                <para PARENT="Vocab"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="(Benli germanus)"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="2"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -5047,7 +5050,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="Dum ipsī expectārent ianuātōrem, ut nūntiāret illīs sermōnem tyrannī, diēs dēclīnābat ad vesperum et nox appropinquābat et nesciērunt, quō īrent. Inter ea venit ūnus dē servīs rēgis ē mediō urbis et inclīnāvit sē ante virum deī et nūntiāvit illīs omnia verba tyrannī et invītāvit illōs ad casam suam et exiērunt cum eō et benīgnē suscēpit eōs. Et ille nihil habēbat dē omnibus generibus iūmentōrum exceptā ūna vacca cum vitulō, et occīdit vitulum et coxit et posuit ante illōs. Et praecēpit sānctus Germānus, ut nōn cōnfringerētur os dē ossibus eius et sīc factum est et in crāstinō vitulus inventus est ante mātrem suam sānus et vīvus incolumīsque."/>
+                <ITEXT CH="Dum ipsī expectārent ianuātōrem, ut nūntiāret illīs sermōnem tyrannī, diēs dēclīnābat ad vesperum et nox appropinquābat et nesciērunt, quō īrent. Inter ea vēnit ūnus dē servīs rēgis ē mediō urbis et inclīnāvit sē ante virum deī et nūntiāvit illīs omnia verba tyrannī et invītāvit illōs ad casam suam et exiērunt cum eō et benīgnē suscēpit eōs. Et ille nihil habēbat dē omnibus generibus iūmentōrum exceptā ūna vacca cum vitulō, et occīdit vitulum et coxit et posuit ante illōs. Et praecēpit sānctus Germānus, ut nōn cōnfringerētur os dē ossibus eius et sīc factum est et in crāstinō vitulus inventus est ante mātrem suam sānus et vīvus incolumīsque."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -5184,7 +5187,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suscēpit: he undertook, he supported; 3rd person singular perfect active from suscipiō, suscipere, suscēpī, susceptus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tyrannī: tyrants; singular masculine genitive from tyrannus, tyrannī"/>
+                <ITEXT CH="tyrannī: of the tyrant; singular masculine genitive from tyrannus, tyrannī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūna: one; singular feminine nominative from ūnus -a -um, prīmus -a -um, singulī -ae -a, semel"/>
                 <para PARENT="Vocab"/>
@@ -14881,6 +14884,26 @@
                 <ITEXT CH=", glosses this sentance as "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Grātiānus et Aequitiuus in rēgnō Rōmānōrum in illō tempore, ā nātīvitāte Chrīstī autem 347 annōs."/>
                 <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="21144.6114649682" OwnPage="49" ItemID="331831881" PTYPE="4" WIDTH="522" HEIGHT="138.95541401274" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 138.955 L0 138.955 L0 0 Z" copath="M0 0 L522 0 L522 138.955 L0 138.955 L0 0 Z" gXpos="136.0008" gYpos="21144.6114649682" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Many were saved through him and many more perished."/>
+                <ITEXT CH=" Saint Germanus preached against Pelagianism, a heresy that denied original sin and argued that man could merit eternal life without the grace of God. Thus, it is likely that when the author wrote "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="plūrimī perriērunt"/>
+                <ITEXT CH=", he is referring to those who remained in heresy and thus incurred a spiritual death. "/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="I decided are to be written."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH="Saint Germanus and his companions sent the doorkeeper to the king while they remained outside, waiting for permission to enter."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="(Even) if you were or remained (waiting at the door) until the start of the year, you will not ever come into the middle of my city."/>
+                <para PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
