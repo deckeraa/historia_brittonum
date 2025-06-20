@@ -4620,7 +4620,7 @@
                 <ITEXT FONT="DejaVu Serif Bold" CH="31"/>
                 <ITEXT CH=" Factum est suprā dictum bellum, quod fuit inter Brittōnēs et Rōmānōs, quandō ducēs illōrum occīsī sunt, et occīsiōnem Maximī tyrannī trānsāctōque Rōmānōrum imperiō in Brittanniā per quadrāgintā annōs fuērunt sub metū. Guorthigirnus rēgnāvit in Brittanniā et dum ipse rēgnābat, urgēbātur ā metū Pictōrum Scottōrumque et ā Rōmānicō impetū nec nōn et ā timōre Ambrosiī. Intereā vēnērunt trēs ciulae ā Germāniā expulsae in exiliō, in quibus erant Hors et Hengīst, quī et ipsī frātrēs erant, fīliī Guictglis, fīliī Guigtā, fīliī Guecthā, fīliī VVoden, fīliī Frealaf, fīliī Fredulf, fīliī Fīnn, fīliī Fodepald, fīliī Geta, quī fuit, ut aiunt, fīlius deī. Nōn ipse est deus deōrum, āmēn, deus exercituum, sed ūnus est ab īdōlīs eōrum, quod ipsī colēbant."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Guorthigirnus suscēpit eōs benignē et trādidit eīs īnsulam, quae in linguā eōrum vocātur Tanet, Brittannīcō sermōne Ruoihm. Rēgnante Grātiānō secundō cum. Equitiō Saxonēs ā Guorthigirnō susceptī sunt annō 347 post passiōnem Chrīstī."/>
+                <ITEXT CH="Guorthigirnus suscēpit eōs benīgnē et trādidit eīs īnsulam, quae in linguā eōrum vocātur Tanet, Brittannīcō sermōne Ruoihm. Rēgnante Grātiānō secundō cum. Equitiō Saxonēs ā Guorthigirnō susceptī sunt annō 347 post passiōnem Chrīstī."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -4631,41 +4631,41 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ab: from, out of, by, since"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="āiunt: they said; 3rd person plural present active from aio, -, -"/>
+                <ITEXT CH="āiunt: they say; 3rd person plural present active from āiō, āiere, -"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ambrosii: immortal, divine, of things belonging to the gods; ambrosial; singular masculine genitive from ambrosius, ambrosia, ambrosium"/>
+                <ITEXT CH="Ambrosiī: of Ambrosius, possibly Ambrosius Aurelianus, a Romano-British commander of the same time period as Guorthigirnus. Other options involve Ambrosius (Merlinus) or Ambrose of Milan (unlikely, though mentioned in section 29)."/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="amen: amen, truly, verily"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="annō: year; singular masculine dative from annus, annī"/>
+                <ITEXT CH="annō: year; singular masculine ablative from annus, annī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="annōs: years; plural masculine accusative from annus, annī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="bellum: battle, war; singular neuter nominative from bellum, bellī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="benignē: kind, good, friendly; singular masculine vocative from benīgnus, benīgna -um, benīgnior -or -us, benīgnissimus -a -um"/>
+                <ITEXT CH="benīgnē: kind, good, friendly; adverb from benīgnus, benīgna -um, benīgnior -or -us, benīgnissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittannia: Britain"/>
+                <ITEXT CH="Brittanniā: in Britain"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittannīcō: Britannic (dative case)"/>
+                <ITEXT CH="Brittannīcō: Britannic (ablative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine accusative from Britto, Brittonis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="chrīstī: annointed one, Christ; singular masculine genitive from Chrīstus, Chrīstī"/>
+                <ITEXT CH="Chrīstī: annointed one, Christ; singular masculine genitive from Chrīstus, Chrīstī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ciulae: longship; singular feminine genitive or plural nominative variant spelling from ceola, ceolae"/>
+                <ITEXT CH="ciulae: longship; plural feminine nominative variant spelling from ceola, ceolae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="colēbant: they were worshiping; 3rd person plural imperfect active from colō, colere, coluī, cultus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <ITEXT CH="Deī: god, diety; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deōrum: of gods; plural masculine genitive from Deus, Dei"/>
+                <ITEXT CH="Deōrum: of gods; plural masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dictum: words, saying; singular neuter nominative perfect passive participle from dict.um"/>
+                <ITEXT CH="suprā dictum: the above-said"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ducēs: leaders; plural masculine nominative or accusative from dux, ducis"/>
                 <para PARENT="Vocab"/>
@@ -4677,7 +4677,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eōs: to them; plural masculine accusative from is, ea, id"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="equitiō: herd or stable of horses used for breeding; singular neuter dative from equitō, equitāre, equitāvī, equitātus"/>
+                <ITEXT CH="equitiō: herd or stable of horses used for breeding; singular neuter dative from equitō, equitāre, equitāvī, equitātus TODO possibly a scribal error for eō tempore?"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="erant: they were; 3rd person plural imperfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -4685,15 +4685,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="exercituum: of armies; plural masculine genitive from exercitus, exercitūs"/>
+                <ITEXT CH="exercituum: of armies. Lord of Hosts (armies) is a common epithet for God in the Bible; plural masculine genitive from exercitus, exercitūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="exiliō: exile; singular neuter dative from exilium, exili(i)"/>
+                <ITEXT CH="exiliō: exile; singular neuter ablative from exilium, exiliī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="expulsae: having been driven out; singular feminine genitive perfect passive participle from expellō, expellere, expulī, expulsus"/>
+                <ITEXT CH="expulsae: having been driven out; plural feminine nominative perfect passive participle from expellō, expellere, expulī, expulsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="factum: having been made; singular neuter nominative perfect passive participle from "/>
+                <ITEXT CH="factum: factum est = was made; singular neuter nominative perfect passive participle from faciō, facere, fēcī, factus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fīliī: sons; singular masculine genitive from fīlius, fīlī"/>
+                <ITEXT CH="fīliī: of the son; singular masculine genitive from fīlius, fīlī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fīlius: son; singular masculine nominative from fīlius, fīlī"/>
                 <para PARENT="Vocab"/>
@@ -4703,15 +4703,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fuit: he was; 3rd person singular perfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="germania: Germany; singular feminine nominative from Germānia, Germāniae"/>
+                <ITEXT CH="Germāniā: Germany; singular feminine ablative from Germānia, Germāniae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="gratiano: popularity/esteem/credit (w/bona); partiality/favoritism; unpopularity (w/mala) favor/goodwill/kindness/friendship; influence; gratitude; thanks (pl.); Graces; agreeableness, charm; grace; [Doctor Gratiae =&gt; St. Augustine of Hippo]; singular masculine dative from grātia, grātiae"/>
+                <ITEXT CH="Grātiānō: Gratian, emperor of the western Roman empire; singular masculine ablative from grātia, grātiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="īdōlīs: idols; plural neuter  from īdōlum, īdōlī"/>
+                <ITEXT CH="īdōlīs: idols; plural neuter ablative from īdōlum, īdōlī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illōrum: of those; plural masculine or neuter genitive from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="imperiō: command, dominion, empire; singular neuter dative from imperium, imperi(ī)"/>
+                <ITEXT CH="imperiō: command, dominion, empire; singular neuter ablative from imperium, imperi(ī)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="impetū: attack, assault, fury; singular masculine ablative from impetus, impetūs"/>
                 <para PARENT="Vocab"/>
@@ -4723,21 +4723,21 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="intereā: during"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ipse: itself; singular masculine nominative from ipse, ipsa, ipsum"/>
+                <ITEXT CH="ipse: himself; singular masculine nominative from ipse, ipsa, ipsum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ipsī: itself; sing. dative or plural masc. nom. from ipse, ipsa, ipsum"/>
+                <ITEXT CH="ipsī: themselves; plural masc. nom. from ipse, ipsa, ipsum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="linguā: tongue, language; singular feminine nominative from lingua, linguae"/>
+                <ITEXT CH="linguā: tongue, language; singular feminine ablative from lingua, linguae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="maximī: biggest; singular masculine genitive from māgnus, māgna -um, major -or -us, maximus -a -um"/>
+                <ITEXT CH="Maximī: of Magnus Maximus, emperor of the Western Roman Empire; singular masculine genitive from māgnus, māgna -um, major -or -us, maximus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="metū: fear; singular masculine ablative from metus, metūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nec: nor, not either"/>
+                <ITEXT CH="nec non: and also, certainly"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōn: not"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="occīsī: having been killed; plural masculine nominative perfect passive participle from "/>
+                <ITEXT CH="occīsī: occīsī sunt = they were killed; plural masculine nominative perfect passive participle from "/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="occīsiōnem: massacre, slaughter, murder; singular feminine accusative from occīsiō, occīsiōnis"/>
                 <para PARENT="Vocab"/>
@@ -4745,7 +4745,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pictōrum: of the Picts"/>
+                <ITEXT CH="Pictōrum: of the Picts"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="post: behind, after, since"/>
                 <para PARENT="Vocab"/>
@@ -4757,7 +4757,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quī: who; plural masculine nominative of quis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quibus: what; plural dative or ablative of qui"/>
+                <ITEXT CH="quibus: what; plural ablative of qui"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
                 <para PARENT="Vocab"/>
@@ -4767,69 +4767,69 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rēgnāvit: he reigned; 3rd person singular perfect active from rēgnō, rēgnāre, rēgnāvī, rēgnātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rōmānicō: Romanic; singular masculine dative from Romanicus, Romanica, Romanicum"/>
+                <ITEXT CH="Rōmānicō: Romanic; singular masculine ablative from Romanicus, Romanica, Romanicum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rōmānōrum: Romans; plural masculine genitive from Rōmānūs, -a -um"/>
+                <ITEXT CH="Rōmānōrum: Romans; plural masculine genitive from Rōmānūs, -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rōmānōs: Romans; plural masculine accusative from Rōmānūs, -a -um"/>
+                <ITEXT CH="Rōmānōs: Romans; plural masculine accusative from Rōmānūs, -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Saxonēs: The Saxons"/>
+		<para PARENT="Vocab"/>
+                <ITEXT CH="Scottōrum: of the Scots"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="secundō: second"/>
+                <ITEXT CH="secundō: following"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sermōne: conversation, speech; singular masculine  from sermō, sermōnis"/>
+                <ITEXT CH="sermōne: speech; singular masculine ablative from sermō, sermōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sub: below, under"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="suprā: over, above, beyond, before"/>
+                <ITEXT CH="suprā: above"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="suscēpit: he undertook, he supported; 3rd person singular perfect active from suscipiō, suscipere, suscēpī, susceptus"/>
+                <ITEXT CH="suscēpit: he supported, received; 3rd person singular perfect active from suscipiō, suscipere, suscēpī, susceptus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="susceptī: having been undertaken; plural masculine nominative perfect passive participle from "/>
+                <ITEXT CH="susceptī: susceptī sunt = were received; plural masculine nominative perfect passive participle from "/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="t: from t{:part-of-speech :suffix, :word &quot;t&quot;, :dictionary-entry &quot;t&quot;, :definition &quot;Scot, Scotsman, person from Scotland; Scots (pl.);&quot;}"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="timōre: fear; singular masculine  from timor, timōris"/>
+                <ITEXT CH="timōre: fear; singular masculine ablative from timor, timōris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trādidit: he handed over; 3rd person singular perfect active from trādō, trādere, trādidī, trāditus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsactō: having been accomplished; singular masculine dative perfect passive participle from transigo, transigere, transegi, transactus"/>
+                <ITEXT CH="trānsactō: having been accomplished; singular masculine ablative perfect passive participle from transigo, transigere, transegi, transactus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trēs: three; plural common nominative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tyrannī: tyrants; singular masculine genitive from tyrannus, tyrannī"/>
+                <ITEXT CH="tyrannī: of the tyrant; singular masculine genitive from tyrannus, tyrannī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Finn&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Finn: an ancestor of Hors and Hengist"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Fodepald&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Fodepald: Fodepald, an ancestor of Hors and Hengist"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Frealaf&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Frealaf: Fraelaf, an ancestor of Hors and Hengist"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Fredulf&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Fredulf: Fredulf, an ancestor of Hors and Hengist"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Geta&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Geta: Geta, an ancestor of Hors and Hengist"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Guectha&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Guectha: an ancestor of Hors and Hengist"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Guictglis&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Guictglis: an ancestor of Hors and Hengist"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Guigta&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Guigta: an ancestor of Hors and Hengist"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Guorthigirno&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Guorthigirnō: by Guorthigirnus (Vortigern) (ablative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Guorthigirnus&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Guorthigirnus: Guorthigirnus (Vortigern), a 5th-century warlord in Britian who invited in Hengist and Hors"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Hengist&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Hengist: a Saxon warrior who came to Britain during the reign of Guorthigirnus (Vortigern)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Hors&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Hors: a Saxon warrior who came to Britain during the reign of Guorthigirnus (Vortigern)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Ruoihm&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Ruoihm:  the island of Thanet, which laid off the southeast coast of England. It is now a peninsula, not an island."/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Tanet&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Tanet: the island of Thanet, which laid off the southeast coast of England. It is now a peninsula, not an island."/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;VVoden&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Woden: an ancestor of Hors and Hengist"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūnus: one"/>
                 <para PARENT="Vocab"/>
@@ -5047,7 +5047,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="Dum ipsī expectārent ianuātōrem, ut nūntiāret illīs sermōnem tyrannī, diēs dēclīnābat ad vesperum et nox appropinquābat et nesciērunt, quō īrent. Inter ea venit ūnus dē servīs rēgis ē mediō urbis et inclīnāvit sē ante virum deī et nūntiāvit illīs omnia verba tyrannī et invītāvit illōs ad casam suam et exiērunt cum eō et benignē suscēpit eōs. Et ille nihil habēbat dē omnibus generibus iūmentōrum exceptā ūna vacca cum vitulō, et occīdit vitulum et coxit et posuit ante illōs. Et praecēpit sānctus Germānus, ut nōn cōnfringerētur os dē ossibus eius et sīc factum est et in crāstinō vitulus inventus est ante mātrem suam sānus et vīvus incolumīsque."/>
+                <ITEXT CH="Dum ipsī expectārent ianuātōrem, ut nūntiāret illīs sermōnem tyrannī, diēs dēclīnābat ad vesperum et nox appropinquābat et nesciērunt, quō īrent. Inter ea venit ūnus dē servīs rēgis ē mediō urbis et inclīnāvit sē ante virum deī et nūntiāvit illīs omnia verba tyrannī et invītāvit illōs ad casam suam et exiērunt cum eō et benīgnē suscēpit eōs. Et ille nihil habēbat dē omnibus generibus iūmentōrum exceptā ūna vacca cum vitulō, et occīdit vitulum et coxit et posuit ante illōs. Et praecēpit sānctus Germānus, ut nōn cōnfringerētur os dē ossibus eius et sīc factum est et in crāstinō vitulus inventus est ante mātrem suam sānus et vīvus incolumīsque."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -5060,7 +5060,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="appropinquābat: he approached; 3rd person singular imperfect active from appropinquō, appropinquāre, appropinquāvī, appropinquātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="benignē: kind, good, friendly; singular masculine vocative from benīgnus, benīgna -um, benīgnior -or -us, benīgnissimus -a -um"/>
+                <ITEXT CH="benīgnē: kind, good, friendly; singular masculine vocative from benīgnus, benīgna -um, benīgnior -or -us, benīgnissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="casam: house; singular feminine accusative perfect passive participle from cadō, cadere, cecidī, cāsus"/>
                 <para PARENT="Vocab"/>
@@ -6526,7 +6526,7 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Bold" CH="39"/>
-                <ITEXT CH=" Nam super omnia mala adiciēns Guorthigirnus accēpit fīliam suī uxōrem sibi, et peperit eī fīlium. et hoc cum compertum esset ā sānctō Germānō, eum corripere venit cum omnī clērō Brittonum. et dum conventa esset magna synodus clēricōrum ac lāicōrum in ūnō conciliō, ipse rēx praemonuit fīliam suam, ut exīret ad conventum et ut daret fīlium suum in sinum Germānī et ut dīceret, quod ipse erat pater fīliī, et mulier fēcit sīcut erat ēdocta. Germānus autem eum benignē accēpit et dīcere coepit: pater tibi erō nec tē permittam, nisi mihi novācula cum forcipe pectineque dētur et ad patrem tuum carnālem tibi dare licētur. et obaudīvit puer et usque ad avum suum patrem carnālem Guorthigirnum perrēxit et puer illī dīxit: pater meus es, caput meum tondē et comam capitis meī. et ille siluit et tacuit et puerō respondēre nōluit, sed surrēxit et īrātus est valdē, ut ā faciē sānctī Germānī fugeret, et maledictus est et damnātus ā sānctō Germānō et omnī Brittonum conciliō."/>
+                <ITEXT CH=" Nam super omnia mala adiciēns Guorthigirnus accēpit fīliam suī uxōrem sibi, et peperit eī fīlium. et hoc cum compertum esset ā sānctō Germānō, eum corripere venit cum omnī clērō Brittonum. et dum conventa esset magna synodus clēricōrum ac lāicōrum in ūnō conciliō, ipse rēx praemonuit fīliam suam, ut exīret ad conventum et ut daret fīlium suum in sinum Germānī et ut dīceret, quod ipse erat pater fīliī, et mulier fēcit sīcut erat ēdocta. Germānus autem eum benīgnē accēpit et dīcere coepit: pater tibi erō nec tē permittam, nisi mihi novācula cum forcipe pectineque dētur et ad patrem tuum carnālem tibi dare licētur. et obaudīvit puer et usque ad avum suum patrem carnālem Guorthigirnum perrēxit et puer illī dīxit: pater meus es, caput meum tondē et comam capitis meī. et ille siluit et tacuit et puerō respondēre nōluit, sed surrēxit et īrātus est valdē, ut ā faciē sānctī Germānī fugeret, et maledictus est et damnātus ā sānctō Germānō et omnī Brittonum conciliō."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -6547,7 +6547,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="avum: forefather, godfather;    from av.um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="benignē: kind, good, friendly; singular masculine vocative from benīgnus, benīgna -um, benīgnior -or -us, benīgnissimus -a -um"/>
+                <ITEXT CH="benīgnē: kind, good, friendly; singular masculine vocative from benīgnus, benīgna -um, benīgnior -or -us, benīgnissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="brittonum: of the Britons, inhabitants of Britain; plural masculine genitive from Britto, Brittonis"/>
                 <para PARENT="Vocab"/>
