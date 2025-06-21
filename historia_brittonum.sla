@@ -269,14 +269,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="66580.2576" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="160" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="161" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="162" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1642693592" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="779585778675.439" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1642693592" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="781909531165.117" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1642702616" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="10946391274.0008" gYpos="779584794419.23" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1642702616" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="10988081326.0008" gYpos="781908546908.908" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -5428,7 +5428,15 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Bold" CH="34"/>
-                <ITEXT CH=" Solitō ex mōre suprādictus adfuit servus et dīxit illī sānctus Germānus: cavē, nē ūnus homō maneat dē hominibus tuīs in istā nocte in arce. Et ipse reversus est in arcem et dēdūxit fīliōs suōs, quōrum numerus erat novem, et ipsī ad suprā dictum hospitium cum ipsō reversī sunt. Et praecēpit sānctus Germānus manēre eōs ieiūnōs et clausīs iānuīs dīxit: vigilantēs ēstote et sī quid ēvēnerit in arce, nōlīte aspicere, sed ōrāte indēsinenter et ad Deum vestrum clāmāte. Et post modicum intervāllum noctis ignis dē caelō cecidit et combussit arcem et omnēs hominēs, quī cum tyrannō erant, et nusquam appāruērunt usque in hodiernum diem, et arx nōn aedificāta est usque hodiē."/>
+                <ITEXT CH=" Solitō"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" ex mōre suprādictus adfuit servus et dīxit illī sānctus Germānus: cavē, nē ūnus homō maneat dē hominibus tuīs in istā nocte in arce. Et ipse reversus est in arcem et dēdūxit fīliōs suōs, quōrum numerus erat novem, et ipsī ad suprā dictum hospitium cum ipsō reversī sunt. Et praecēpit sānctus Germānus manēre"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" eōs ieiūnōs et clausīs iānuīs dīxit: vigilantēs ēstote et sī quid"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" ēvēnerit in arce, nōlīte aspicere, sed ōrāte indēsinenter et ad Deum vestrum clāmāte. Et post modicum intervāllum noctis ignis dē caelō cecidit et combussit arcem et omnēs hominēs, quī cum tyrannō erant, et nusquam appāruērunt usque in hodiernum diem, et arx nōn aedificāta est usque"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" hodiē."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -14933,6 +14941,24 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Because the custom was with the most worst tyrant, that unless someone would come to serve in the citadel before the rising of the sun, he was killed."/>
                 <ITEXT CH=" The reader may benefit from pondering the symbolism of the times (sun setting, sun rising) and locations (outside the city, inside the citadel) given in this story."/>
                 <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="23642.5987261147" OwnPage="55" ItemID="4889001" PTYPE="4" WIDTH="522" HEIGHT="125.656050955415" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 125.656 L0 125.656 L0 0 Z" copath="M0 0 L522 0 L522 125.656 L0 125.656 L0 0 Z" gXpos="136.0008" gYpos="23642.5987261147" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Per the usual custom, the afore-mentioned slave (the doorkeeper of the citadel) was present."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And Saint Germanus ordered them to remain fasting and, having closed the doors, said."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Be vigilant and, whatever happens in the citadel, do not look, but pray unceasingly and cry out to your God."/>
+                <ITEXT CH=" The injunction not to look upon the destruction of the evil place is reminiscent of the destruction of Sodom."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The citadel wasn't rebuilt, all the way up until today."/>
+                <para PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
