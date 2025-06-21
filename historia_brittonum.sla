@@ -269,14 +269,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="66580.2576" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="160" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="161" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="162" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1499320148" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="790364564005.087" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1499320148" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="793594607596.566" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1499224452" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11139771646.0008" gYpos="790363579748.878" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1499224452" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11197721314.0008" gYpos="793593623340.357" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -6527,7 +6527,13 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Bold" CH="39"/>
-                <ITEXT CH=" Nam super omnia mala adiciēns Guorthigirnus accēpit fīliam suī uxōrem sibi, et peperit eī fīlium. et hoc cum compertum esset ā sānctō Germānō, eum corripere venit cum omnī clērō Brittonum. et dum conventa esset magna synodus clēricōrum ac lāicōrum in ūnō conciliō, ipse rēx praemonuit fīliam suam, ut exīret ad conventum et ut daret fīlium suum in sinum Germānī et ut dīceret, quod ipse erat pater fīliī, et mulier fēcit sīcut erat ēdocta. Germānus autem eum benīgnē accēpit et dīcere coepit: pater tibi erō nec tē permittam, nisi mihi novācula cum forcipe pectineque dētur et ad patrem tuum carnālem tibi dare licētur. et obaudīvit puer et usque ad avum suum patrem carnālem Guorthigirnum perrēxit et puer illī dīxit: pater meus es, caput meum tondē et comam capitis meī. et ille siluit et tacuit et puerō respondēre nōluit, sed surrēxit et īrātus est valdē, ut ā faciē sānctī Germānī fugeret, et maledictus est et damnātus ā sānctō Germānō et omnī Brittonum conciliō."/>
+                <ITEXT CH=" Nam super omnia mala adiciēns Guorthigirnus accēpit fīliam suī"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" uxōrem sibi, et peperit eī fīlium. Et hoc cum compertum esset ā sānctō Germānō, eum corripere vēnit cum omnī clērō Brittonum. Et dum conventa esset magna synodus clēricōrum ac lāicōrum in ūnō conciliō, ipse rēx praemonuit"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" fīliam suam, ut exīret ad conventum et ut daret fīlium suum in sinum Germānī et ut dīceret, quod ipse erat pater fīliī, et mulier fēcit sīcut erat ēdocta. Germānus autem eum benīgnē accēpit et dīcere coepit: pater tibi erō nec"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" tē permittam, nisi mihi novācula cum forcipe pectineque dētur et ad patrem tuum carnālem tibi dare licētur. Et obaudīvit puer et usque ad avum suum patrem carnālem Guorthigirnum perrēxit et puer illī dīxit: pater meus es, caput meum tondē et comam capitis meī. Et ille siluit et tacuit et puerō respondēre nōluit, sed surrēxit et īrātus est valdē, ut ā faciē sānctī Germānī fugeret, et maledictus est et damnātus ā sānctō Germānō et omnī Brittonum conciliō."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -6574,7 +6580,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="conventum: having come together; singular neuter nominative perfect passive participle from convent.um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="corripere: to grasp, shorten, hasten;  person  present active from corripiō, corripere, corripuī, correptus"/>
+                <ITEXT CH="corripere: to reproach;  person  present active from corripiō, corripere, corripuī, correptus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
@@ -15009,6 +15015,28 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Don't pass over (my) counsel ever."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="28724.7898089172" OwnPage="67" ItemID="1492957332" PTYPE="4" WIDTH="522" HEIGHT="269.656050955415" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 269.656 L0 269.656 L0 0 Z" copath="M0 0 L522 0 L522 269.656 L0 269.656 L0 0 Z" gXpos="136.0008" gYpos="28724.7898089172" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Now adding to all (his) evil (deed), Vortigern took his daughter to be his wife, and she bore a son to him. "/>
+                <ITEXT CH="The theme of illegimate or questionable paternity is recapitulated later in the account of Ambrosius, who is said to have had no father."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The king himself commanded his daughter to go out to the meeting, that she should give his son into the lap of Germanus and should say that he (Germanus) himself was the father of the child, and the woman did just as she had been told."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="I will by your father, yet I will not permit you, unless a knife with scissors and a comb is given to me and you are permitted to give them to your biological father."/>
+                <ITEXT CH=" Note: a more literal translation might be: "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="I will be your father and will not let you go, unless I am given a knife with forceps and a comb and you it is permitted to you to give them to your biological father"/>
+                <ITEXT CH=". It appears that Saint Germanus, after having been falsely accused of fathering the child, says he will accept the child but that the child's biological father must first permit the child to be tonsured (and therefore accepted into Germanus's religious order. This deflects the accusation and convinces the son to identify his biological father, exposing Vortigern's lie. "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
+                <ITEXT CH=" glosses the passage thusly: "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Germānus accēpit et dīxit pūrō: pater tibi erō. Et poscēbat Germānus novāculam et forcipem et pecten, ut daret ea in manum puerī. Et factum est et dīxit Germānus: ō fīlī, dā haec in manum patris tuī carnālis; et surrēxit puer et dedit pecten et forcipem et novaculum in manum Guorthigirnī et dīxit: pater mī, inquit, tondē mē, nam tū es pater meus carnālis, Germānus autem pater meus ē fide. Guorthigernum puduit et īrātus est valdē et effūgit ē conventū et omnēs Britōnēs maledīxērunt eī et Germānus damnāvit eum"/>
+                <ITEXT CH="."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
