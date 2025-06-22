@@ -269,14 +269,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="66580.2576" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="160" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="161" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="162" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1087220539" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="809548646687.413" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1087220539" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="810731246051.958" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1087212443" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11483950042.0008" gYpos="809547662431.204" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1087212443" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11505166858.0008" gYpos="810730261795.749" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -7750,7 +7750,11 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="Rēgnī tuī figūra tentōrium est; duo vermēs duo dracōnēs sunt; vermis rūfus dracō tuus est et stāgnum figūrā huius mundī est. At ille albus dracō illīus gentis, quae occupāvit gentēs et regiōnēs plūrimās in Brittanniā, et paene ā marī usque ad mare tenēbunt, et posteā gēns nostra surget, et gentem Anglōrum trāns mare virīliter dēiciet. Tū tamen dē istā arce vāde, quia eam aedificāre nōn potes, et multās prōvinciās circumī, ut arcem tūtam inveniās, et ego hīc manēbō. Et rēx adolēscentem dīxit: quō nōmine vocārīs? Ille respondit: Ambrosius vocor, id est, Embreis Guletic ipse vidēbātur. Et rēx dīxit: dē quā prōgeniē ortus es? At ille: ūnus est pater meus dē cōnsulibus Rōmānicae gentis. Et arcem dēdit illī cum omnibus rēgnīs occidentālis plāgae Brittanniae et ipse cum magis suīs ad sinistrālem plāgam pervēnit et usque ad regiōnem, quā vocātur Guunnessī, adfuit et urbem ibi, quae vocātur suō nōmine Cair Guorthigirn, aedificāvit."/>
+                <ITEXT CH="Rēgnī tuī figūra tentōrium est; duo vermēs duo dracōnēs sunt; vermis rūfus dracō tuus est et stāgnum figūrā huius mundī est. At ille albus dracō illīus gentis"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=", quae occupāvit gentēs et regiōnēs plūrimās in Brittanniā, et paene ā marī usque ad mare tenēbunt, et posteā gēns nostra surget, et gentem Anglōrum trāns mare virīliter dēiciet. Tū tamen dē istā arce vāde, quia eam aedificāre nōn potes, et multās prōvinciās circumī, ut arcem tūtam inveniās, et ego hīc manēbō. Et rēx adolēscentem dīxit: quō nōmine vocārīs? Ille respondit: Ambrosius vocor, id est, Embreis Guletic ipse vidēbātur. Et rēx dīxit: dē quā prōgeniē ortus es? At ille: ūnus est pater meus dē cōnsulibus Rōmānicae gentis. Et arcem dēdit illī"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" cum omnibus rēgnīs occidentālis plāgae Brittanniae et ipse cum magis suīs ad sinistrālem plāgam pervēnit et usque ad regiōnem, quā vocātur Guunnessī, adfuit et urbem ibi, quae vocātur suō nōmine Cair Guorthigirn, aedificāvit."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -7795,7 +7799,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dedit: he gave; 3rd person singular perfect active from dō, dare, dedī, datus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dēiciet: he will overthrow; 3rd person singular future active from dēiciō, dēicere, dēiēcī, dēiectus"/>
+                <ITEXT CH="dēiciet: (our people) will cast out; 3rd person singular future active from dēiciō, dēicere, dēiēcī, dēiectus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
@@ -15124,6 +15128,28 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And the worms began, so that one might expel the other, however the other put his shoulders, so that he might expel him from half of the tent, and thus they did three times: however finally the red worm was seen to be weaker and afterwards was stronger than the white (worm) and expelled him outside the confines of the tent; then they followed each other across the pond and the tent vanished."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="33713.8853503185" OwnPage="79" ItemID="1595557627" PTYPE="4" WIDTH="522" HEIGHT="138.038216560512" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 138.038 L0 138.038 L0 0 Z" copath="M0 0 L522 0 L522 138.038 L0 138.038 L0 0 Z" gXpos="136.0008" gYpos="33713.8853503185" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="The white dragon represents the Anglo-Saxons."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH="And he (Vortigern) gave the castle to him (Ambrosius) with all the kingdown of the western cost of Britain, and he himself with his magicians came to the northern coast up to the region which is call Guunnessi. I've chosen to gloss "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="sinistrālem"/>
+                <ITEXT CH=" as "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="northern"/>
+                <ITEXT CH=" to follow the scribe who wrote "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
+                <ITEXT CH=", apparently following a medieval convention of orienting maps with east at the top. The castle hadn't yet been built, so perhaps "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="arcem dēdit illī"/>
+                <ITEXT CH=" means he gave him the building site and the materials. "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
+                <ITEXT CH=" glosses this passage as: "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Dēdit igitur Guorthigirnus arcem Ambrosiō et rēgnum totius occidentālis Britanniae et ipse cum suīs magīs ad septentriōnālem plāgam īnsulae Britanniae pervēnit usque ad regiōnem cui est nōmen Guunis, et arcem ibi aedificāvit, cuius nōmen Caer Guorthigirn."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
