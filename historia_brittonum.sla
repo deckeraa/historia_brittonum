@@ -269,14 +269,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="66580.2576" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="160" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="161" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="162" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="523406810" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="815096916603.315" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="523406810" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="817492509241.307" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="523427178" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11583490618.0008" gYpos="815095932347.106" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="523427178" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11626469542.0008" gYpos="817491524985.098" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -8108,7 +8108,13 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Bold" CH="44"/>
-                <ITEXT CH=" Et Guorthemir contrā illōs quattuor bella avidē gessit. Prīmum bellum super flūmen Derguentid; secundum bellum super vadum, quod dīcitur in linguā eōrum Episford, in nostrā autem linguā Rithergabail, et ibi cecidit Hors cum fīliō Guorthigirnī, cuius nōmen erat Categirn. Tertium bellum in campō iuxtā lapidem titulī, quī est super rīpam Gallicī maris, commīsit et barbarī vīctī sunt et ille victor fuit et ipsī in fugam versī usque ad ciūlās suās mersī sunt in eās muliebriter intrantēs. Ille autem post modicum intervāllum mortuus est et ante mortem suam ad familiam suam dīxit, ut sepulchrum illīus in portū pōnerent, ā quō exierant, super rīpam maris, in quō vōbīs commendō: quamvīs in aliā parte portum Brittanniae teneant et habitāverint, tamen in istā terrā in aeternum nōn manēbunt. Illī autem mandātum eius contempsērunt et eum in locō, in quō imperāverat illīs, nōn sepeliērunt."/>
+                <ITEXT CH=" Et Guorthemir contrā illōs quattuor bella avidē gessit. Prīmum bellum super flūmen Derguentid; secundum bellum super vadum, quod dīcitur in linguā eōrum Episford, in nostrā autem linguā Rithergabail, et ibi cecidit Hors cum fīliō Guorthigirnī, cuius nōmen erat Categirn. Tertium bellum in campō iuxtā lapidem"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" titulī, quī est super rīpam Gallicī maris, commīsit et barbarī vīctī sunt et ille victor fuit et ipsī in fugam versī usque ad ciūlās suās mersī"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" sunt in eās muliebriter intrantēs. Ille autem post modicum intervāllum mortuus est et ante mortem suam ad familiam suam dīxit, ut sepulchrum illīus in portū pōnerent, ā quō exierant, super rīpam maris, in quō vōbīs commendō: quamvīs"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" in aliā parte portum Brittanniae teneant et habitāverint, tamen in istā terrā in aeternum nōn manēbunt. Illī autem mandātum eius contempsērunt et eum in locō, in quō imperāverat illīs, nōn sepeliērunt."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -8145,7 +8151,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="commendō: I entrust, commit, recommend; 1st person singular present active from commendō, commendāre, commendāvī, commendātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="commīsit: he entrusted, connected; 3rd person singular perfect active from committō, committere, commīsī, commissus"/>
+                <ITEXT CH="commīsit: he carried on (a fight); 3rd person singular perfect active from committō, committere, commīsī, commissus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="contempserunt: they contemned, they held in contempt; 3rd person plural perfect active from contemnō, contemnere, contempsī, contemptus"/>
                 <para PARENT="Vocab"/>
@@ -8237,7 +8243,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mortuus: dead; singular masculine nominative perfect participle from "/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="muliebriter: womanly (adverb from muliebris, muliebre)"/>
+                <ITEXT CH="muliebriter: cowardly, womanly (adverb from muliebris, muliebre)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōmen: name; singular neuter nominative from nōmen, nōminis"/>
                 <para PARENT="Vocab"/>
@@ -8257,7 +8263,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="prīmum: first; singular neuter nominative from prīmus, prīma, prīmum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quamvīs: as much, as much as one wants, however"/>
+                <ITEXT CH="quamvīs: although"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quattuor: 4"/>
                 <para PARENT="Vocab"/>
@@ -8291,7 +8297,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="titulī: inscription, token; singular masculine genitive from titulus, titulī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Categirn&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Categirn: a son of Vortigern"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="UNKNOWN: {:word &quot;Derguentid&quot;, :part-of-speech :unknown}"/>
                 <para PARENT="Vocab"/>
@@ -8301,7 +8307,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Guorthigirnī: of Guorthigirnus (Vortigern) (genitive case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Hors&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Hors: Hors, a Saxon warrior"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="UNKNOWN: {:word &quot;Rithergabail&quot;, :part-of-speech :unknown}"/>
                 <para PARENT="Vocab"/>
@@ -15152,6 +15158,31 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And there three times he confined, beseiged, struck, crushed, and terrified them."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="35380.8917197452" OwnPage="83" ItemID="927341674" PTYPE="4" WIDTH="522" HEIGHT="124.738853503186" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 124.739 L0 124.739 L0 0 Z" copath="M0 0 L522 0 L522 124.739 L0 124.739 L0 0 Z" gXpos="136.0008" gYpos="35380.8917197452" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Next to the inscribed stone."/>
+                <ITEXT CH=" The battle took place next to some sort of stone monument."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="They themselves turned in flight until their boats, and, entering womanly, hid in them."/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="mersī sunt "/>
+                <ITEXT CH="could be translated as "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="they drowned"/>
+                <ITEXT CH="; "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
+                <ITEXT CH=" glosses this as "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Saxonēs in fugam versī sunt usque ad suās ciūlās muliebriter"/>
+                <ITEXT CH="."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Although they (the Saxons) in another part of Britain might hold a port and have lived in it, yet in this land they will not ever dwell. "/>
+                <ITEXT CH="Vortimer may be invoking some sort of magic where his buried body would prevent the Saxons from conquering the place where it was buried."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
