@@ -269,14 +269,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="66580.2576" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="160" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="161" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="162" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1129075410" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="801135060086.854" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1129075410" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="806564517449.776" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1129105442" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11333003302.0008" gYpos="801134075830.645" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1129105442" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11430412282.0008" gYpos="806563533193.567" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -7316,9 +7316,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōgnōscat: they recognize, know; 3rd person singular present active subjunctive from cognosco, cognoscere, cognovi, cognitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="comperior: to discover, to find guilty; 1st person singular present passive from comperio, comperire, comperi, compertus"/>
+                <ITEXT CH="comperior: I ascertain; 1st person singular present passive (though from context, active) from comperio, comperire, comperi, compertus;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="conclūsīs: having been concluded; plural dative perfect passive participle from conclūdō, conclūdere, conclūsī, conclūsus"/>
+                <ITEXT CH="conclūsīs: having been enclosed; plural ablative perfect passive participle from conclūdō, conclūdere, conclūsī, conclūsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="conventiō: agreement, meeting of people; singular feminine nominative from conventiō, conventiōnis"/>
                 <para PARENT="Vocab"/>
@@ -7372,7 +7372,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="interficiāris: you kill; 2nd person singular present passive subjunctive from interficiō, interficere, interfēcī, interfectus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="invenietis: finding; 2nd person plural future active from invenio, invenire, inveni, inventus"/>
+                <ITEXT CH="invenietis: you will find; 2nd person plural future active from invenio, invenire, inveni, inventus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="invītātī: having been invited; plural masculine nominative perfect passive participle from "/>
                 <para PARENT="Vocab"/>
@@ -7464,7 +7464,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sanguis: blood; singular masculine nominative from sanguis, sanguinis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="satagam: I will be busy, hard pressed; 1st person singular present active subjunctive from satagō, satagere, satēgī, satāctus"/>
+                <ITEXT CH="satagam: I will be handling everything (literally 'I will bustle about, have my hands full'); 1st person singular present active subjunctive from satagō, satagere, satēgī, satāctus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
@@ -7520,7 +7520,17 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Bold" CH="42"/>
-                <ITEXT CH=" Et in crāstinō conventiō facta est, ut puer interficerētur. Et puer ad rēgem dīxit: cūr virī tuī mē ad tē dētulērunt? Cui rēx ait: ut interficiāris et sanguis tuus circā arcem istam aspergētur, ut possit aedificārī. Respondit puer rēgī: quis tibi mōnstrāvit? Et rēx: magī meī mihi dīxēre. Et puer dīxit: ad mē vocentur. Et invītātī sunt magī et puer illīs dīxit: quis revēlāvit vōbīs, ut ista arx ā sanguine meō aspergerētur? Et nisi aspergerētur ā sanguine meō, in aeternum nōn aedificābitur? Sed hoc ut cognōscat is, quis mihi dē mē palam fēcit? Iterum puer dīxit, modo tibi, ō rēx, ēlūcubrābō et in vēritāte tibi omnia satagam; sed magōs tuōs percūnctor: quid in pavīmentō istīus locī est? Placet mihi, ut ostendant tibi, quid sub pavīmentō habētur. At illī dīxēre: nescīmus. Et ille dīxit: comperior: stāgnum in mediō pavīmentī est; venīte et fodite et sīc inveniētis. Vēnērunt et fōdērunt, et ruit. Et puer ad magōs dīxit: prōferte mihi, quid est in stāgnō? Et siluērunt et nōn potuērunt revēlāre illī. Et ille dīxit illīs: ego vōbīs revēlābō; duo vāsa sunt et sīc inveniētis. Vēnērunt et vīdērunt sīc. Et puer ad magōs dīxit: quid in vāsīs conclūsīs habētur? At ipsī siluērunt et nōn potuērunt revēlārī illī. "/>
+                <ITEXT CH=" Et in crāstinō conventiō facta est, ut puer interficerētur. Et puer ad rēgem dīxit: cūr virī tuī mē ad tē dētulērunt? Cui rēx ait: ut interficiāris et sanguis tuus circā arcem istam aspergētur, ut possit aedificārī. Respondit puer rēgī: quis tibi mōnstrāvit? Et rēx: magī meī mihi dīxēre. Et puer dīxit: ad mē vocentur"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=". Et invītātī sunt magī et puer illīs dīxit: quis revēlāvit vōbīs, ut ista arx ā sanguine meō aspergerētur"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH="? Et nisi aspergerētur ā sanguine meō, in aeternum nōn aedificābitur? Sed hoc"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" ut cognōscat is, quis mihi dē mē palam fēcit? Iterum puer dīxit, modo tibi, ō rēx, ēlūcubrābō"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" et in vēritāte tibi omnia satagam; sed magōs tuōs percūnctor: quid in pavīmentō istīus locī est? Placet mihi, ut ostendant tibi, quid sub pavīmentō habētur. At illī dīxēre: nescīmus. Et ille dīxit: comperior: stāgnum in mediō pavīmentī est; venīte et fodite et sīc inveniētis. Vēnērunt et fōdērunt, et ruit"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=". Et puer ad magōs dīxit: prōferte mihi, quid est in stāgnō? Et siluērunt et nōn potuērunt revēlāre illī. Et ille dīxit illīs: ego vōbīs revēlābō; duo vāsa sunt et sīc inveniētis. Vēnērunt et vīdērunt sīc. Et puer ad magōs dīxit: quid in vāsīs conclūsīs habētur? At ipsī siluērunt et nōn potuērunt revēlārī illī. "/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -15088,6 +15098,36 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="O human without a father, you will not have good."/>
                 <ITEXT CH=" This is an insult and a curse."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="32136.3057324841" OwnPage="75" ItemID="1095903634" PTYPE="4" WIDTH="522" HEIGHT="124.28025477707" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 124.28 L0 124.28 L0 0 Z" copath="M0 0 L522 0 L522 124.28 L0 124.28 L0 0 Z" gXpos="136.0008" gYpos="32136.3057324841" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Let them be called to me"/>
+                <ITEXT CH=". "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="vocentur"/>
+                <ITEXT CH=" is a iussive subjunctive."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Who revealed to you, that this castle should be sprinkled with my blood?"/>
+                <ITEXT CH=" The "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="should"/>
+                <ITEXT CH=" comes from "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="aspergerētur"/>
+                <ITEXT CH=" being a iussive subjunctive in this sentence (however, in the next sentence it is not a iussive subjunctive, but is subjunctive because it is in a conditional statement)."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="But so that he might know this, who appointed me openly?"/>
+                <ITEXT CH=" The boy (Ambrosius) is challenging the magicians."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Again the boy said: &quot;Now to you, O king, I will burn the midnight oil and handle everything in truth for you.&quot;"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="They came and dug, and it collapsed."/>
+                <ITEXT CH=" Apparently there was an underground lake underneath where they were building; perhaps this explains where the building materials went."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
