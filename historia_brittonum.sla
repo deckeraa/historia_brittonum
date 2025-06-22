@@ -269,14 +269,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="66580.2576" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="160" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="161" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="162" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="107392816" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="798474211516.627" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="107392816" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="800593495891.875" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="107395632" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11285265466.0008" gYpos="798473227260.418" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="107395632" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11323287190.0008" gYpos="800592511635.666" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -7113,7 +7113,11 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Bold" CH="41"/>
-                <ITEXT CH=" Et ipse lēgātōs ex cōnsiliō magōrum per ūniversam Brittanniam mīsit, utrum īnfantem sine patre invenīrent. Et lūstrandō omnēs prōvinciās regiōnēsque plūrimās vēnēre ad campum Ellētī, quī est in regiōne, quae vocātur Gleguissing, et pilae lūdum faciēbant puerī. Et ecce duo inter sē lītigābant, et dīxit alter alterī: ō homō sine patre, bonum nōn habēbis. At illī dē puerō ad puerōs dīligenter percūnctābantur, et cūnctantēs mātrem, sī patrem habēret. Illa negāvit et dīxit: nesciō quōmodo in uterō meō conceptus est, sed ūnum sciō, quia virum nōn cognōvī umquam, et iūrāvit illīs patrem nōn habēre. Et illī eum sēcum dūxēre usque ad Guorthigirnum rēgem et eum īnsinuāvērunt regī."/>
+                <ITEXT CH=" Et ipse lēgātōs ex cōnsiliō magōrum per ūniversam Brittanniam mīsit, utrum īnfantem sine patre invenīrent. Et lūstrandō omnēs prōvinciās regiōnēsque plūrimās vēnēre ad campum Ellētī, quī est in regiōne, quae vocātur Gleguissing, et pilae"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" lūdum faciēbant puerī. Et ecce duo inter sē lītigābant, et dīxit alter alterī: ō homō sine patre, bonum"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" nōn habēbis. At illī dē puerō ad puerōs dīligenter percūnctābantur, et cūnctantēs mātrem, sī patrem habēret. Illa negāvit et dīxit: nesciō quōmodo in uterō meō conceptus est, sed ūnum sciō, quia virum nōn cognōvī umquam, et iūrāvit illīs patrem nōn habēre. Et illī eum sēcum dūxēre usque ad Guorthigirnum rēgem et eum īnsinuāvērunt regī."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -7142,7 +7146,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cunctābantur: they were delayed; 3rd person plural imperfect passive from cunctō, cunctāre, cunctāvī, cunctātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cunctantēs: hesitating, delaying; plural common nominative from cunctans, cunctantis (gen.), cunctantior -or -us, cunctantissimus -a -um"/>
+                <ITEXT CH="cunctantēs: questioning (literally delaying); plural common nominative participle from cunctō, cunctāre, cunctāvī, cunctātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="de: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
@@ -7200,7 +7204,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lūdum: school, game; singular masculine accusative from lūdus, lūdī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lūstrandō: illuminating, purifying, traversing; singular masculine dative future passive participle from lūstrō, lūstrāre, lūstrāvī, lūstrātus"/>
+                <ITEXT CH="lūstrandō: having examined; singular masculine ablative future passive participle from lūstrō, lūstrāre, lūstrāvī, lūstrātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="magōrum: of magicians; plural masculine genitive from magus, magī"/>
                 <para PARENT="Vocab"/>
@@ -7225,6 +7229,8 @@
                 <ITEXT CH="patrem: father; singular masculine accusative from pater, patris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="percūnctābantur: they were questioned strictly; variant spelling from percontor, percontārī, percontātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pilae: ball; singular feminine genitive from pila, pilae"/>
                 <para PARENT="Vocab"/>
@@ -7435,6 +7441,8 @@
                 <ITEXT CH="pavīmentī: floor, pavement, tiling; singular neuter genitive from pavīmentum, pavīmentī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pavīmentō: floor, pavement, tiling; singular neuter dative from pavīmentum, pavīmentī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="percůnctor: I question strictly; variant spelling from percontor, percontārī, percontātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="placet: it pleases; 3rd person singular present active from placeō, placēre, placuī, placitus"/>
                 <para PARENT="Vocab"/>
@@ -15086,6 +15094,18 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="It will never be built, ever. "/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="31131.0573248408" OwnPage="73" ItemID="501009312" PTYPE="4" WIDTH="522" HEIGHT="107.770700636942" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 107.771 L0 107.771 L0 0 Z" copath="M0 0 L522 0 L522 107.771 L0 107.771 L0 0 Z" gXpos="136.0008" gYpos="31131.0573248408" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And boys were playing a game with a ball."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="O human without a father, you will not have good."/>
+                <ITEXT CH=" This is an insult and a curse."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
