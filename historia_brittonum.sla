@@ -269,14 +269,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="66580.2576" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="160" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="161" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="162" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1833745991" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="822507504210.113" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1833745991" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="824894807600.223" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1833637703" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11716442722.0008" gYpos="822506519953.904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1833637703" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11759272930.0008" gYpos="824893823344.014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -8549,12 +8549,18 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="36664.1424" OwnPage="87" ItemID="1996567591" PTYPE="4" WIDTH="522" HEIGHT="317.71747261149" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 317.717 L0 317.717 L0 0 Z" copath="M0 0 L522 0 L522 317.717 L0 317.717 L0 0 Z" gXpos="136.0008" gYpos="36664.1424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="36664.1424" OwnPage="87" ItemID="1996567591" PTYPE="4" WIDTH="522" HEIGHT="345.233396178344" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 345.233 L0 345.233 L0 0 Z" copath="M0 0 L522 0 L522 345.233 L0 345.233 L0 0 Z" gXpos="136.0008" gYpos="36664.1424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Bold" CH="46"/>
-                <ITEXT CH=" Et Hengistus omnī familiae suae iussit, ut ūnusquisque artavum suum sub pede in mediō ficōnis suī pōneret. Et quandō clāmāverō ad vōs et dīxerō: eu Saxonēs eniminit saxās, cultellōs vestrōs ex ficōnibus vestrīs ēdūcite et in illōs irruite et fortiter contrā illōs resistite. Et rēgem illōrum nōlīte occīdere, sed eum, prō causā fīliae meae, quam dedī illī in coniugium, tenente, quia melius est nōbīs, ut ex manibus nostrīs redimātur. Et conventum addūxērunt et in ūnum convēnērunt, et Saxonēs amīcāliter locūtī in mente interim vulpicīnō mōre agēbant et vir iuxtā virum sociāliter sēdērunt. Hengistus sīcut dīxerat, vōciferātus est et omnēs seniōrēs trecentī Guorthigirnī rēgis iugulātī sunt et ipse sōlus captus et catēnātus est et regiōnēs plūrimās prō redēmptiōne enimae suae illīs tribuit, id est Estsaxum, Sutsaxum."/>
+                <ITEXT CH=" Et Hengistus omnī familiae suae iussit, ut ūnusquisque artavum suum sub pede in mediō ficōnis suī pōneret. Et quandō clāmāverō ad vōs et dīxerō: &quot;eu Saxonēs eniminit"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" saxās&quot;, cultellōs vestrōs ex ficōnibus vestrīs ēdūcite et in illōs irruite et fortiter contrā illōs resistite. Et rēgem illōrum nōlīte occīdere, sed eum, prō causā fīliae meae, quam dedī illī in coniugium, tenente, quia melius"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" est nōbīs, ut ex manibus nostrīs redimātur. Et conventum addūxērunt et in ūnum convēnērunt, et Saxonēs amīcāliter"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" locūtī in mente interim vulpicīnō mōre agēbant et vir iuxtā virum sociāliter sēdērunt. Hengistus sīcut dīxerat, vōciferātus est et omnēs seniōrēs trecentī Guorthigirnī rēgis iugulātī sunt et ipse sōlus captus et catēnātus est et regiōnēs plūrimās prō redēmptiōne animae suae illīs tribuit, id est Estsaxum, Sutsaxum."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -8569,7 +8575,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="amīcus, amīcī: friend;    from amīcus, amīcī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="artabum: Egyptian dry measure (= 3.5 Roman modii); plural feminine genitive from artaba, artabae"/>
+                <ITEXT CH="artavum: small knife; quill-sharpening knife; singular masculine accusative from artavus, artavī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="captus: having been seized; singular masculine nominative perfect passive participle from capiō, capere, cēpī, captus"/>
                 <para PARENT="Vocab"/>
@@ -8613,7 +8619,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="familiae: family; singular feminine genitive from familia, familiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fi: happen, come about; result (from); take place, be held, occur, arise (event); be made/created/instituted/elected/appointed/given; be prepared/done; develop; be made/become; (facio PASS); [fiat =&gt; so be it, very well; it is being done]; 2nd person singular present active imperative from fīō, fierī, factus sum"/>
+                <ITEXT CH="ficōnis: shoe; this word wasn't in any dictionary I consulted; by context it must mean shoe. "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
+                <ITEXT CH=" glosses this passage as "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Sed Saxōnes habēbant secum cultrōs inter plantās et soleās"/>
+                <ITEXT CH="."/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fīliae: daughters; singular feminine genitive from fīlia, fīliae"/>
                 <para PARENT="Vocab"/>
@@ -15194,6 +15204,31 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="With his elders by birth."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="37012.4585987261" OwnPage="87" ItemID="1995124679" PTYPE="4" WIDTH="522" HEIGHT="120.152866242039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 120.153 L0 120.153 L0 0 Z" copath="M0 0 L522 0 L522 120.153 L0 120.153 L0 0 Z" gXpos="136.0008" gYpos="37012.4585987261" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Hey, Saxons, get your knives"/>
+                <ITEXT CH=". "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="eniminit"/>
+                <ITEXT CH=" is not a Latin word and appears to be a transliteration of the Anglo-Saxon phrase "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nemet oure saxas"/>
+                <ITEXT CH=", which means "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="get your knives"/>
+                <ITEXT CH="."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Because it is better for us, that he might be redeemed out of our hands."/>
+                <ITEXT CH=" They held Vortigern hostage."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The Saxons spoke spoke meanwhile they acted according to a foxy (sly) custom in their mind, and man set next to man sociably."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Hengist had thus spoken, was vicious and all 300 elders of King Vortigern were slain and he himself (Vortigern) was captured and chained and he assigned to them more regions, that is Essex and Sussex, for the redemption of his soul."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
