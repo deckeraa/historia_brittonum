@@ -269,14 +269,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="66580.2576" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="160" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="161" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="162" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1512430570" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="834582175292.032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1512430570" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="836046609084.576" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1512419530" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11933072362.0008" gYpos="834581191035.823" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1512419530" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11959345522.0008" gYpos="836045624828.367" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -9639,7 +9639,11 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Bold" CH="51"/>
-                <ITEXT CH=" Audītā morte Paladīī epīscopī alius lēgātus Patricius Theodosīō et Valentiānō rēgnantibus ā Caelestīnō pāpa Rōmānō et angelō deī, cui nōmen erat Victor, monente et suādente sānctō Germānō epīscopō ad Scottōs in fidem Chrīstī convertendōs mittitur. Mīsit Germānus seniōrem cum illō Segerum ad quendam hominem mīrābilem summum epīscopum Amatheam rēgem in propinquō habitantem. Ibi sānctus sciēns omnia, quae ventūra essent illī, epīscopālem, gradum Amathēō rēge epīscopus sānctus accēpit et nōmen quod est Patricius sūmpsit, quia prius Maun vocābātur. Auxilius et Isērīnus et cēterī īnferiōrī gradū simul ōrdinātī sunt cum eō."/>
+                <ITEXT CH=" Audītā"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" morte Paladīī epīscopī alius lēgātus Patricius Theodosīō et Valentiānō rēgnantibus ā Caelestīnō pāpa Rōmānō et angelō deī, cui nōmen erat Victor, monente et suādente sānctō Germānō epīscopō ad Scottōs in fidem Chrīstī convertendōs mittitur. Mīsit Germānus seniōrem cum illō Segerum"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" ad quendam hominem mīrābilem summum epīscopum Amatheam rēgem in propinquō habitantem. Ibī sānctus sciēns omnia, quae ventūra essent illī, epīscopālem, gradum Amathēō rēge epīscopus sānctus accēpit et nōmen quod est Patricius sūmpsit, quia prius Maun vocābātur. Auxilius et Isērīnus et cēterī īnferiōrī gradū simul ōrdinātī sunt cum eō."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -15269,6 +15273,21 @@
                 <ITEXT CH=". This is similar to John 3:27 in the Vulgate: "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="nōn potest homō accipere quicquam nisi fuerit eī datum dē caelō"/>
                 <ITEXT CH="."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="41915.4649681529" OwnPage="99" ItemID="1479231242" PTYPE="4" WIDTH="522" HEIGHT="138.955414012737" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 138.955 L0 138.955 L0 0 Z" copath="M0 0 L522 0 L522 138.955 L0 138.955 L0 0 Z" gXpos="136.0008" gYpos="41915.4649681529" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Having heard of the death of the bishop Paladius, another legate, Patrick, while Theodosius and Valentianus were reigning (over the Roman empire), was sent by Celestine the Roman Pope and by an angel of God, whose name was Victor, by the urging and persuading of the bishop Saint Germanus, to be sent for converting the Scots to Christ."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="(Saint) Germanus sent with him the elder Segerus to a certain marvelous man, the archbishop king Amatheas in the neighboring land. There, the holy man knowing everything, which was to come to him, the holy bishop received the rank (of bishop) from Amatheus and took up the name which is Patrick, because before he was called Maun."/>
+                <ITEXT CH=" Segerus appears to be a companion of Patrick, but is not mentioned again."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Auxilius and Isērīnus and others were ordained to lower ranks (in the church hierarchy) with him."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
