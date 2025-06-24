@@ -269,14 +269,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="66580.2576" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="160" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="161" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="162" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1437024608" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="841470540282.243" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1437024608" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="844352435462.664" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1437053872" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="12056655358.0008" gYpos="841469556026.034" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1437053872" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="12108358954.0008" gYpos="844351451206.455" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -10167,7 +10167,11 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="Prīma petītiō eius est, ut dīcunt Scottī, ut susciperet ūnusquisque paenitentiam, licet in extrēmō vītae suae statū: secunda, ut nē ā barbarīs cōnsūmentur in aeternum: tertia, ut nōn supervīxerit aliquis Hibernensium in adventū iūdiciī, quia dēlēbuntur prō honōre Patriciī septem annīs ante iūdicium. In illō autem tumulō benedīxit populīs Hiberniae et ideō ascendit, ut ōrāret prō eīs et vidēret frūctum labōris suī. Et vēnērunt ad eum avēs multī colōris innumerābilēs, ut benedīceret illīs, quod significat omnēs sānctōs utriusque sexūs Hibernensium pervenīre ad eum in diē iūdiciī ad patrem et ad magistrum suum, ut sequantur illum ad iūdicium. Posteā in senectūte bonā migrāvit, ubi nunc laetātus in saecula saeculōrum. Āmēn."/>
+                <ITEXT CH="Prīma petītiō eius est, ut dīcunt Scottī, ut susciperet ūnusquisque paenitentiam, licet"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" in extrēmō vītae suae statū: secunda, ut nē ā barbarīs cōnsūmentur in aeternum: tertia, ut nōn supervīxerit"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" aliquis Hibernensium in adventū iūdiciī, quia dēlēbuntur prō honōre Patriciī septem annīs ante iūdicium. In illō autem tumulō benedīxit populīs Hiberniae et ideō ascendit, ut ōrāret prō eīs et vidēret frūctum labōris suī. Et vēnērunt ad eum avēs multī colōris innumerābilēs, ut benedīceret illīs, quod significat omnēs sānctōs utriusque sexūs Hibernensium pervenīre ad eum in diē iūdiciī ad patrem et ad magistrum suum, ut sequantur illum ad iūdicium. Posteā in senectūte bonā migrāvit, ubi nunc laetātus in saecula saeculōrum. Āmēn."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -15315,6 +15319,18 @@
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="On which hill he gently requested, sending three petitions into the air for these, those of the Irish who received the faith."/>
                 <ITEXT CH=" See next page for the contents of the three petitions."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="44440.1712" OwnPage="105" ItemID="1869493216" PTYPE="4" WIDTH="522" HEIGHT="78.7587363057683" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 78.7587 L0 78.7587 L0 0 Z" copath="M0 0 L522 0 L522 78.7587 L0 78.7587 L0 0 Z" gXpos="136.0008" gYpos="44440.1712" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Even if at the end of his life."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="That no one of Ireland will live into the Day of Judgement, because they will be removed, for the honor of Patrick, seven years before judgement."/>
+                <ITEXT CH=" The gloss I've given here is less literal; presumably Patrick wasn't simply calling for the Irish to die but rather that they would avoid some form of judgement. Perhaps this is similar to the idea of the rapture within dispensational premillenialism."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
