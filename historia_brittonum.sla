@@ -266,14 +266,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="66580.2576" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="160" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="161" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="67412.2608" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="162" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1258705922" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="867227996535.252" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1258705922" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="136.0008" gYpos="871778793622.648" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1258576386" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="12518765542.0008" gYpos="867227012279.043" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1258576386" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="12600410626.0008" gYpos="871777809366.439" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -12693,17 +12693,17 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ambītur: it is incircled; 3rd person singular present passive from ambiō, ambīre, ambīvī, ambītus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aquilae: eagle, eagle standard; singular feminine genitive from aquila, aquilae"/>
+                <ITEXT CH="aquilae: eagle; singular feminine genitive from aquila, aquilae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittanniae: Britain (nominative plural or genitive singular case)"/>
+                <ITEXT CH="Brittanniae: of Britain (genitive singular case)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="calidum: hot, warm; singular neuter nominative from calidus, calida -um, calidior -or -us, calidissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cētera: the other; singular feminine nominative from cēterus, cētera, cēterum"/>
+                <ITEXT CH="cētera: the other; plural neuter nominative from cēterus, cētera, cēterum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dē: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eō: I go; 1st person singular present active from eo, ire, ivi(ii), itus"/>
+                <ITEXT CH="eō: in it; singular neuter ablative from is, ea, id"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="erit: he will be; 3rd person singular future active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -12715,7 +12715,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="factō: made; singular masculine dative perfect passive participle from faciō, facere, fēcī, factus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fīat: may it be; 3rd person singular present active subjunctive from fīō, fierī, factus sum"/>
+                <ITEXT CH="fīat: it happens, it is; 3rd person singular present active subjunctive from fīō, fierī, factus sum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="flūmen: river; singular neuter nominative from flūmen, flūminis"/>
                 <para PARENT="Vocab"/>
@@ -12733,35 +12733,35 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ibī: there, then"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="illī: that; singular dative or plural masculine nominative from ille, illa, illud"/>
+                <ITEXT CH="illī: to that one; singular dative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnstar: as big as"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="īnsulae: island; singular feminine genitive from īnsula, īnsulae"/>
+                <ITEXT CH="īnsulae: islands; plural feminine nominative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lapide: stone; singular masculine  from lapis, lapidis"/>
+                <ITEXT CH="lapide: stone; singular masculine ablative from lapis, lapidis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="latere: side;  person  present active from lateō, latēre, latuī, -"/>
+                <ITEXT CH="latere: brick; singular masculine ablative from later, lateris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lavācrum: bath; singular neuter nominative from lavācrum, lavācrī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lavandum: washing; singular neuter nominative future passive participle from lavō, lavāre, lāvī, lautus"/>
+                <ITEXT CH="lavandum: washing; singular neuter accusative gerund from lavō, lavāre, lāvī, lautus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lītora: beaches, shores; plural neuter nominative from lītus, lītoris"/>
+                <ITEXT CH="lītora: beaches, shores; plural neuter accusative from lītus, lītoris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mare: sea; singular neuter nominative from mare, maris"/>
+                <ITEXT CH="mare: sea; singular neuter accusative from mare, maris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="maria: seas; plural neuter nominative from mare, maris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mīrābilibus: miracles; plural  dative from mīrābilis, mīrābilis, mīrābile"/>
+                <ITEXT CH="mīrābilibus: miracles; plural ablative from mīrābilis, mīrābilis, mīrābile"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mīrāculum: miracle; singular neuter nominative from mīrāculum, mīrāculī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="montīs: mountains; singular masculine genitive from mōns, montis"/>
+                <ITEXT CH="montis: mountains; singular masculine genitive from mōns, montis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mūrō: city wall; singular masculine dative from mūrus, mūrī"/>
+                <ITEXT CH="mūrō: city wall; singular masculine ablative from mūrus, mūrī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nīdus: nest; singular masculine nominative from nīdus, nīdī"/>
                 <para PARENT="Vocab"/>
@@ -12769,9 +12769,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōn: not"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="omne: all, every; singular neuter nominative from omnis, omnis, omne"/>
+                <ITEXT CH="omne: all, every; singular neuter accusative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ōstium: door; singular neuter nominative from ōstium, ōsti(ī)"/>
+                <ITEXT CH="ōstium: door; singular neuter nominative from ōstium, ōstiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
@@ -12823,15 +12823,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūnīcuique: each one; ablative from ūnusquisque"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Huich&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Huich: probably Hwicce, an Anglo-Saxon kingdom. The hot springs mentioned are possibly in Bath, Somerset. Bath has baths built by the Romans."/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Lemn&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Lemn: probably River Leven, the main outflow of Loch Lomond"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Lumonoy&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Lumonoy: probably Loch Lomond in Scotland"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;sissam&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="sissam: rocky shore (?), this was not in any dictionary I consulted"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Trahannoni&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="Trahannōnī: a river"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūnum: one; singular neuter nominative from ūnus -a -um, prīmus -a -um, singulī -ae -a, semel"/>
                 <para PARENT="Vocab"/>
@@ -13000,7 +13000,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="UNKNOWN: {:word &quot;sissa&quot;, :part-of-speech :unknown}"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;sissam&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="sissam: rocky shore (?), this was not in any dictionary I consulted"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūnusquisque: each one"/>
                 <para PARENT="Vocab"/>
@@ -13179,7 +13179,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="UNKNOWN: {:word &quot;Sabrina&quot;, :part-of-speech :unknown}"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;sissam&quot;, :part-of-speech :unknown}"/>
+                <ITEXT CH="sissam: rocky shore (?), this was not in any dictionary I consulted"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vādit: he goes; 3rd person singular present active from vādō, vādere, vāsī, -"/>
                 <para PARENT="Vocab"/>
