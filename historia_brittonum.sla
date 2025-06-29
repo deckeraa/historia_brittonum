@@ -264,14 +264,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="64916.2511999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="156" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="157" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="158" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="851908319" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="902052755119.628" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="851908319" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="903398869737.128" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="851914207" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13163258458.0008" gYpos="902052095344.667" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="851914207" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13188012634.0008" gYpos="903398209962.167" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -352,11 +352,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Baptistam: baptist; singular masculine accusative from baptista, baptistae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Chrīstī: annointed one, Christ; singular masculine genitive from Chrīstus, Chrīstī"/>
+                <ITEXT CH="Chrīstī: of Christ; singular masculine genitive from Chrīstus, Chrīstī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Chrīstum: annointed one, Christ; singular masculine accusative from Chrīstus, Chrīstī"/>
+                <ITEXT CH="Chrīstum: Christ; singular masculine accusative from Chrīstus, Chrīstī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Chrīstus: annointed one, Christ; singular masculine nominative from Chrīstus, Chrīstī"/>
+                <ITEXT CH="Chrīstus: Christ; singular masculine nominative from Chrīstus, Chrīstī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Dāniēle: Daniel; singular masculine ablative from Dāniēl, Dāniēlis"/>
                 <para PARENT="Vocab"/>
@@ -366,7 +366,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dē: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dīluviō: flood, destruction; singular neuter dative from diluvium, diluviī"/>
+                <ITEXT CH="dīluviō: flood, destruction; singular neuter ablative from diluvium, diluviī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīluvium: flood, destruction; singular neuter nominative from diluvium, diluviī"/>
                 <para PARENT="Vocab"/>
@@ -15495,20 +15495,69 @@
         <PAGEOBJECT XPOS="136.0008" YPOS="1010.75159235669" OwnPage="1" ItemID="1355686175" PTYPE="4" WIDTH="522" HEIGHT="238.471337579618" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 238.471 L0 238.471 L0 0 Z" copath="M0 0 L522 0 L522 238.471 L0 238.471 L0 0 Z" gXpos="136.0008" gYpos="1010.75159235669" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Hic liber est dēdicātus discipulīs meīs "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Hic liber est dēdicātus discipulīs meīs "/>
                 <para PARENT="Chapter Heading" ALIGN="1"/>
                 <para PARENT="Chapter Heading" ALIGN="1"/>
-                <ITEXT CH="in classe Latīnae III"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="in classe Latīnae III"/>
                 <para PARENT="Chapter Heading" ALIGN="1"/>
                 <para PARENT="Chapter Heading" ALIGN="1"/>
-                <ITEXT CH="in annō scholasticō 2025-2026."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="in annō scholasticō 2025-2026."/>
                 <para PARENT="Chapter Heading" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766.0008" YPOS="888.0048" OwnPage="2" ItemID="1355719487" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.0008" gYpos="888.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <trail/>
+                <para/>
+                <ITEXT CH="Intrōductiō"/>
+                <para PARENT="Chapter Heading"/>
+                <tab/>
+                <para/>
+                <tab/>
+                <ITEXT CH="This is a Latin reader edition of the "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittonum"/>
+                <ITEXT CH=", often attributed to Nennius, a Welsh monk in the ninth century. It contains interesting accounts of kings and saints and marvels found in the British Isles."/>
+                <para/>
+                <para/>
+                <ITEXT CH="This reader edition was produced to meet the following goals:"/>
+                <para/>
+                <ITEXT CH="    - to make an inexpensive print copy of the "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittonum"/>
+                <ITEXT CH=" publicly available."/>
+                <para/>
+                <ITEXT CH="    - to provide a legible (not photo-copied) text with macrons."/>
+                <para/>
+                <ITEXT CH="    - to provide glossaries so that a Latin learner could read through this work without needing to consult additional books or dictionaries."/>
+                <para/>
+                <ITEXT CH="    - to provide footnotes glossing the more difficult or unclear sentences and to provide additional commentary."/>
+                <para/>
+                <para/>
+                <tab/>
+                <ITEXT CH="This reader edition of the "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittonum"/>
+                <ITEXT CH=" is not a critical edition of the text; for that, please consult Mommsen's work which is cited in the bibliography. Additionally, I am not an expert on the Welsh language or British history; therefore I apologize in advance for anything I may have overlooked in the identification of Welsh place-names or British geography. Furhermore, the numbers and calculations contained in the text often have many textual variants presented in Mommsen's critical text. This will not be of concern to most readers, but those who want precision in the dates should consult Mommsen's text."/>
+                <para/>
+                <para/>
+                <tab/>
+                <ITEXT CH="The "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittonum"/>
+                <ITEXT CH=" appears from its form to be a compilation of other sources. Additionally, some facts related (such as a Pope named Eucharistus in section 21) are not corroborated by any other source and are likely in error or have missing context."/>
+                <para/>
+                <para/>
+                <tab/>
+                <ITEXT CH="An additional source cited in the footnotes and glossaries is "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
+                <ITEXT CH=". This is a modern translation into Latin of a medieval Irish-language version of the "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittonum"/>
+                <ITEXT CH=". This provides additional insight into how a medieval reader might have interpreted the text."/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Fīnis intrōductiōnis. Incipit textus Historiae Brittonum."/>
+                <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
