@@ -260,14 +260,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="63252.2447999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="152" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="64084.2479999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="153" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="64084.2479999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="154" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="358497325" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="888846664517.742" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="358497325" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="890740531770.018" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="358529629" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="12915115102.0008" gYpos="888846004742.782" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="358529629" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="12950835094.0008" gYpos="890739871995.058" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -13789,7 +13789,11 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="72"/>
-                <ITEXT CH=" Est aliud mīrābile in suprā dicta regiōne Guent. Est ibi fōns iuxtā vallum puteī Mouric et lignum in mediō fontis et lavant hominēs manūs suās cum faciēbus suīs et lignum sub pedibus suīs habent, quandō lavant. Nam et agō probāvī et vīdī. Quandō mare inundātur, ad mallīnam extendītū Sabrīnā super omnem maritimam et tegit et usque ad fontem prōdūcitur et implētur fōns dē sissā Sabrīnae et trahit lignum sēcum usque ad mare magnum et per spatium trium diērum in mare invertitur et in quārtō diē in suprā dictō fonte invenītur. Factum est autem, ut ūnus dē rūsticīs sepelīret eum in terrā ad probandum, et in quārtō diē inventus est in fonte et ille rūsticus, quī eum abscondit et sepelīvit, dēfūnctus est ante fīnem mēnsis."/>
+                <ITEXT CH=" Est aliud mīrābile in suprā dicta regiōne Guent. Est ibi fōns iuxtā vallum puteī Mouric et lignum in mediō fontis et lavant hominēs manūs suās cum faciēbus suīs et lignum"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" sub pedibus suīs habent, quandō lavant. Nam et egō probāvī et vīdī. Quandō mare inundātur, ad mallīnam"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" extendītū Sabrīnā super omnem maritimam et tegit et usque ad fontem prōdūcitur et implētur fōns dē sissā Sabrīnae et trahit lignum sēcum usque ad mare magnum et per spatium trium diērum in mare invertitur et in quārtō diē in suprā dictō fonte invenītur. Factum est autem, ut ūnus dē rūsticīs sepelīret eum in terrā ad probandum, et in quārtō diē inventus est in fonte et ille rūsticus, quī eum abscondit et sepelīvit, dēfūnctus est ante fīnem mēnsis."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -15374,6 +15378,23 @@
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="Another man looked under the alter and lost the sharpness of his eyes and his life finished before a full month. "/>
                 <ITEXT CH="This other man went blind and died."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="61089.6815286624" OwnPage="145" ItemID="832981805" PTYPE="4" WIDTH="522" HEIGHT="130.700636942674" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 130.701 L0 130.701 L0 0 Z" copath="M0 0 L522 0 L522 130.701 L0 130.701 L0 0 Z" gXpos="136.0008" gYpos="61089.6815286624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="And they have the wood under their feet, when they wash."/>
+                <ITEXT CH=" This wood moves around magically, as described in the following sentences, so it appears that when you get in the pool, the wood moves to be beneath your feet."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="When it (the fountain) is flooded by the sea, and to the wetlands the River Severn is extended over all the shore and (the water) covers (the well) and it (the water) is lead up to the fountain and the fountain is filled with the silt of the River Severn and it (the water) draws the wood with it out to the large sea, and for the space of three days it (the wood) is turned about in the sea and on the fourth day it is found (again) in the above-said fountain. The flooding is probably the tidal floods that occur in the River Severn."/>
+                <ITEXT CH=" Note that "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="mallīnam"/>
+                <ITEXT CH=" and "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="sissā"/>
+                <ITEXT CH=" are not standard Latin words, so I have glossed them with a meaning that is based on the context."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
