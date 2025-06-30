@@ -264,14 +264,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="64916.2511999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="156" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="157" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="158" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="851908319" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="903398869737.128" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="851908319" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="910126813694.516" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="851914207" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13188012634.0008" gYpos="903398209962.167" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="851914207" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13311735166.0008" gYpos="910126153919.555" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -1242,7 +1242,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="He was expelled by the Greeks because of the killing of Turnus, whom Aeneas killed."/>
-                <ITEXT CH=" Since Silvius was related to Aeneas, who killed Turnus, king of Rutuli, the Greeks expelled Silvius from their land."/>
+                <ITEXT CH=" Since Silvius was related to Aeneas, who killed Turnus, king of the Rutuli, the Greeks expelled Silvius from their land."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -4504,7 +4504,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lēgātī: having been sent; plural masculine nominative perfect passive participle from lego, legare, legavi, legatus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="licet: allow"/>
+                <ITEXT CH="licet: even if"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lūctū: grief, sorrow; singular masculine ablative from lūctus, lūctūs"/>
                 <para PARENT="Vocab"/>
@@ -8555,7 +8555,9 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" est nōbīs, ut ex manibus nostrīs redimātur. Et conventum addūxērunt et in ūnum convēnērunt, et Saxonēs amīcāliter"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=" locūtī in mente interim vulpicīnō mōre agēbant et vir iuxtā virum sociāliter sēdērunt. Hengistus sīcut dīxerat, vōciferātus est et omnēs seniōrēs trecentī Guorthigirnī rēgis iugulātī sunt et ipse sōlus captus et catēnātus est et regiōnēs plūrimās prō redēmptiōne animae suae illīs tribuit, id est Estsaxum, Sutsaxum."/>
+                <ITEXT CH=" locūtī in mente interim vulpicīnō mōre agēbant et vir iuxtā virum sociāliter sēdērunt. Hengistus sīcut"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" dīxerat, vōciferātus est et omnēs seniōrēs trecentī Guorthigirnī rēgis iugulātī sunt et ipse sōlus captus et catēnātus est et regiōnēs plūrimās prō redēmptiōne animae suae illīs tribuit, id est Estsaxum, Sutsaxum."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -14617,7 +14619,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Who occoupied all the islands of the Tyrrhenian Sea."/>
-                <ITEXT CH=" The author may have been referring to a different sea, as there is no record (besides this) of a British king occupyinig islands in the Tyrrhenian Sea, which is just off the western coast of Italy."/>
+                <ITEXT CH=" The author may have been referring to a different sea, as there is no record (besides this) of a British king occupying islands in the Tyrrhenian Sea, which is just off the western coast of Italy."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -14746,7 +14748,7 @@
                 <ITEXT CH=" This refers to the first Council of Nicea in 325 AD. 318 bishops attended it, and this fact is often used to refer to the council. While the author states that all heresies were condemned, this is hyperbolic; the council mainly focused on affirming that the Son is of the same substance as the Father (and was not created, as the heresy of Arius maintained) and also on rejecting the Jewish calculation of Passover for the celebration of the Paschal Feast (Easter)."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Gratian, in Paris by the sedition of Merobaudes, captian of the soliders, was overcome, and fleeing to Lyons was captured and killed."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Gratian, in Paris by the sedition of Merobaudes, captain of the soliders, was overcome, and fleeing to Lyons was captured and killed."/>
                 <ITEXT CH=" I added the commas after "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Grātiānus"/>
                 <ITEXT CH=" and "/>
@@ -14767,7 +14769,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="And they promised with an oath to accept the yoke of Roman law,it being permitted to have been hard."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And they promised with an oath to accept the yoke of Roman law, even if it was hard."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="melle"/>
@@ -14820,7 +14822,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="That they not break a bone of his bones"/>
-                <ITEXT CH=". This is reminescent of John 19 &quot;Not one of his bones will be broken&quot;."/>
+                <ITEXT CH=". This is reminiscent of John 19:36 ἐγένετο γὰρ ταῦτα ἵνα ἡ γραφὴ πληρωθῇ  &quot;This happened that the scripture be fulfilled: not one of his bones will be broken&quot;, which in turn references LXX Psalm 33:21 φυλάσσει Κύριος πάντα τὰ ὀστᾶ αὐτῶν, ἓν ἐξ αὐτῶν οὐ συντριβήσεται. &quot;The Lord guards all his bones, not one of them will be broken&quot;."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -14840,7 +14842,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Per the usual custom, the afore-mentioned slave (the doorkeeper of the citadel) was present."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Per the usual custom, the aforementioned slave (the doorkeeper of the citadel) was present."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And Saint Germanus ordered them to remain fasting and, having closed the doors, said."/>
@@ -14921,19 +14923,19 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Now adding to all (his) evil (deed), Vortigern took his daughter to be his wife, and she bore a son to him. "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Now adding to all (his) evil (deeds), Vortigern took his daughter to be his wife, and she bore a son to him. "/>
                 <ITEXT CH="The theme of illegimate or questionable paternity is recapitulated later in the account of Ambrosius, who is said to have had no father."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="The king himself commanded his daughter to go out to the meeting, that she should give his son into the lap of Germanus and should say that he (Germanus) himself was the father of the child, and the woman did just as she had been told."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="I will by your father, yet I will not permit you, unless a knife with scissors and a comb is given to me and you are permitted to give them to your biological father."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="I will be your father, yet I will not permit you, unless a knife with scissors and a comb is given to me and you are permitted to give them to your biological father."/>
                 <ITEXT CH=" Note: a more literal translation might be: "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="I will be your father and will not let you go, unless I am given a knife with forceps and a comb and you it is permitted to you to give them to your biological father"/>
-                <ITEXT CH=". It appears that Saint Germanus, after having been falsely accused of fathering the child, says he will accept the child but that the child's biological father must first permit the child to be tonsured (and therefore accepted into Germanus's religious order. This deflects the accusation and convinces the son to identify his biological father, exposing Vortigern's lie. "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="I will be your father and will not let you go, unless I am given a knife with forceps and a comb and it is permitted to you to give them to your biological father"/>
+                <ITEXT CH=". It appears that Saint Germanus, after having been falsely accused of fathering the child, says he will accept the child but that the child's biological father must first permit the child to be tonsured and therefore accepted into Germanus's religious order. This deflects the accusation and convinces the son to identify his biological father, exposing Vortigern's lie. "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
-                <ITEXT CH=" glosses the passage thusly: "/>
+                <ITEXT CH=" glosses the passage as: "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Germānus accēpit et dīxit pūrō: pater tibi erō. Et poscēbat Germānus novāculam et forcipem et pecten, ut daret ea in manum puerī. Et factum est et dīxit Germānus: ō fīlī, dā haec in manum patris tuī carnālis; et surrēxit puer et dedit pecten et forcipem et novaculum in manum Guorthigirnī et dīxit: pater mī, inquit, tondē mē, nam tū es pater meus carnālis, Germānus autem pater meus ē fide. Guorthigernum puduit et īrātus est valdē et effūgit ē conventū et omnēs Britōnēs maledīxērunt eī et Germānus damnāvit eum"/>
                 <ITEXT CH="."/>
                 <trail PARENT="footnotes"/>
@@ -15026,7 +15028,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="And the worms began, so that one might expel the other, however the other put his shoulders, so that he might expel him from half of the tent, and thus they did three times: however finally the red worm was seen to be weaker and afterwards was stronger than the white (worm) and expelled him outside the confines of the tent; then they followed each other across the pond and the tent vanished."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And the worms began (to fight), so that one might expel the other, however the other put his shoulders, so that he might expel him from half of the tent, and thus they did three times: however finally the red worm was seen to be weaker and afterwards was stronger than the white (worm) and expelled him outside the confines of the tent; then they followed each other across the pond and the tent vanished."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -15100,7 +15102,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="37844.4617987261" OwnPage="89" ItemID="1135976607" PTYPE="4" WIDTH="522" HEIGHT="120.152866242039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 120.153 L0 120.153 L0 0 Z" copath="M0 0 L522 0 L522 120.153 L0 120.153 L0 0 Z" gXpos="136.0008" gYpos="37844.4617987261" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="37846.4617987261" OwnPage="89" ItemID="1135976607" PTYPE="4" WIDTH="522" HEIGHT="120.152866242039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 120.153 L0 120.153 L0 0 Z" copath="M0 0 L522 0 L522 120.153 L0 120.153 L0 0 Z" gXpos="136.0008" gYpos="37846.4617987261" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -15118,10 +15120,10 @@
                 <ITEXT CH=" They held Vortigern hostage."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="The Saxons spoke spoke meanwhile they acted according to a foxy (sly) custom in their mind, and man set next to man sociably."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The Saxons spoke amicably (in a friendly manner) meanwhile they acted according to a foxy (sly) custom in their mind, and man set next to man sociably."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Just as Hengist had said, was yelled and all 300 elders of King Vortigern were slain and he himself (Vortigern) was captured and chained and he assigned to them more regions, that is Essex and Sussex, for the redemption of his soul."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Just as Hengist had said, he yelled and all 300 elders of King Vortigern were slain and he himself (Vortigern) was captured and chained and he assigned to them more regions, that is Essex and Sussex, for the redemption of his soul."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -15132,7 +15134,7 @@
                 <ITEXT CH="That he might turn to his Lord (i.e. become a Christian) and from his illicit marriage separate himself. This refers to his marriage to his daughter, see section 39."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="On the fourth night the whole castle, around the hour of the middle of the night, though fire sent from heaven, out of the unexpected, fell, burning by the celestial fire."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="On the fourth night the whole castle, around the hour of the middle of the night, through fire sent from heaven, out of the unexpected, fell, burning by the celestial fire."/>
                 <ITEXT CH=" See section 34 for another account of Saint Germanus praying and fire falling from heaven."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -15157,7 +15159,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="40220.130588535" OwnPage="95" ItemID="1137023887" PTYPE="4" WIDTH="522" HEIGHT="25.2229299363098" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 25.2229 L0 25.2229 L0 0 Z" copath="M0 0 L522 0 L522 25.2229 L0 25.2229 L0 0 Z" gXpos="136.0008" gYpos="40220.130588535" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="40224.130588535" OwnPage="95" ItemID="1137023887" PTYPE="4" WIDTH="522" HEIGHT="25.2229299363098" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 25.2229 L0 25.2229 L0 0 Z" copath="M0 0 L522 0 L522 25.2229 L0 25.2229 L0 0 Z" gXpos="136.0008" gYpos="40224.130588535" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -15297,7 +15299,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="52818.7547923567" OwnPage="125" ItemID="1139636847" PTYPE="4" WIDTH="522" HEIGHT="164.178343949046" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 164.178 L0 164.178 L0 0 Z" copath="M0 0 L522 0 L522 164.178 L0 164.178 L0 0 Z" gXpos="136.0008" gYpos="52818.7547923567" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="52821.7547923567" OwnPage="125" ItemID="1139636847" PTYPE="4" WIDTH="522" HEIGHT="64.4484076432636" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 64.4484 L0 64.4484 L0 0 Z" copath="M0 0 L522 0 L522 64.4484 L0 64.4484 L0 0 Z" gXpos="136.0008" gYpos="52821.7547923567" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -15356,7 +15358,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="That men may not swear (oaths) by him"/>
-                <ITEXT CH=". The holy man wanted to prevent a cultic practice from buliding up around him."/>
+                <ITEXT CH=". The holy man wanted to prevent a cultic practice from building up around him."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -15364,7 +15366,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="A certain prince came, carrying a stick in his hand that he might test (the levitation of the altar); he bend it (the stick) around the altar and held the stick with both hands on both parts (ends) of the stick and pull it to himself and thus he proved the truth of this thing."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="A certain prince came, carrying a stick in his hand that he might test (the levitation of the altar); he bent it (the stick) around the altar and held the stick with both hands on both parts (ends) of the stick and pulled it to himself and thus he proved the truth of this thing."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And that one (the prince who tested the altar with the stick) after a whole month didn't live."/>
@@ -15384,7 +15386,8 @@
                 <ITEXT CH=" This wood moves around magically, as described in the following sentences, so it appears that when you get in the pool, the wood moves to be beneath your feet."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="When it (the fountain) is flooded by the sea, and to the wetlands the River Severn is extended over all the shore and (the water) covers (the well) and it (the water) is lead up to the fountain and the fountain is filled with the silt of the River Severn and it (the water) draws the wood with it out to the large sea, and for the space of three days it (the wood) is turned about in the sea and on the fourth day it is found (again) in the above-said fountain. The flooding is probably the tidal floods that occur in the River Severn."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="When it (the fountain) is flooded by the sea, and to the wetlands the River Severn is extended over all the shore and (the water) covers (the well) and it (the water) is lead up to the fountain and the fountain is filled with the silt of the River Severn and it (the water) draws the wood with it out to the large sea, and for the space of three days it (the wood) is turned about in the sea and on the fourth day it is found (again) in the above-said fountain. "/>
+                <ITEXT FONT="DejaVu Serif Book" CH="The flooding is probably the tidal floods that occur in the River Severn."/>
                 <ITEXT CH=" Note that "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="mallīnam"/>
                 <ITEXT CH=" and "/>
@@ -15412,7 +15415,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="And every man whosoever will come to the grave and lay (extend) himself next to it, however short he be, in the one length will be found the grave and the man (they are the same length) and if the man will be short and small, similarly the length of the grave is found to be close to the stature of the man."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And every man whosoever will come to the grave and lay (extend) himself next to it, however short he be, in one length will be found the grave and the man (they are the same length) and if the man will be short and small, similarly the length of the grave is found to be close to the stature of the man."/>
                 <ITEXT CH=" This is similar to the grave in the previous account, except this grave changes to match the size of whomever is measuring it."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -15424,12 +15427,12 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH="Here begins another list of marvels; giving the feel that the author compiled together two already-existing lists of marvels. "/>
+                <ITEXT CH="Here begins another list of marvels, giving the feel that the author compiled together two already-existing lists of marvels. "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
                 <ITEXT CH=" titles these as marvels from the Isle of Man."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="The third miracle is a shallows (or a ford) there: when the is flooded it iself is flooded, and when the sea decreases it itself is diminished."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The third miracle is a shallows (or a ford) there: when the sea is flooded it iself is flooded, and when the sea decreases it itself is diminished."/>
                 <ITEXT CH=" Presumably this shallows doesn't appear connected to the sea, making the synchronicity appear marvelous."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -15439,11 +15442,12 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="65183.2834547771" OwnPage="155" ItemID="1142149711" PTYPE="4" WIDTH="522" HEIGHT="77.9677452228789" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 77.9677 L0 77.9677 L0 0 Z" copath="M0 0 L522 0 L522 77.9677 L0 77.9677 L0 0 Z" gXpos="136.0008" gYpos="65183.2834547771" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="65187.2834547771" OwnPage="155" ItemID="1142149711" PTYPE="4" WIDTH="522" HEIGHT="77.9677452228789" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 77.9677 L0 77.9677 L0 0 Z" copath="M0 0 L522 0 L522 77.9677 L0 77.9677 L0 0 Z" gXpos="136.0008" gYpos="65187.2834547771" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH="Gronna is not a Latin word. By context it appears to mean a ring, wall, ridges, or ditches."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Gronna"/>
+                <ITEXT CH=" is not a Latin word. By context it appears to mean a ring, wall, ridges, or ditches."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -15462,6 +15466,10 @@
                 <ITEXT CH="Nearing, Homer. “The Legend of Julius Caesar’s British Conquest.” "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="PMLA"/>
                 <ITEXT CH=" 64, no. 4 (1949): 889–929. https://doi.org/10.2307/459639."/>
+                <para PARENT="Reverse indent"/>
+                <ITEXT CH="Thomas, Rebecca. "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="History and Identity in Early Medieval Wales"/>
+                <ITEXT CH=". Boydell &amp; Brewer, 2022. https://doi.org/10.2307/j.ctv24cns98"/>
                 <para PARENT="Reverse indent"/>
                 <ITEXT CH="“Unpublished Geraldine Documents: The Whyte Knight.” "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="The Journal of the Royal Historical and Archaeological Association of Ireland"/>
