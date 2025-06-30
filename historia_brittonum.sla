@@ -480,7 +480,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=". Haec cōnsurgit"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" ab āfricō boreālī ad occidentem versus: 800 in longitūdine milium, 200 in lātitūdine spatium habet. In ea sunt vīgintī octo cīvitātēs et innumerābilia prōmontoria cum innumerīs castellīs ex lapidibus et latere fabricātīs et in eā habitant quattuor gentēs Scottī Pictī Saxonēs atque Brittōnēs."/>
+                <ITEXT CH=" ab āfricō boreālī ad occidentem versus: 800 in longitūdine milium, 200 in lātitūdine spatium habet. In eā sunt vīgintī octo cīvitātēs et innumerābilia prōmontoria cum innumerīs castellīs ex lapidibus et latere fabricātīs et in eā habitant quattuor gentēs: Scottī, Pictī, Saxonēs, atque Brittōnēs."/>
                 <para PARENT="Latin"/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="8"/>
                 <ITEXT CH=" Trēs magnās īnsulās habet, quārum ūna vergit contrā Armoriācās et vocātur īnsula Gueith: secunda sita est in umbilīcō maris inter Hiberniam et Brittanniam et vocātur nōmen eius Euboniā, id est Manau: alia sita est in extrēmō līmite orbis Brittanniae ultrā Pictōs et vocātur Orc. Sīc in prōverbiō antīquō dīcitur, quandō dē iūdicibus vel rēgibus sermō fit: 'iūdicāvit Brittanniam cum tribus īnsulīs'."/>
@@ -520,7 +520,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="castellīs: castles, strongholds; plural neuter ablative from castellum, castellī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cīvitātēs: citizens, city-states; plural feminine nominative from cīvitās, cīvitātis"/>
+                <ITEXT CH="cīvitātēs: cities; plural feminine nominative from cīvitās, cīvitātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnsule: consul; singular masculine ablative from cōnsul, cōnsulis"/>
                 <para PARENT="Vocab"/>
@@ -530,13 +530,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="de: of, from, away from, down from"/>
+                <ITEXT CH="dē: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīcitur: it is said; 3rd person singular present passive from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dictā: having been said; singular feminine nominative perfect passive participle from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ea: it; singular feminine nominative or plural neuter nom. or acc. from is, ea, id"/>
+                <ITEXT CH="eā: it; singular feminine ablative from is, ea, id"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eius: his/her/its"/>
                 <para PARENT="Vocab"/>
@@ -582,7 +582,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="inter: between, among, during"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iūdicāvit: he judged, he ruled; 3rd person singular perfect active from judico, judicare, judicavi, judicatus"/>
+                <ITEXT CH="iūdicāvit: he judged, he ruled; 3rd person singular perfect active from iūdicō, iūdicāre, iūdicāvī, iūdicātum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iūdicibus: judges; plural masculine ablative from judex, judicis"/>
                 <para PARENT="Vocab"/>
