@@ -940,7 +940,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ad: to, towards, at, according to"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Aeneae: Aeneas, Trojan prince and legendary founder of Alba Longa, birthplace of Romulus and Remus (genitive case)"/>
+                <ITEXT CH="Aenēae: Aeneas, Trojan prince and legendary founder of Alba Longa, birthplace of Romulus and Remus (dative case)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Ascaniō: Ascanius, legendary king of Alba Longa, son of Aeneas (ablative or dative case)"/>
                 <para PARENT="Vocab"/>
@@ -948,9 +948,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="autem: but, however, moreover"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brūtō: Brutus; singular masculine dative from Brūtus, Brūtī"/>
+                <ITEXT CH="Brūtō: Brutus; singular masculine nominative from Brūtus, Brūtī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōnsīderandam: considering; singular feminine accusative future passive participle from cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus"/>
+                <ITEXT CH="cōnsīderandam: considering; singular feminine accusative gerund from cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnsīderāvit: he considered; 3rd person singular perfect active from cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus"/>
                 <para PARENT="Vocab"/>
@@ -972,7 +972,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="exōsus: hateful or hated; singular masculine nominative from exōsus, exōsa, exōsum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="explōrāret: he was exploring, investigating; 3rd person singular imperfect active subjunctive from explōrō, explōrāre, explōrāvī, explōrātus"/>
+                <ITEXT CH="explōrāret: he might investigate; 3rd person singular imperfect active subjunctive from explōrō, explōrāre, explōrāvī, explōrātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fēminam: woman, wife; singular feminine accusative from fēmina, fēminae"/>
                 <para PARENT="Vocab"/>
@@ -982,7 +982,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fuit: he was; 3rd person singular perfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="gravida: pregnant woman; singular feminine nominative from gravidus, gravida, gravidum"/>
+                <ITEXT CH="gravida: pregnant; singular feminine nominative from gravidus, gravida, gravidum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habēret: he (might) have had; 3rd person singular imperfect active subjunctive from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
@@ -1016,7 +1016,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōmen: name; singular neuter nominative from nōmen, nōminis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nūntiātum: having been announced; singular neuter nominative perfect passive participle from "/>
+                <ITEXT CH="nūntiātum: nūntiātum est = it was announced; singular neuter nominative perfect passive participle from nūntiō, nūntiāre, nūntiāvī, nūntiātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nurus: young woman, daughter-in-law; singular feminine nominative from nurus, nurūs"/>
                 <para PARENT="Vocab"/>
@@ -1024,7 +1024,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="occīdet: he will kill; 3rd person singular future from occīdō, occīdere, occīdī, occīsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="occīsus: having been killed; singular masculine nominative perfect passive participle from occīdō, occīdere, occīdī, occīsus"/>
+                <ITEXT CH="occīsus: occīsus est = he was killed; singular masculine nominative perfect passive participle from occīdō, occīdere, occīdī, occīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnibus: all; plural ablative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
@@ -1062,7 +1062,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vel: or"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vocātum: having been called; singular neuter nominative perfect passive participle from vocō, vocāre, vocāvī, vocātum"/>
+                <ITEXT CH="vocātum: vocātum est = he was called; singular neuter nominative perfect passive participle from vocō, vocāre, vocāvī, vocātum"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
