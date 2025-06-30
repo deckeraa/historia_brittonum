@@ -705,11 +705,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="annālibus: annals, chronicles; plural masculine ablative from annālis, annālis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Ascaniō: Ascanius, legendary king of Alba Longa, son of Aeneas (ablative or dative case)"/>
+                <ITEXT CH="Ascaniō: Ascanius, legendary king of Alba Longa, son of Aeneas (ablative case)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="autem: but, however, moreover"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="bellum: battle, war; singular neuter nominative from bellum, bellī"/>
+                <ITEXT CH="bellum: battle, war; singular neuter accusative from bellum, bellī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="bifāriē: in two ways, variant spelling of bifāriam"/>
                 <para PARENT="Vocab"/>
@@ -729,7 +729,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnfluunt: they flow together; 3rd person plural present active from cōnfluō, cōnfluere, cōnflūxī, cōnfluxus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="coniugium: marriage; plural common genitive from conjunx, conjugis"/>
+                <ITEXT CH="coniugium: marriage; plural neuter acccusative from coniugium, coniugiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
@@ -741,7 +741,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dūxit: he lead; infinitive"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ea: it; singular feminine nominative or plural neuter nom. or acc. from is, ea, id"/>
+                <ITEXT CH="eā: in it; singular feminine ablative from is, ea, id"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eam: it; singular feminine accusative from is, ea, id"/>
                 <para PARENT="Vocab"/>
@@ -751,7 +751,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="experīmentum: test, experiment, experience; singular neuter nominative from experīmentum, experīmentī"/>
+                <ITEXT CH="experīmentum: experience; singular neuter accusative from experīmentum, experīmentī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Faunī: king of the Latins, father of Latinus; singular masculine genitive from Faunus, Fauni"/>
                 <para PARENT="Vocab"/>
@@ -767,7 +767,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="flūminibus: rivers; plural neuter ablative from flūmen, flūminis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="habitāta: having been inhabited; singular feminine nominative perfect passive participle from "/>
+                <ITEXT CH="habitāta: habitāta est = it was inhabited; singular feminine nominative perfect passive participle from habitō, habitāre, habitāvī, habitātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="haec: this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
@@ -825,7 +825,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Picī: Picus, the first king of the Latins and the son of Saturn (genitive case). Unrelated to the Picts, a group that lived in Scotland."/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="portandās: carrying; plural feminine accusative future passive participle from porto, portare, portavi, portatus"/>
+                <ITEXT CH="portandās: carrying; plural feminine accusative gerund from porto, portare, portavi, portatus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="post: behind, after, since"/>
                 <para PARENT="Vocab"/>
@@ -853,7 +853,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="scīre: to know; present active infinitive from sciō, scīre, scīvī, scītus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="scrīptum: was written; singular neuter nominative perfect passive participle from scrībō, scrībere, scrīpsī, scrīptus"/>
+                <ITEXT CH="scrīptum: scrīptum est = it was written; singular neuter nominative perfect passive participle from scrībō, scrībere, scrīpsī, scrīptus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
