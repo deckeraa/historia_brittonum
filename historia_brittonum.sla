@@ -278,14 +278,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="64916.2511999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="156" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="157" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="158" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="537485959" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="916013436015.966" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="537485959" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="916184329473.265" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="537481111" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13419986338.0008" gYpos="916012776241.005" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="537481111" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13423128958.0008" gYpos="916183669698.304" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -514,7 +514,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brittanniam: Britain (accusative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brūtō: Brutus; singular masculine ablative from Brūtus, Brūtī"/>
                 <para PARENT="Vocab"/>
@@ -731,7 +731,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Britanniae: Britain; singular feminine genitive from Britannia, Britanniae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="causa: cause, reason; singular feminine nominative from causa, causae"/>
                 <para PARENT="Vocab"/>
@@ -943,7 +943,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" sagittae occīdit patrem suum nōn dē industriā, sed cāsū. Et expulsus est ab Ītaliā et arminilis fuit et vēnit ad īnsulās maris Tyrrēnī et expulsus"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" est ā Graecīs causā occīsiōnis Turnī, quam Aenēās occiderat, et pervēnit ad Gallōs usque et ibi condidit cīvitātem Turonōrum, quae vocātur Turnīs. Et posteā ad istam pervēnit īnsulam, quae ā nōmine suō accēpit nōmen, id est Brittanniam et implēvit eam cum suō genere et habitāvit ibi. Ab illō autem diē habitāta est Brittannia usque in hodiernum diem."/>
+                <ITEXT CH=" est ā Graecīs causā occīsiōnis Turnī, quam Aenēās occiderat, et pervēnit ad Gallōs usque et ibī condidit cīvitātem Turonōrum, quae vocātur Turnīs. Et posteā ad istam pervēnit īnsulam, quae ā nōmine suō accēpit nōmen, id est Brittanniam et implēvit eam cum suō genere et habitāvit ibī. Ab illō autem diē habitāta est Brittannia usque in hodiernum diem."/>
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -1271,7 +1271,7 @@
                 <ITEXT CH=" sacerdōs iūdicābat in Isrāhēl et tunc arca testāmentī ab aliēnigenīs possidēbātur. Postumus frāter eius apud Latīnōs rēgnābat."/>
                 <para PARENT="Latin"/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="12"/>
-                <ITEXT CH=" Post intervāllum multōrum annōrum nōn minus 800 Pictī vēnērunt et occupāvērunt īnsulās, quae vocantur Orcadēs, et posteā ex īnsulīs vastāvērunt regiōnēs multās et occupāvērunt eās in sinistrālī plāgā Brittanniae, et maneant ibi tertiam partem Brittanniae tenentēs usque in hodiernum diem."/>
+                <ITEXT CH=" Post intervāllum multōrum annōrum nōn minus 800 Pictī vēnērunt et occupāvērunt īnsulās, quae vocantur Orcadēs, et posteā ex īnsulīs vastāvērunt regiōnēs multās et occupāvērunt eās in sinistrālī plāgā Brittanniae, et maneant ibī tertiam partem Brittanniae tenentēs usque in hodiernum diem."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -1616,7 +1616,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" cum trīgintā ciulīs apud illōs et cum trīgintā coniugibus"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=" in ūnāquāque ciulā et mānsērunt ibi per spatium ūnīus annī."/>
+                <ITEXT CH=" in ūnāquāque ciulā et mānsērunt ibī per spatium ūnīus annī."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -1854,7 +1854,7 @@
                 <para/>
                 <ITEXT CH="At ille per quadrāgintā et duōs annōs ambulāvit per Āfricam, et vēnērunt ad ārās"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" Filistīnōrum per Lacum Salīnārum et vēnērunt inter Rusicadam et montēs Azāriae et vēnērunt per flūmen Malvam et trānsiērunt per Maritāniam ad columnās Herculis et nāvigāvērunt Tyrrēnum mare et pervēnērunt ad Hispāniam usque et ibi habitāvērunt per multōs annōs et crēvērunt et multiplicātī sunt nimis et gēns illōrum multiplicāta est nimis. Et posteā vēnērunt ad Hiberniam post mīlle et duōs annōs, postquam mersī sunt Aegyptiī in rubrum mare, et ad regiōnēs Dalriēta, in tempore, quō rēgnābat Brūtus apud Rōmānōs, ā quō cōnsulēs esse"/>
+                <ITEXT CH=" Filistīnōrum per Lacum Salīnārum et vēnērunt inter Rusicadam et montēs Azāriae et vēnērunt per flūmen Malvam et trānsiērunt per Maritāniam ad columnās Herculis et nāvigāvērunt Tyrrēnum mare et pervēnērunt ad Hispāniam usque et ibī habitāvērunt per multōs annōs et crēvērunt et multiplicātī sunt nimis et gēns illōrum multiplicāta est nimis. Et posteā vēnērunt ad Hiberniam post mīlle et duōs annōs, postquam mersī sunt Aegyptiī in rubrum mare, et ad regiōnēs Dalriēta, in tempore, quō rēgnābat Brūtus apud Rōmānōs, ā quō cōnsulēs esse"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" coepērunt, deinde tribūnī plēbis ac dictātōrēs. Et cōnsulēs rūrsum rem pūblicam obtinuērunt per annōs 447, quae prius"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -2118,7 +2118,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brittanniam: Britain (accusative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brūtus: Brutus; singular masculine nominative from Brūtus, Brūtī"/>
                 <para PARENT="Vocab"/>
@@ -2741,7 +2741,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brittanniae: in Britain (locative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brūtō: Brutus; singular masculine ablative from Brūtus, Brūtī"/>
                 <para PARENT="Vocab"/>
@@ -3549,7 +3549,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brittannōrum: of the Britons"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine accusative from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine accusative from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="contrā: against, away from, facing"/>
                 <para PARENT="Vocab"/>
@@ -3728,7 +3728,7 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="25"/>
-                <ITEXT CH=" Quīntus Cōnstantīnus Cōnstantīnī magnī fīlius fuit et ibi moritur et sepulcrum illīus mōnstrātur iuxtā urbem, quae vocātur Cair Segeint, ut litterae, quae sunt in lapide tumulī, ostendunt. Et ipse sēmināvit"/>
+                <ITEXT CH=" Quīntus Cōnstantīnus Cōnstantīnī magnī fīlius fuit et ibī moritur et sepulcrum illīus mōnstrātur iuxtā urbem, quae vocātur Cair Segeint, ut litterae, quae sunt in lapide tumulī, ostendunt. Et ipse sēmināvit"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" tria sēmina, id est aurī argentī, aerisque, in pavīmentō supradictae cīvitātis, ut nūllus pauper in eā habitāret umquam, et vocātur aliō nōmine Minmantōn."/>
                 <para PARENT="Latin"/>
@@ -3922,9 +3922,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brittanniam: Britain (accusative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittonum: Briton, inhabitant of Britain; (usu. pl.); plural masculine genitive from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnum: Briton, inhabitant of Britain; (usu. pl.); plural masculine genitive from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Cant Guic: an city, likely in modern-day Brittany"/>
                 <para PARENT="Vocab"/>
@@ -4167,7 +4167,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brittanniam: Britain (accusative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cēnsum: tribute, census; singular neuter nominative perfect passive participle from cens.um"/>
                 <para PARENT="Vocab"/>
@@ -4449,7 +4449,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brittannīs: Britons (dative or ablative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="capita: head; plural neuter accusative from caput, capitis"/>
                 <para PARENT="Vocab"/>
@@ -4664,7 +4664,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brittannīcō: Britannic (ablative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine accusative from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine accusative from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Chrīstī: annointed one, Christ; singular masculine genitive from Chrīstus, Chrīstī"/>
                 <para PARENT="Vocab"/>
@@ -4712,15 +4712,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fīlius: son; singular masculine nominative from fīlius, fīlī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Finn: an ancestor of Hors and Hengist"/>
+                <ITEXT CH="Finn: an ancestor of Horsa and Hengist"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Fodepald: Fodepald, an ancestor of Hors and Hengist"/>
+                <ITEXT CH="Fodepald: Fodepald, an ancestor of Horsa and Hengist"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātrēs: brothers; plural masculine nominative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Frealaf: Fraelaf, an ancestor of Hors and Hengist"/>
+                <ITEXT CH="Frealaf: Fraelaf, an ancestor of Horsa and Hengist"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Fredulf: Fredulf, an ancestor of Hors and Hengist"/>
+                <ITEXT CH="Fredulf: Fredulf, an ancestor of Horsa and Hengist"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fuērunt: they were; 3rd person plural perfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -4728,23 +4728,23 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Germāniā: Germany; singular feminine ablative from Germānia, Germāniae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Geta: Geta, an ancestor of Hors and Hengist"/>
+                <ITEXT CH="Geta: Geta, an ancestor of Horsa and Hengist"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Grātiānō: Gratian, emperor of the western Roman empire; singular masculine ablative from grātia, grātiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Guectha: an ancestor of Hors and Hengist"/>
+                <ITEXT CH="Guectha: an ancestor of Horsa and Hengist"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Guictglis: an ancestor of Hors and Hengist"/>
+                <ITEXT CH="Guictglis: an ancestor of Horsa and Hengist"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Guigta: an ancestor of Hors and Hengist"/>
+                <ITEXT CH="Guigta: an ancestor of Horsa and Hengist"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Guorthigirnō: by Guorthigirnus (Vortigern) (ablative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Guorthigirnus: Guorthigirnus (Vortigern), a 5th-century warlord in Britian who invited in Hengist and Hors"/>
+                <ITEXT CH="Guorthigirnus: Guorthigirnus (Vortigern), a 5th-century warlord in Britian who invited in Hengist and Horsa"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Hengist: a Saxon warrior who came to Britain during the reign of Guorthigirnus (Vortigern)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Hors: a Saxon warrior who came to Britain during the reign of Guorthigirnus (Vortigern)"/>
+                <ITEXT CH="Hors: Horsa, a Saxon warrior who came to Britain during the reign of Guorthigirnus (Vortigern)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īdōlīs: idols; plural neuter ablative from īdōlum, īdōlī"/>
                 <para PARENT="Vocab"/>
@@ -4854,7 +4854,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vocātur: it is called; 3rd person singular present passive from vocō, vocāre, vocāvī, vocātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Woden: an ancestor of Hors and Hengist"/>
+                <ITEXT CH="Woden: an ancestor of Horsa and Hengist"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -5800,7 +5800,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="barbarī: barbarians; singular masculine genitive from barbarus, barbara -um, barbarior -or -us, barbarissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cibāre: to feed; 2nd person singular imperfect passive from cibō, cibāre, cibāvī, cibātus"/>
                 <para PARENT="Vocab"/>
@@ -6539,11 +6539,11 @@
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="39"/>
                 <ITEXT CH=" Nam super omnia mala adiciēns Guorthigirnus accēpit fīliam suī"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" uxōrem sibi, et peperit eī fīlium. Et hōc cum compertum esset ā sānctō Germānō, eum corripere vēnit cum omnī clērō Brittonum. Et dum conventa esset magna synodus clēricōrum ac lāicōrum in ūnō conciliō, ipse rēx praemonuit"/>
+                <ITEXT CH=" uxōrem sibi, et peperit eī fīlium. Et hōc cum compertum esset ā sānctō Germānō, eum corripere vēnit cum omnī clērō Brittōnum. Et dum conventa esset magna synodus clēricōrum ac lāicōrum in ūnō conciliō, ipse rēx praemonuit"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" fīliam suam, ut exīret ad conventum et ut daret fīlium suum in sinum Germānī et ut dīceret, quod ipse erat pater fīliī, et mulier fēcit sīcut erat ēdocta. Germānus autem eum benīgnē accēpit et dīcere coepit: pater tibi erō nec"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=" tē permittam, nisi mihi novācula cum forcipe pectineque dētur et ad patrem tuum carnālem tibi dare licētur. Et obaudīvit puer et usque ad avum suum patrem carnālem Guorthigirnum perrēxit et puer illī dīxit: pater meus es, caput meum tondē et comam capitis meī. Et ille siluit et tacuit et puerō respondēre nōluit, sed surrēxit et īrātus est valdē, ut ā faciē sānctī Germānī fugeret, et maledictus est et damnātus ā sānctō Germānō et omnī Brittonum conciliō."/>
+                <ITEXT CH=" tē permittam, nisi mihi novācula cum forcipe pectineque dētur et ad patrem tuum carnālem tibi dare licētur. Et obaudīvit puer et usque ad avum suum patrem carnālem Guorthigirnum perrēxit et puer illī dīxit: pater meus es, caput meum tondē et comam capitis meī. Et ille siluit et tacuit et puerō respondēre nōluit, sed surrēxit et īrātus est valdē, ut ā faciē sānctī Germānī fugeret, et maledictus est et damnātus ā sānctō Germānō et omnī Brittōnum conciliō."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -6566,7 +6566,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="benīgnē: kind, good, friendly;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittonum: of the Britons, inhabitants of Britain; plural masculine genitive from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnum: of the Britons, inhabitants of Britain; plural masculine genitive from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="capitis: head; singular neuter genitive from caput, capitis"/>
                 <para PARENT="Vocab"/>
@@ -7764,7 +7764,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=", quae occupāvit gentēs et regiōnēs plūrimās in Brittanniā, et paene ā marī usque ad mare tenēbunt, et posteā gēns nostra surget, et gentem Anglōrum trāns mare virīliter dēiciet. Tū tamen dē istā arce vāde, quia eam aedificāre nōn potes, et multās prōvinciās circumī, ut arcem tūtam inveniās, et ego hīc manēbō. Et rēx adolēscentem dīxit: quō nōmine vocārīs? Ille respondit: Ambrosius vocor, id est, Embreis Guletic ipse vidēbātur. Et rēx dīxit: dē quā prōgeniē ortus es? At ille: ūnus est pater meus dē cōnsulibus Rōmānicae gentis. Et arcem dēdit illī"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" cum omnibus rēgnīs occidentālis plāgae Brittanniae et ipse cum magis suīs ad sinistrālem plāgam pervēnit et usque ad regiōnem, quā vocātur Guunnessī, adfuit et urbem ibi, quae vocātur suō nōmine Cair Guorthigirn, aedificāvit."/>
+                <ITEXT CH=" cum omnibus rēgnīs occidentālis plāgae Brittanniae et ipse cum magis suīs ad sinistrālem plāgam pervēnit et usque ad regiōnem, quā vocātur Guunnessī, adfuit et urbem ibī, quae vocātur suō nōmine Cair Guorthigirn, aedificāvit."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -8000,7 +8000,7 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="43"/>
-                <ITEXT CH=" Intereā Guorthemir fīlius Guorthigirn cum Hengistō et Horsō et cum gente illōrum petulanter pugnābant et eōs usque ad supradictam īnsulam, quae vocātur Tanet, expulit et eōs ibi tribus vicibus conclūsit"/>
+                <ITEXT CH=" Intereā Guorthemir fīlius Guorthigirn cum Hengistō et Horsō et cum gente illōrum petulanter pugnābant et eōs usque ad supradictam īnsulam, quae vocātur Tanet, expulit et eōs ibī tribus vicibus conclūsit"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" obsēdit percussit comminuit terruit. Et ipsī lēgātōs ultrā mare usque in Germāniam trānsmittēbant vocandō ciūlās cum ingentī numerō bellātōrum virōrum. Et posteā pugnābant contrā rēgēs nostrae gentis: aliquandō vincēbantur et expellēbantur."/>
                 <para PARENT="Latin"/>
@@ -8047,7 +8047,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Hengistō: with Hengist, the Saxon warrior (ablative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Horsō: with Hors, the Saxon warrior (ablative case)"/>
+                <ITEXT CH="Horsō: with Horsa, the Saxon warrior (ablative case)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ibī: there, then"/>
                 <para PARENT="Vocab"/>
@@ -8116,7 +8116,7 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="44"/>
-                <ITEXT CH=" Et Guorthemir contrā illōs quattuor bella avidē gessit. Prīmum bellum super flūmen Derguentid; secundum bellum super vadum, quod dīcitur in linguā eōrum Episford, in nostrā autem linguā Rithergabail, et ibi cecidit Hors cum fīliō Guorthigirnī, cuius nōmen erat Categirn. Tertium bellum in campō iuxtā lapidem"/>
+                <ITEXT CH=" Et Guorthemir contrā illōs quattuor bella avidē gessit. Prīmum bellum super flūmen Derguentid; secundum bellum super vadum, quod dīcitur in linguā eōrum Episford, in nostrā autem linguā Rithergabail, et ibī cecidit Hors cum fīliō Guorthigirnī, cuius nōmen erat Categirn. Tertium bellum in campō iuxtā lapidem"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" titulī, quī est super rīpam Gallicī maris, commīsit et barbarī vīctī sunt et ille victor fuit et ipsī in fugam versī usque ad ciūlās suās mersī"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -8215,7 +8215,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habitāverint: they had inhabited; 3rd person plural perfect active subjunctive from habitō, habitāre, habitāvī, habitātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Hors: Hors, a Saxon warrior"/>
+                <ITEXT CH="Hors: Horsa, a Saxon warrior"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ibī: there, then"/>
                 <para PARENT="Vocab"/>
@@ -8375,7 +8375,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brittanniam: Britain (accusative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnsilium: plan, advice, council; singular neuter accusative from consilium, consili(i)"/>
                 <para PARENT="Vocab"/>
@@ -8784,7 +8784,7 @@
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="47"/>
                 <ITEXT CH=" Sānctus vērō Germānus Guorthigirnō praedicābat, ut ad Dominum suum converteret et ab illicitā coniūnctiōne"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" sē sēparāret; et ille usque ad regiōnem, quae ā nōmine suō accēpit nōmen Guorthigirniaun, miserābiliter effūgit, ut ibī cum uxōribus suīs latēret. Et sānctus Germānus post illum secūtus est cum omnī clērō Brittonum et ibi quadrāgintā diēbus et quadrāgintā noctibus mānsit et super petram ōrābat et diē noctūque stābat. Et iterum Guorthigirnus usque ad arcem Guorthigirnī, quae est in regiōne Demetōrum iuxtā flūmen Teibī, ignōminiōsē abscessit. Et solitō mōre sānctus Germānus eum secūtus est et ibī ieiūnus cum omnī clērō tribus diēbus totidemque noctibus causāliter mānsit et in quārtā nocte arx tōta mediae"/>
+                <ITEXT CH=" sē sēparāret; et ille usque ad regiōnem, quae ā nōmine suō accēpit nōmen Guorthigirniaun, miserābiliter effūgit, ut ibī cum uxōribus suīs latēret. Et sānctus Germānus post illum secūtus est cum omnī clērō Brittōnum et ibī quadrāgintā diēbus et quadrāgintā noctibus mānsit et super petram ōrābat et diē noctūque stābat. Et iterum Guorthigirnus usque ad arcem Guorthigirnī, quae est in regiōne Demetōrum iuxtā flūmen Teibī, ignōminiōsē abscessit. Et solitō mōre sānctus Germānus eum secūtus est et ibī ieiūnus cum omnī clērō tribus diēbus totidemque noctibus causāliter mānsit et in quārtā nocte arx tōta mediae"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" circā noctīs hōram per ignem missum dē caelō ex imprōvīsō cecidit ārdente igne caelestī; et Guorthigirnus cum omnibus, quī cum eō erant, et cum uxōribus suīs dēfēcit. Hic est fīnis Guorthigirnī, ut in librō beātī Germānī repperī. Aliī"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -8819,7 +8819,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="beātī: blessed; singular masculine genitive from beātus, beāta -um, beātior -or -us, beātissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittonum: of the Britons, inhabitants of Britain; plural masculine genitive from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnum: of the Britons, inhabitants of Britain; plural masculine genitive from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="caelestī: heavenly matters; singular ablative from caelestis, caeleste, caelestior -or -us, caelestissimus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -9457,9 +9457,9 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" deī ērudītus est posteā in sacrīs litterīs et ad Rōmam usque pervēnit et per longum spatium mānsit ibīdem. Ad lēgandum"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" et ad scrūtanda mystēria deī et sānctārum scrīptūrārum librōs percurrit. Nam cum ibi īsset per annōs septem, missus est Palladius epīscopus prīmitus ā Caelestīnō epīscopō et Pāpā Rōmae ad Scottōs in Chrīstum convertendōs; sed prohibuit illum Deus per quāsdam tempestātēs, quia nēmō"/>
+                <ITEXT CH=" et ad scrūtanda mystēria deī et sānctārum scrīptūrārum librōs percurrit. Nam cum ibī īsset per annōs septem, missus est Palladius epīscopus prīmitus ā Caelestīnō epīscopō et Pāpā Rōmae ad Scottōs in Chrīstum convertendōs; sed prohibuit illum Deus per quāsdam tempestātēs, quia nēmō"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=" potest accipere quicquam dē terrā, nisi dē caelō datum fuerit illī dēsuper. Et profectus est ille Palladius dē Hiberniā et pervēnit ad Brittanniam et ibi dēfūnctus est in terrā Pictōrum."/>
+                <ITEXT CH=" potest accipere quicquam dē terrā, nisi dē caelō datum fuerit illī dēsuper. Et profectus est ille Palladius dē Hiberniā et pervēnit ad Brittanniam et ibī dēfūnctus est in terrā Pictōrum."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -9946,7 +9946,7 @@
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="52"/>
                 <ITEXT CH=" Tunc acceptīs benedictiōnibus perfectīsque"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" omnibus in nōmine Sānctae Trīnitātis parātam ascendit nāvim et pervēnit ad Brittanniam et praedicāvit ibi nōn multīs diēbus et āmissīs"/>
+                <ITEXT CH=" omnibus in nōmine Sānctae Trīnitātis parātam ascendit nāvim et pervēnit ad Brittanniam et praedicāvit ibī nōn multīs diēbus et āmissīs"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" omnibus ambulandī ānfrāctibus summā vēlōcitāte flātūque prōsperō mare Hibernicum cum nāvī dēscendit. Onerāta vērō nāvis cum trānsmarīnīs mīrābilibus et spīritālibus thēsaurīs perrēxit ad Hiberniam et baptīzāvit eōs."/>
                 <para PARENT="Latin"/>
@@ -10511,7 +10511,7 @@
                 <ITEXT CH="IV. ARTHVRIĀNA"/>
                 <para PARENT="Chapter Heading"/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="56"/>
-                <ITEXT CH=" In illō tempore Saxonēs invalēscēbant in multitūdine et crēscēbant in Brittanniā. Mortuō autem Hengistō Octhā fīlius eius trānsīvit dē sinistrālī parte Britanniae ad rēgnum Cantōrum et dē ipsō ortī sunt rēgēs Cantōrum. Tunc Arthur pugnābat contrā illōs in illīs diēbus cum rēgibus Brittonum, sed ipse erat dux"/>
+                <ITEXT CH=" In illō tempore Saxonēs invalēscēbant in multitūdine et crēscēbant in Brittanniā. Mortuō autem Hengistō Octhā fīlius eius trānsīvit dē sinistrālī parte Britanniae ad rēgnum Cantōrum et dē ipsō ortī sunt rēgēs Cantōrum. Tunc Arthur pugnābat contrā illōs in illīs diēbus cum rēgibus Brittōnum, sed ipse erat dux"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" bellōrum. Prīmum bellum fuit in ōstium flūminis quod dīcitur Glein. Secundum et tertium et quārtum et quīntum super aliud flūmen, quod dīcitur Dubglās et est in regiōne Linnuis. Sextum bellum super flūmen, quod vocātur Bassās. Septimum fuit bellum in silvā Celidōnis, id est Cat Coit Celidōn. Octāvum fuit bellum in castellō Guinnion, in quō Arthur portāvit imāginem Sānctae Mariae perpetuae virginis super humerōs suōs et pāgānī versī sunt in fugam in illō diē et caedēs magna fuit super illōs per virtūtem Dominī nostrī Iēsu Chrīstī et per virtūtem Sānctae Mariae genetrīcis eius."/>
                 <para PARENT="Latin"/>
@@ -10540,7 +10540,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brittannia: Britain"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittonum: of the Britons, inhabitants of Britain; plural masculine genitive from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnum: of the Britons, inhabitants of Britain; plural masculine genitive from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="caedēs: slaughter; singular feminine nominative from caedēs, caedis"/>
                 <para PARENT="Vocab"/>
@@ -10881,7 +10881,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="Ipse est Aedlfred Fleasur. nam et ipse habuit fīliōs septem, quōrum nōmina sunt Anfrid, Osguald, Osbiu, Osgudu, Oslapf, Offa, Osguid genuit Alcfrid, et Aelfguin, et Echfrid."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Echfrid ipse est quī fēcit bellum contrā frātruēlem suum, quī erat rēx Pictōrum nōmine Birdēī et ibi corruit cum omnī rōbore exercitus suī et Pictī cum rēge suō victōrēs extitērunt et numquam addidērunt Saxonēs ambrōnum"/>
+                <ITEXT CH="Echfrid ipse est quī fēcit bellum contrā frātruēlem suum, quī erat rēx Pictōrum nōmine Birdēī et ibī corruit cum omnī rōbore exercitus suī et Pictī cum rēge suō victōrēs extitērunt et numquam addidērunt Saxonēs ambrōnum"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" ut ā Pictīs vectīgal exigerent. Ā tempore istīus bellī vocātur Gueith Līn Garan."/>
                 <para PARENT="Latin"/>
@@ -11512,7 +11512,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brittannīcō: Britannic (ablative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine accusative from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine accusative from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="centum: hundred; from centum, centesimus -a -um, centeni -ae -a, centie (n)s"/>
                 <para PARENT="Vocab"/>
@@ -12011,9 +12011,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="bellō: battle, war; singular neuter ablative from bellum, bellī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine accusative from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine accusative from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittonum: of the Britons, inhabitants of Britain; plural masculine genitive from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnum: of the Britons, inhabitants of Britain; plural masculine genitive from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="campī: fields; singular masculine genitive from campus, campī"/>
                 <para PARENT="Vocab"/>
@@ -12136,7 +12136,7 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="65"/>
-                <ITEXT CH=" Tunc reddidit Osguid omnēs dīvitiās, quae erant cum eō in urbe, usque in manū Pendae et Penda distribuit ea rēgibus Brittonum, id est Atbret Iudeu. Sōlus autem Catgabail rēx Guenedōtae regiōnis cum exercitū suō ēvāsit dē nocte cōnsurgēns, quāpropter vocātus est Catgabail Catguommed. Ecgfrid fīlius Osbiū rēgnāvit novem annīs. In tempore illīus sānctus Cudbert epīscopus obiit in īnsulā Medcaut. Ipse est quī fēcit bellum contrā Pictōs et corruit ibī."/>
+                <ITEXT CH=" Tunc reddidit Osguid omnēs dīvitiās, quae erant cum eō in urbe, usque in manū Pendae et Penda distribuit ea rēgibus Brittōnum, id est Atbret Iudeu. Sōlus autem Catgabail rēx Guenedōtae regiōnis cum exercitū suō ēvāsit dē nocte cōnsurgēns, quāpropter vocātus est Catgabail Catguommed. Ecgfrid fīlius Osbiū rēgnāvit novem annīs. In tempore illīus sānctus Cudbert epīscopus obiit in īnsulā Medcaut. Ipse est quī fēcit bellum contrā Pictōs et corruit ibī."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Penda fīlius Pybba rēgnāvit decem annīs. Ipse prīmus sēparāvit rēgnum Merciōrum ā rēgnō Nordōrum et Onnan rēgem Easteranglōrum et sānctum Oswaldum rēgem Nordōrum occīdit per dolum. Ipse fēcit bellum Cocboy, in quō cecidit Eoua fīlius Pippa frāter eius rēx Merciōrum et Oswald rēx Nordōrum et ipse victor fuit per diabolicum artem. Nōn erat baptīzātus et numquam Deō crēdidit."/>
                 <para PARENT="Latin"/>
@@ -12159,7 +12159,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="bellum: battle, war; singular neuter nominative from bellum, bellī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brittonum: of the Britons, inhabitants of Britain; plural masculine genitive from Britto, Brittonis"/>
+                <ITEXT CH="Brittōnum: of the Britons, inhabitants of Britain; plural masculine genitive from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Catgabail: king of Gwynedd"/>
                 <para PARENT="Vocab"/>
@@ -12689,7 +12689,7 @@
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="67"/>
-                <ITEXT CH=" Prīmum mīrāculum est stāgnum Lumonoy. In eō sunt īnsulae sexāgintā et ibi habitant hominēs et sexāgintā rūpibus ambitur et nīdus aquilae in ūnāquāque rūpe est et flūmina fluunt sexāgintā in eō et nōn vādit ex eō ad mare nisi ūnum flūmen, quod vocātur Lemn."/>
+                <ITEXT CH=" Prīmum mīrāculum est stāgnum Lumonoy. In eō sunt īnsulae sexāgintā et ibī habitant hominēs et sexāgintā rūpibus ambitur et nīdus aquilae in ūnāquāque rūpe est et flūmina fluunt sexāgintā in eō et nōn vādit ex eō ad mare nisi ūnum flūmen, quod vocātur Lemn."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Secundum mīrāculum ōstium Trahannōnī flūminis, quia in ūnā undā īnstar montis ad sissam tegit lītora et recēdit ut cētera maria."/>
                 <para PARENT="Latin"/>
@@ -13203,13 +13203,13 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="70"/>
-                <ITEXT CH=" Est aliud mīrābile in regiōne Cinlipiūc. Est ibi fōns nōmine Finnaun Guur Helic; nōn fluit rīvus ex eō neque in eō. Vādunt hominēs piscārī ad fontem, aliī vādunt in fontem ad partem orientis et dēdūcunt piscēs ex eā parte, aliī ad dextram"/>
+                <ITEXT CH=" Est aliud mīrābile in regiōne Cinlipiūc. Est ibī fōns nōmine Finnaun Guur Helic; nōn fluit rīvus ex eō neque in eō. Vādunt hominēs piscārī ad fontem, aliī vādunt in fontem ad partem orientis et dēdūcunt piscēs ex eā parte, aliī ad dextram"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=", aliī ad sinistram, ad occidentamque, et trahuntur piscēs ex eā parte. Et aliud genus piscium trahitur ex omnibus partibus. Magnum mīrābile piscēs invenīrī in fonte, dum nōn flūmen fluit in eō neque ex eō, et in eō inveniuntur quattuor genera piscium et nōn est dē magnitūdine neque dē profunditāte. Profunditās illīus usque genua, vīgintī pedēs sunt in logitūdīne et lātitūdine, rīpās altās habet ex omnī parte."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Iuxtā flūmen, quod vocātur Guoy, pōma inveniuntur super fraxinum in prōclīvō saltus, quī est prope ōstiō flūminis."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Est aliud mīrābile in regiōne quae vocātur Guent. Est ibi fovea, ā quā ventus īnflat per omne tempus sine intermissiōne, et quandō nōn flat ventus in tempore aestātis, dē illā foveā incessanter flat, ut nēmō possit sustinēre neque ante foveae profunditātem. Et vocātur nōmen eius Vith Guint Brittannīcō sermōne, Latīnē autem flātiō ventī. Magnum mīrābile est ventus dē terrā flāre."/>
+                <ITEXT CH="Est aliud mīrābile in regiōne quae vocātur Guent. Est ibī fovea, ā quā ventus īnflat per omne tempus sine intermissiōne, et quandō nōn flat ventus in tempore aestātis, dē illā foveā incessanter flat, ut nēmō possit sustinēre neque ante foveae profunditātem. Et vocātur nōmen eius Vith Guint Brittannīcō sermōne, Latīnē autem flātiō ventī. Magnum mīrābile est ventus dē terrā flāre."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -13808,7 +13808,7 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="72"/>
-                <ITEXT CH=" Est aliud mīrābile in suprā dictā regiōne Guent. Est ibi fōns iuxtā vallum puteī Mouric et lignum in mediō fontis et lavant hominēs manūs suās cum faciēbus suīs et lignum"/>
+                <ITEXT CH=" Est aliud mīrābile in suprā dictā regiōne Guent. Est ibī fōns iuxtā vallum puteī Mouric et lignum in mediō fontis et lavant hominēs manūs suās cum faciēbus suīs et lignum"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" sub pedibus suīs habent, quandō lavant. Nam et egō probāvī et vīdī. Quandō mare inundātur, ad mallīnam"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -13990,7 +13990,7 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="73"/>
-                <ITEXT CH=" Est aliud mīrāculum in rēgiōn quae vocātur Ercing. Habētur ibi sepulchrum iuxtā fontem, quī cognōminātur Licat Anir, et virī nōmen, quī sepultus est in tumulō, sīc vocābātur Anir: fīlius Arthūrī mīlitis erat et ipse"/>
+                <ITEXT CH=" Est aliud mīrāculum in rēgiōn quae vocātur Ercing. Habētur ibī sepulchrum iuxtā fontem, quī cognōminātur Licat Anir, et virī nōmen, quī sepultus est in tumulō, sīc vocābātur Anir: fīlius Arthūrī mīlitis erat et ipse"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" occīdit eum ibīdem et sepelīvit. Et veniunt hominēs ad mēnsūrandum tumulum in longitūdine aliquandō sex pedēs, aliquandō novem, aliquandō duodecim, aliquandō quindecim. In quā mēnsūrā mētiēris eum in istā vice, iterum nōn inveniēs eum in ūnā mēnsūrā, et ego sōlus"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -14120,7 +14120,7 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="74"/>
-                <ITEXT CH=" Est aliud mīrābile in regiōne quae vocātur Cereticiaun. Est ibi mōns, quae cognōminātur Cruc Maur, et est sepulchrum in cacūmine illīus et omnis homō quīcumque"/>
+                <ITEXT CH=" Est aliud mīrābile in regiōne quae vocātur Cereticiaun. Est ibī mōns, quae cognōminātur Cruc Maur, et est sepulchrum in cacūmine illīus et omnis homō quīcumque"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" vēnerit ad sepulchrum et extenderit sē iuxtā illud, quamvīs brevis fuerit, in ūnā longitūdine invenītur sepulchrum et homō, et sī fuerit homō brevis et parvus, similiter et longitūdinem sepulchrī iuxtā statūram hominis invenītur. Et sī fuerit longus atque prōcērus, etiam sī fuisset in longitūdine quattuor cubitōrum, iuxtā statūram ūnīuscuiusque hominī sīc tumulus reperītur. Et omnī"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -14292,7 +14292,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" est lītus sine marī."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Secundum mīrāculum est ibi mōns quī gyrātur tribus vicibus in annō."/>
+                <ITEXT CH="Secundum mīrāculum est ibī mōns quī gyrātur tribus vicibus in annō."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Tertium mīrāculum vadum"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -14410,7 +14410,7 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="76"/>
-                <ITEXT CH=" Est ibi stāgnum quod vocātur Luchlein, quattuor circulīs ambītur. Prīmō circulō gronna"/>
+                <ITEXT CH=" Est ibī stāgnum quod vocātur Luchlein, quattuor circulīs ambītur. Prīmō circulō gronna"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" stannī ambītur, secundō circulō gronna plumbī ambītur, tertiō circulō gronna ferrī ambītur, quārtō circulō gronna āeris ambītur, et in eō stāgnō multae margarītae inveniuntur, quās pōnunt rēgēs in auribus suīs."/>
                 <para PARENT="Latin"/>
@@ -14959,7 +14959,7 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Which you received into your kingdom."/>
-                <ITEXT CH=" The people this refers to is the Saxons, who Vortigern let in via Hengist and Hors."/>
+                <ITEXT CH=" The people this refers to is the Saxons, who Vortigern let in via Hengist and Horsa."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And all the regions, which you love, they will occupy with their whole people after your death."/>
@@ -15063,7 +15063,7 @@
                 <ITEXT CH=" means he gave him the building site and the materials. "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretātus"/>
                 <ITEXT CH=" glosses this passage as: "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Dedit igitur Guorthigirnus arcem Ambrosiō et rēgnum totius occidentālis Britanniae et ipse cum suīs magīs ad septentriōnālem plāgam īnsulae Britanniae pervēnit usque ad regiōnem cui est nōmen Guunis, et arcem ibi aedificāvit, cuius nōmen Caer Guorthigirn."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Dedit igitur Guorthigirnus arcem Ambrosiō et rēgnum totius occidentālis Britanniae et ipse cum suīs magīs ad septentriōnālem plāgam īnsulae Britanniae pervēnit usque ad regiōnem cui est nōmen Guunis, et arcem ibī aedificāvit, cuius nōmen Caer Guorthigirn."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -15471,7 +15471,7 @@
                 <ITEXT CH="Bibliography"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
-                <ITEXT CH="“Historia Brittonum.” "/>
+                <ITEXT CH="“Historia Brittōnum.” "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Chronica Minora Saec. IV. V. VI. VII."/>
                 <ITEXT CH=", edited by Theodor Mommsen, vol. 3, Weidmann, 1898, pp. 111–219, "/>
                 <ITEXT FONT="DejaVu Serif Book" CH="https://archive.org/details/chronicaminorasa13momm/page/n13/mode/2up"/>
@@ -15494,7 +15494,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="Historia Brittonum:"/>
+                <ITEXT CH="Historia Brittōnum:"/>
                 <para PARENT="Chapter Heading"/>
                 <para PARENT="Chapter Heading"/>
                 <ITEXT CH="A Latin Reader"/>
@@ -15536,14 +15536,14 @@
                 <para/>
                 <tab/>
                 <ITEXT CH="This is a Latin reader edition of the "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittonum"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittōnum"/>
                 <ITEXT CH=", often attributed to Nennius, a Welsh monk in the ninth century. It was written around 831 AD and contains interesting accounts of kings and saints and marvels found in the British Isles."/>
                 <para/>
                 <para/>
                 <ITEXT CH="This reader edition was produced to meet the following goals:"/>
                 <para/>
                 <ITEXT CH="    - to make an inexpensive print copy of the "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittonum"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittōnum"/>
                 <ITEXT CH=" publicly available."/>
                 <para/>
                 <ITEXT CH="    - to provide a legible (not photo-copied) text with macrons."/>
@@ -15564,13 +15564,13 @@
                 <para ALIGN="1"/>
                 <tab/>
                 <ITEXT CH="This reader edition of the "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittonum"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittōnum"/>
                 <ITEXT CH=" is not a critical edition of the text; for that, please consult Mommsen's work which is cited in the bibliography. Additionally, I am not an expert on the Welsh language or British history; therefore I apologize in advance for anything I may have overlooked in the identification of place-names. Furthermore, the numbers and calculations contained in the text often have many textual variants presented in Mommsen's critical text. This will not be of concern to most readers, but those who want precision in the dates should consult Mommsen's text. The glosses provided in the footnotes are intentionally woodenly literal; their purpose is to aid the reader in understanding the Latin, not to provide an idiomatic English translation."/>
                 <para/>
                 <para/>
                 <tab/>
                 <ITEXT CH="The "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittonum"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittōnum"/>
                 <ITEXT CH=" appears from its form to be a compilation of other sources. Additionally, some facts related (such as a Pope named Eucharistus in section 21) are not corroborated by any other source and are likely in error or have missing context."/>
                 <para/>
                 <para/>
@@ -15578,14 +15578,14 @@
                 <ITEXT CH="An additional source cited in the footnotes and glossaries is "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretātus"/>
                 <ITEXT CH=". This is a modern translation into Latin of a medieval Irish-language version of the "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittonum"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittōnum"/>
                 <ITEXT CH=". This provides additional insight into how a medieval reader interpreted the text."/>
                 <para/>
                 <para/>
                 <para/>
                 <para/>
                 <para/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Fīnis intrōductiōnis. Incipit textus Historiae Brittonum."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Fīnis intrōductiōnis. Incipit textus Historiae Brittōnum."/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
