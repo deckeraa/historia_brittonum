@@ -4634,7 +4634,7 @@
                 <ITEXT CH="āiunt: they say; 3rd person plural present active from āiō, āiere, -"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Ambrosiī: of Ambrosius, probably Ambrosius Aurelianus, a Romano-British commander of the same time period as Guorthigirnus; "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretātus"/>
                 <ITEXT CH=" supports this view. Other options involve Ambrosius (Merlinus) or Ambrose of Milan (unlikely, though mentioned in section 29)."/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="amen: amen, truly, verily"/>
@@ -6377,9 +6377,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fīlium: son; singular masculine accusative from fīlius, fīlī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fratuelī: his brother/cousin. This wasn't in any dictionaries I consulted, but the meaning is clear from context. Nennius Interpretatus glosses it as 'filium sororis eius matris'"/>
+                <ITEXT CH="fratuelī: his brother/cousin. This wasn't in any dictionaries I consulted, but the meaning is clear from context. Nennius Interpretātus glosses it as 'filium sororis eius matris'"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Frenessicum: the North Sea, which lies off the east coast of England, also known as the Frisian Sea. Nennius Interpretatus spells it Fresicum."/>
+                <ITEXT CH="Frenessicum: the North Sea, which lies off the east coast of England, also known as the Frisian Sea. Nennius Interpretātus spells it Fresicum."/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="gēns: people, clan, nation; singular feminine nominative from gēns, gentis"/>
                 <para PARENT="Vocab"/>
@@ -8621,7 +8621,7 @@
                 <ITEXT CH="ficōnibus: shoes; this word wasn't in any dictionary I consulted; by context it must mean shoes. "/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ficōnis: shoe; this word wasn't in any dictionary I consulted; by context it must mean shoe. "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretātus"/>
                 <ITEXT CH=" glosses this passage as "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Sed Saxōnes habēbant secum cultrōs inter plantās et soleās"/>
                 <ITEXT CH="."/>
@@ -14785,7 +14785,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH="I added this comma for ease of parsing. Another text, "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretātus"/>
                 <ITEXT CH=", glosses this sentance as "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Grātiānus et Aequitiuus in rēgnō Rōmānōrum in illō tempore, ā nātīvitāte Chrīstī autem 347 annōs."/>
                 <trail PARENT="footnotes"/>
@@ -14934,7 +14934,7 @@
                 <ITEXT CH=" Note: a more literal translation might be: "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="I will be your father and will not let you go, unless I am given a knife with forceps and a comb and it is permitted to you to give them to your biological father"/>
                 <ITEXT CH=". It appears that Saint Germanus, after having been falsely accused of fathering the child, says he will accept the child but that the child's biological father must first permit the child to be tonsured and therefore accepted into Germanus's religious order. This deflects the accusation and convinces the son to identify his biological father, exposing Vortigern's lie. "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretātus"/>
                 <ITEXT CH=" glosses the passage as: "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Germānus accēpit et dīxit pūrō: pater tibi erō. Et poscēbat Germānus novāculam et forcipem et pecten, ut daret ea in manum puerī. Et factum est et dīxit Germānus: ō fīlī, dā haec in manum patris tuī carnālis; et surrēxit puer et dedit pecten et forcipem et novaculum in manum Guorthigirnī et dīxit: pater mī, inquit, tondē mē, nam tū es pater meus carnālis, Germānus autem pater meus ē fide. Guorthigernum puduit et īrātus est valdē et effūgit ē conventū et omnēs Britōnēs maledīxērunt eī et Germānus damnāvit eum"/>
                 <ITEXT CH="."/>
@@ -15044,11 +15044,11 @@
                 <ITEXT CH=" as "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="northern"/>
                 <ITEXT CH=" to follow the scribe who wrote "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretātus"/>
                 <ITEXT CH=", apparently following a medieval convention of orienting maps with east at the top. The castle hadn't yet been built, so perhaps "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="arcem dēdit illī"/>
                 <ITEXT CH=" means he gave him the building site and the materials. "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretātus"/>
                 <ITEXT CH=" glosses this passage as: "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Dedit igitur Guorthigirnus arcem Ambrosiō et rēgnum totius occidentālis Britanniae et ipse cum suīs magīs ad septentriōnālem plāgam īnsulae Britanniae pervēnit usque ad regiōnem cui est nōmen Guunis, et arcem ibi aedificāvit, cuius nōmen Caer Guorthigirn."/>
                 <trail PARENT="footnotes"/>
@@ -15076,7 +15076,7 @@
                 <ITEXT CH="could be translated as "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="they drowned"/>
                 <ITEXT CH="; "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretātus"/>
                 <ITEXT CH=" glosses this as "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Saxonēs in fugam versī sunt usque ad suās ciūlās muliebriter"/>
                 <ITEXT CH="."/>
@@ -15428,7 +15428,7 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH="Here begins another list of marvels, giving the feel that the author compiled together two already-existing lists of marvels. "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretātus"/>
                 <ITEXT CH=" titles these as marvels from the Isle of Man."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -15554,7 +15554,7 @@
                 <para/>
                 <tab/>
                 <ITEXT CH="An additional source cited in the footnotes and glossaries is "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretatus"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretātus"/>
                 <ITEXT CH=". This is a modern translation into Latin of a medieval Irish-language version of the "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Historia Brittonum"/>
                 <ITEXT CH=". This provides additional insight into how a medieval reader might have interpreted the text."/>
