@@ -278,14 +278,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="64916.2511999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="156" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="157" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="158" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="483912789" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="932066904481.698" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="483912789" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="935129841062.532" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="483857909" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13715199226.0008" gYpos="932066244706.737" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="483857909" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13771524646.0008" gYpos="935129181287.572" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -4183,7 +4183,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brittōnēs: Britons, inhabitants of Britain; plural masculine nominative from Brittō, Brittōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cēnsum: tribute, census; singular neuter nominative perfect passive participle from cens.um"/>
+                <ITEXT CH="cēnsum: tribute, census; singular masculine accusative from cēnsus, cēnsūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dedērunt: they gave; 3rd person plural perfect active from dō, dare, dedī, datus"/>
                 <para PARENT="Vocab"/>
@@ -4406,7 +4406,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tōtō: whole, total; singular ablative from tōtus, tōta, tōtum (gen -ius)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsfretāret: he passed overed, ferried; 3rd person singular imperfect active subjunctive from trānsfretō, trānsfretāre, trānsfretāvī, trānsfretātus"/>
+                <ITEXT CH="trānsfretāret: he passed over, ferried; 3rd person singular imperfect active subjunctive from trānsfretō, trānsfretāre, trānsfretāvī, trānsfretātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tum: then"/>
                 <para PARENT="Vocab"/>
@@ -4414,7 +4414,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tyrannō: tyrant; singular masculine ablative from tyrannus, tyrannī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Valentiānō: Valens; (Emperor Flavius Julius Valens 364-378 lost at Adrianople); singular masculine dative from Valens, Valentis"/>
+                <ITEXT CH="Valentiānō: Valens; (Emperor Flavius Julius Valens 364-378 lost at Adrianople); singular masculine ablative from Valens, Valentis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Valentiānus: Valens; (Emperor Flavius Julius Valens 364-378 lost at Adrianople); singular masculine nominative from Valens, Valentis"/>
                 <para PARENT="Vocab"/>
@@ -4455,7 +4455,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="autem: but, however, moreover"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="auxilium: help, aid; singular neuter accusative from auxilium, auxili(i)"/>
+                <ITEXT CH="auxilium: help, aid; singular neuter accusative from auxilium, auxiliī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="barbarōrum: of the barbarous; plural masculine genitive from barbarus, barbara -um, barbarior -or -us, barbarissimus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -4503,7 +4503,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="gentibus: peoples, clans, nations; plural feminine ablative from gēns, gentis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="grāta: agreeable, thankful; singular feminine accusative from grātus, grāta -um, grātior -or -us, grātissimus -a -um"/>
+                <ITEXT CH="grāta: agreeable, thankful; plural neuter accusative from grātus, grāta -um, grātior -or -us, grātissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="gravitātem: gravity, weight, importance; singular feminine accusative from gravitās, gravitātis"/>
                 <para PARENT="Vocab"/>
@@ -4720,7 +4720,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="expulsae: having been driven out; plural feminine nominative perfect passive participle from expellō, expellere, expulī, expulsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="factum: factum est = was made; singular neuter nominative perfect passive participle from faciō, facere, fēcī, factus"/>
+                <ITEXT CH="factum: factum est = it occurred; singular neuter nominative perfect passive participle from faciō, facere, fēcī, factus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fīliī: of the son; singular masculine genitive from fīlius, fīlī"/>
                 <para PARENT="Vocab"/>
@@ -4754,7 +4754,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Guorthigirnō: by Guorthigirnus (Vortigern) (ablative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Guorthigirnus: Guorthigirnus (Vortigern), a 5th-century warlord in Britian who invited in Hengist and Horsa"/>
+                <ITEXT CH="Guorthigirnus: Guorthigirnus (Vortigern), a 5th-century warlord in Britain who invited in Hengist and Horsa"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Hengist: a Saxon warrior who came to Britain during the reign of Guorthigirnus (Vortigern)"/>
                 <para PARENT="Vocab"/>
@@ -4764,7 +4764,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illōrum: of those; plural masculine or neuter genitive from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="imperiō: command, dominion, empire; singular neuter ablative from imperium, imperi(ī)"/>
+                <ITEXT CH="imperiō: command, dominion, empire; singular neuter ablative from imperium, imperiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="impetū: attack, assault, fury; singular masculine ablative from impetus, impetūs"/>
                 <para PARENT="Vocab"/>
@@ -4774,7 +4774,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="inter: between, among, during"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="intereā: during"/>
+                <ITEXT CH="intereā: meanwhile"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ipse: himself; singular masculine nominative from ipse, ipsa, ipsum"/>
                 <para PARENT="Vocab"/>
@@ -4877,7 +4877,7 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="32"/>
-                <ITEXT CH=" In tempore illīus venit sānctus Germānus ad praedicandum in Brittanniā et clāruit apud illōs in multīs virtūtibus et multī per eum salvī factī sunt et plūrimī periērunt"/>
+                <ITEXT CH=" In tempore illīus vēnit sānctus Germānus ad praedicandum in Brittanniā et clāruit apud illōs in multīs virtūtibus et multī per eum salvī factī sunt et plūrimī periērunt"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH="."/>
                 <para PARENT="Latin"/>
@@ -5020,6 +5020,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quī: who; plural masculine nominative of quis"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="quīdam: a certain; singular masculine nominative of quīdam"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="rēgem: king; singular masculine accusative from rēx, rēgis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="respōnsum: response; singular neuter accusative from respōnsum, respōnsī"/>
@@ -5097,11 +5099,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="casam: house; singular feminine accusative from casa, casae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōnfringerētur: it was not broken; 3rd person singular imperfect passive subjunctive from cōnfringō, cōnfringere, cōnfrēgī, cōnfrāctus"/>
+                <ITEXT CH="cōnfringerētur: it might not be broken; 3rd person singular imperfect passive subjunctive from cōnfringō, cōnfringere, cōnfrēgī, cōnfrāctus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="coxit: he cooked; 3rd person singular perfect active from coquō, coquere, coxī, coctus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="crāstinō: tomorrow; singular masculine ablative from crāstinus, crāstina, crāstinum"/>
+                <ITEXT CH="crāstinō: on the next day; singular masculine ablative from crāstinus, crāstina, crāstinum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
@@ -5147,7 +5149,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illīs: to them; plural dative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="illōs: that; plural masculine accusative from ille, illa, illud"/>
+                <ITEXT CH="illōs: them; plural masculine accusative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
@@ -5213,7 +5215,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sīc: thus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="suam: her; singular feminine acc. from suus"/>
+                <ITEXT CH="suam: his, her, its; singular feminine acc. from suus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suscēpit: he received, supported; 3rd person singular perfect active from suscipiō, suscipere, suscēpī, susceptus"/>
                 <para PARENT="Vocab"/>
@@ -5254,7 +5256,7 @@
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="33"/>
                 <ITEXT CH=" Iterum dē māne surrēxērunt, ut impetrārent"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" salūtātiōnem tyrannī. At ipsī, cum ōrārent et exspectārent iuxtā portam arcis, et ecce vir ūnus currēbat et sūdor illīus ā vertice ad plantās pedum distillābat. Inclīnābat sē ante illōs et dīxit sānctus Germānus: crēdis in Sānctam Trīnitātem? Et respondit ille: crēdō, et baptīzātus est et ōsculāvit eum et dīxit illī: vāde in pāce: in istā hōrā moriēris et angelī Deī in aere expectant tē, ut gradiēris cum illīs ad Deum, cui crēdidistī. Et ipse laetus intrāvit in arcem et praefectus tenuit illum et alligāvit et ante tyrannum ductūs et interfectus est, quia mōs erat apud nēquissimum"/>
+                <ITEXT CH=" salūtātiōnem tyrannī. At ipsī, cum ōrārent et exspectārent iuxtā portam arcis, et ecce vir ūnus currēbat et sūdor illīus ā vertice ad plantās pedum distillābat. Inclīnābat sē ante illōs et dīxit sānctus Germānus: crēdis in Sānctam Trīnitātem? Et respondit ille: 'crēdō', et baptīzātus est et ōsculāvit eum et dīxit illī: 'vāde in pāce: in istā hōrā moriēris et angelī Deī in aere expectant tē, ut gradiēris cum illīs ad Deum, cui crēdidistī'. Et ipse laetus intrāvit in arcem et praefectus tenuit illum et alligāvit et ante tyrannum ductūs et interfectus est, quia mōs erat apud nēquissimum"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" tyrannum, nisi quis ante sōlis ortum pervēnisset ad servitūtem in arce, interficiēbātur. Et mānsērunt tōtā diē iuxtā portam cīvitātis et nōn impetrāvērunt, ut salūtārent tyrannum."/>
                 <para PARENT="Latin"/>
@@ -5361,7 +5363,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ipsī: they themselves; plural masc. nom. from ipse, ipsa, ipsum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="istā: that; singular feminine ablative from iste, ista, istud"/>
+                <ITEXT CH="istā: this; singular feminine ablative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iterum: again"/>
                 <para PARENT="Vocab"/>
@@ -5386,6 +5388,8 @@
                 <ITEXT CH="ōrārent: they prayed; 3rd person plural imperfect active subjunctive from ōrō, ōrāre, ōrāvī, ōrātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ortum: rising, beginning; singular masculine accusataive from neuter"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ōsculāvit: he kissed; 3rd person singular perfect from ōsculō, ōsculāre, ōsculāvī, ōsculātum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pāce: peace; singular feminine ablative from pāx, pācis"/>
                 <para PARENT="Vocab"/>
@@ -5454,7 +5458,7 @@
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="34"/>
                 <ITEXT CH=" Solitō"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" ex mōre suprādictus adfuit servus et dīxit illī sānctus Germānus: cavē, nē ūnus homō maneat dē hominibus tuīs in istā nocte in arce. Et ipse reversus est in arcem et dēdūxit fīliōs suōs, quōrum numerus erat novem, et ipsī ad suprā dictum hospitium cum ipsō reversī sunt. Et praecēpit sānctus Germānus manēre"/>
+                <ITEXT CH=" ex mōre suprādictus adfuit servus et dīxit illī sānctus Germānus: 'cavē, nē ūnus homō maneat dē hominibus tuīs in istā nocte in arce'. Et ipse reversus est in arcem et dēdūxit fīliōs suōs, quōrum numerus erat novem, et ipsī ad suprā dictum hospitium cum ipsō reversī sunt. Et praecēpit sānctus Germānus manēre"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" eōs ieiūnōs et clausīs iānuīs dīxit: vigilantēs ēstote et sī quid"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -5476,6 +5480,8 @@
                 <ITEXT CH="appāruērunt: they appeared; 3rd person plural perfect active from appāreō, appārēre, appāruī, appāritus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="arce: citadel; singular feminine ablative from arx, arcis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="arcem: citadel; singular feminine accusative from arx, arcis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="arx: citadel; singular feminine nominative from arx, arcis"/>
                 <para PARENT="Vocab"/>
@@ -5638,10 +5644,12 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="35"/>
-                <ITEXT CH=" In crāstinō diē ille vir, quī hospitālis fuit illīs, crēdidit et baptīzātus est cum omnibus fīliīs suīs et omnīs rēgiō cum eīs, cui nōmen erat Catel. Et benedīxit eī et addidit et dīxit: nōn dēficiet rēx dē sēmine tuō. Ipse est Catell"/>
+                <ITEXT CH=" In crāstinō diē ille vir, quī hospitālis fuit illīs, crēdidit et baptīzātus est cum omnibus fīliīs suīs et omnīs rēgiō cum eīs, cui nōmen erat Catel. Et benedīxit eī et addidit et dīxit: nōn dēficiet"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" Durnlūc, et tū rēx eris ab hodiernā diē. Et sīc ēvenit; et implētum est, quod dictum est per prophētam"/>
+                <ITEXT CH=" rēx dē sēmine tuō. Ipse est Catell"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" Durnlūc, et tū rēx eris ab hodiernā diē. Et sīc ēvenit; et implētum est, quod dictum est per prophētam"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" dīcentem: 'suscitāns dē pulvere egēnum, et dē stercore ērigēns pauperem, ut sedeat cum prīncipibus et solium glōriae teneat.' Iūxtā verba sānctī Germānī rēx dē servō factī sunt, et ā sēmine illōrum omnis regiō Povīsōrum regitur usque in hodiernum diem."/>
                 <para PARENT="Latin"/>
             </StoryText>
@@ -5769,7 +5777,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sedeat: he sits; 3rd person singular present active subjunctive from sedeō, sedēre, sēdī, sessus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sēmine: seed; singular neuter ablative from sēmen, sēminis"/>
+                <ITEXT CH="sēmine: offspring, descendants; singular neuter ablative from sēmen, sēminis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="servō: servant; singular masculine ablative from servus, servī"/>
                 <para PARENT="Vocab"/>
@@ -14768,7 +14776,9 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Again the topic of Maximus the tyrant should be returned to."/>
-                <ITEXT CH=" repetendus is a gerundive, giving it the sense of &quot;should&quot;."/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="repetendus"/>
+                <ITEXT CH=" is a gerundive, giving it the sense of &quot;should&quot;."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="The Synod in Constantinople is gathered from 318 fathers, in which all heresies are condemned."/>
@@ -14783,7 +14793,7 @@
                 <ITEXT CH=" to make the text easier to parse."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="At the third milestone from Aquileia, spoiling his royal garments, he is stopped and beheaded."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="At the third milestone from Aquileia, spoiling his royal garments, he (presumably Maximus) is stopped and beheaded."/>
                 <ITEXT CH="  I added commas after "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="cōnsulibus"/>
                 <ITEXT CH=" and "/>
@@ -14799,7 +14809,7 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="And they promised with an oath to accept the yoke of Roman law, even if it was hard."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="melle"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Melle"/>
                 <ITEXT CH=" literally means &quot;with honey&quot; but here likely indicates pleasant things in general."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
@@ -14813,7 +14823,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH="I added this comma for ease of parsing. Another text, "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Nennius Interpretātus"/>
-                <ITEXT CH=", glosses this sentance as "/>
+                <ITEXT CH=", glosses this sentence as "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Grātiānus et Aequitiuus in rēgnō Rōmānōrum in illō tempore, ā nātīvitāte Chrīstī autem 347 annōs."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
@@ -14849,7 +14859,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="That they not break a bone of his bones"/>
-                <ITEXT CH=". This is reminiscent of John 19:36 ἐγένετο γὰρ ταῦτα ἵνα ἡ γραφὴ πληρωθῇ  &quot;This happened that the scripture be fulfilled: not one of his bones will be broken&quot;, which in turn references LXX Psalm 33:21 φυλάσσει Κύριος πάντα τὰ ὀστᾶ αὐτῶν, ἓν ἐξ αὐτῶν οὐ συντριβήσεται. &quot;The Lord guards all his bones, not one of them will be broken&quot;."/>
+                <ITEXT CH=". This is reminiscent of John 19:36 ἐγένετο γὰρ ταῦτα ἵνα ἡ γραφὴ πληρωθῇ Ὀστοῦν οὐ συντριβήσεται αὐτοῦ.  &quot;This happened that the scripture be fulfilled: not one of his bones will be broken&quot;, which in turn references LXX Psalm 33:21 φυλάσσει Κύριος πάντα τὰ ὀστᾶ αὐτῶν, ἓν ἐξ αὐτῶν οὐ συντριβήσεται. &quot;The Lord guards all his bones, not one of them will be broken&quot;."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -14887,10 +14897,13 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="A king will not lack from your offspring."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="He himself is Catell Durnllūc, and you will be king from this day. "/>
                 <ITEXT CH="It appears the servant's name is Catel, he is made king, and is told that his son Catell Durnlūc will be king after him."/>
                 <para PARENT="footnotes"/>
-                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH="This is a quote from 1 Samuel 2:8, in a prayer Hannah makes after giving birth to Samuel."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
@@ -14899,7 +14912,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="It happened, however, after (the new land for) the Saxons were measured off in the above-said island Thanet, the above-said king (Guorthigirn/Vortigern) promised to give to them food and clothing so long as they didn't rebel."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="It happened, however, after (the new lands for) the Saxons were measured off in the above-said island Thanet, the above-said king (Guorthigirn/Vortigern) promised to give to them food and clothing so long as they didn't rebel."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Because we do not need your help."/>
