@@ -278,14 +278,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="64916.2511999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="156" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="157" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="158" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="630388644" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="937556528156.189" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="630388644" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="939438985316.599" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1074820932" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13816149850.0008" gYpos="937555868381.229" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1074820932" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13850767018.0008" gYpos="939438325541.639" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -7285,7 +7285,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quī: who; plural masculine nominative of quis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quia: because"/>
+                <ITEXT CH="quia: that"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quōmodo: how, by which means"/>
                 <para PARENT="Vocab"/>
@@ -7344,6 +7344,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="āit: he said; 3rd person singular present active from aio, -, -"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="arcem: castle, citadel; singular feminine nominative from arx, arcis"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="arx: citadel; singular feminine nominative from arx, arcis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aspergerētur: it was sprinkled, inflicted; 3rd person singular imperfect passive subjunctive from aspergō, aspergere, aspersī, aspersus"/>
@@ -7364,7 +7366,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="crāstinō: tomorrow; singular masculine ablative from crāstinus, crāstina, crāstinum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cui: who; singular dative from quis"/>
+                <ITEXT CH="cui: whom; singular dative from quis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cūr: why"/>
                 <para PARENT="Vocab"/>
@@ -7464,7 +7466,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pavīmentō: floor, pavement, tiling; singular neuter ablative from pavīmentum, pavīmentī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="percůnctor: I question strictly; variant spelling from percontor, percontārī, percontātus"/>
+                <ITEXT CH="percūnctor: I question strictly; variant spelling from percontor, percontārī, percontātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="placet: it pleases; 3rd person singular present active from placeō, placēre, placuī, placitus"/>
                 <para PARENT="Vocab"/>
@@ -7476,7 +7478,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="puer: boy; singular masculine nominative from puer, puerī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quid: who; singular neuter nom. or acc. of quis"/>
+                <ITEXT CH="quid: what; singular neuter nom. or acc. of quī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quis: who"/>
                 <para PARENT="Vocab"/>
@@ -7546,7 +7548,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vōbīs: you; plural dative or ablative from tu"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vocentur: let theme be called; 3rd person plural present passive subjunctive from vocō, vocāre, vocāvī, vocātus"/>
+                <ITEXT CH="vocentur: let them be called; 3rd person plural present passive subjunctive from vocō, vocāre, vocāvī, vocātus"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -7555,17 +7557,17 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="42"/>
-                <ITEXT CH=" Et in crāstinō conventiō facta est, ut puer interficerētur. Et puer ad rēgem dīxit: cūr virī tuī mē ad tē dētulērunt? Cui rēx ait: ut interficiāris et sanguis tuus circā arcem istam aspergētur, ut possit aedificārī. Respondit puer rēgī: quis tibi mōnstrāvit? Et rēx: magī meī mihi dīxēre. Et puer dīxit: ad mē vocentur"/>
+                <ITEXT CH=" Et in crāstinō conventiō facta est, ut puer interficerētur. Et puer ad rēgem dīxit: 'Cūr virī tuī mē ad tē dētulērunt?' Cui rēx ait: 'Ut interficiāris et sanguis tuus circā arcem istam aspergētur, ut possit aedificārī.' Respondit puer rēgī: 'Quis tibi mōnstrāvit?' Et rēx: 'magī meī mihi dīxēre.' Et puer dīxit: 'Ad mē vocentur"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=". Et invītātī sunt magī et puer illīs dīxit: quis revēlāvit vōbīs, ut ista arx ā sanguine meō aspergerētur"/>
+                <ITEXT CH=".' Et invītātī sunt magī et puer illīs dīxit: 'Quis revēlāvit vōbīs, ut ista arx ā sanguine meō aspergerētur"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH="? Et nisi aspergerētur ā sanguine meō, in aeternum nōn aedificābitur? Sed hoc"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=" ut cognōscat is, quis mihi dē mē palam fēcit? Iterum puer dīxit, modo tibi, ō rēx, ēlūcubrābō"/>
+                <ITEXT CH=" ut cognōscat is, quis mihi dē mē palam fēcit?' Iterum puer dīxit, 'Modo tibi, ō rēx, ēlūcubrābō"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=" et in vēritāte tibi omnia satagam; sed magōs tuōs percūnctor: quid in pavīmentō istīus locī est? Placet mihi, ut ostendant tibi, quid sub pavīmentō habētur. At illī dīxēre: nescīmus. Et ille dīxit: comperior: stāgnum in mediō pavīmentī est; venīte et fodite et sīc inveniētis. Vēnērunt et fōdērunt, et ruit"/>
+                <ITEXT CH=" et in vēritāte tibi omnia satagam; sed magōs tuōs percūnctor: quid in pavīmentō istīus locī est? Placet mihi, ut ostendant tibi, quid sub pavīmentō habētur.' At illī dīxēre: 'Nescīmus.' Et ille dīxit: 'Comperior: stāgnum in mediō pavīmentī est; venīte et fodite et sīc inveniētis.' Vēnērunt et fōdērunt, et ruit"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT CH=". Et puer ad magōs dīxit: prōferte mihi, quid est in stāgnō? Et siluērunt et nōn potuērunt revēlāre illī. Et ille dīxit illīs: ego vōbīs revēlābō; duo vāsa sunt et sīc inveniētis. Vēnērunt et vīdērunt sīc. Et puer ad magōs dīxit: quid in vāsīs conclūsīs habētur? At ipsī siluērunt et nōn potuērunt revēlārī illī. "/>
+                <ITEXT CH=". Et puer ad magōs dīxit: 'Prōferte mihi, quid est in stāgnō?' Et siluērunt et nōn potuērunt revēlāre illī. Et ille dīxit illīs: 'Ego vōbīs revēlābō; duo vāsa sunt et sīc inveniētis.' Vēnērunt et vīdērunt sīc. Et puer ad magōs dīxit: 'Quid in vāsīs conclūsīs habētur?' At ipsī siluērunt et nōn potuērunt revēlārī illī. "/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -7573,9 +7575,9 @@
             <StoryText>
                 <DefaultStyle/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="At ille asseruit: in mediō eōrum tentōrium est, sēparāte ea et sīc inveniētis. Et rēx sēparārī iussit et sīc inventum est tentōrium complicātum, sīcut dīxerat. Et iterum interrogāvit magōs eius: quid in mediō tentōriī est? Et iam nunc nārrātē, et nōn potuērunt scīre. At ille revēlāvit: duo vermēs in eō sunt, ūnus albus et ūnus rūfus; tentōrium expandite. Et extendērunt et due vermēs dormientēs inventī sunt. Et dīxit puer: expectātē et cōnsīderātē quid facient vermēs; et coepērunt vermēs, ut alter"/>
+                <ITEXT CH="At ille asseruit: 'In mediō eōrum tentōrium est, sēparāte ea et sīc inveniētis.' Et rēx sēparārī iussit et sīc inventum est tentōrium complicātum, sīcut dīxerat. Et iterum interrogāvit magōs eius: 'Quid in mediō tentōriī est? Et iam nunc nārrātē', et nōn potuērunt scīre. At ille revēlāvit: 'Duo vermēs in eō sunt, ūnus albus et ūnus rūfus; tentōrium expandite.' Et extendērunt et duo vermēs dormientēs inventī sunt. Et dīxit puer: 'Expectātē et cōnsīderātē quid facient vermēs'; et coepērunt vermēs, ut alter"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" alterum expelleret, alius autem scapulās suās pōnēbat, ut eum usque ad dīmidium tentōriī expelleret, et sīc faciēbant tribus vicibus: tamen tandem īnfirmior vidēbātur vermis rūfus et posteā fortior albō fuit et extrā fīnem tentōriī expulit; tunc alter alterum secūtus trāns stāgnum est et tentōrium ēvānuit. Et puer ad magōs refert: quid significat mīrābile hoc signum, quod factum est in tentōriō? Et illī prōferunt: nescīmus. Et puer respondit: ēn revēlātum est mihi hoc mystērium et ego vōbīs prōpalābō. "/>
+                <ITEXT CH=" alterum expelleret, alius autem scapulās suās pōnēbat, ut eum usque ad dīmidium tentōriī expelleret, et sīc faciēbant tribus vicibus: tamen tandem īnfirmior vidēbātur vermis rūfus et posteā fortior albō fuit et extrā fīnem tentōriī expulit; tunc alter alterum secūtus trāns stāgnum est et tentōrium ēvānuit. Et puer ad magōs refert: 'Quid significat mīrābile hoc signum, quod factum est in tentōriō?' Et illī prōferunt: 'Nescīmus.' Et puer respondit: 'Ēn revēlātum est mihi hoc mystērium et ego vōbīs prōpalābō.'"/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -7632,13 +7634,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eum: to him; singular masculine accusative from is, ea, id"/>
+                <ITEXT CH="eum: him; singular masculine accusative from is, ea, id"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ēvānuit: it vanished; 3rd person singular perfect active from ēvānēscō, ēvānēscere, ēvānuī, -"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="expandite: spread out! expand!; 2nd person plural present active imperative from expandō, expandere, expandī, expānsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="expectāte: Await!; plural imperative from expectō, expectāre, expectāvī, expectātus"/>
+                <ITEXT CH="expectāte: await!; plural imperative from expectō, expectāre, expectāvī, expectātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="expelleret: he drove out, expelled; 3rd person singular imperfect active subjunctive from expellō, expellere, expulī, expulsus"/>
                 <para PARENT="Vocab"/>
@@ -7718,7 +7720,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="refert: he brings back; 3rd person singular present active from referō, referre, rettulī, relātus"/>
+                <ITEXT CH="refert: he says, brings back (the conversation); 3rd person singular present active from referō, referre, rettulī, relātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="respondit: he responded; 3rd person singular perfect active from respondeō, respondēre, respondī, respōnsus"/>
                 <para PARENT="Vocab"/>
