@@ -278,14 +278,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="64916.2511999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="156" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="157" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="158" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="431612476" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="945288799816.477" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="431612476" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="946750596158.919" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="443474236" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13958341318.0008" gYpos="945288140041.517" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="443474236" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13985222806.0008" gYpos="946749936383.959" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -10057,7 +10057,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="colle: hill; singular masculine ablative from collis, collis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="collis: hill; plural masculine nominative from collis, collis"/>
+                <ITEXT CH="collis: of the hill; singular masculine genitive from collis, collis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Conachta: Connacht, a province of Ireland"/>
                 <para PARENT="Vocab"/>
@@ -10119,7 +10119,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="id: it"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iēiūnāvit: he fasted"/>
+                <ITEXT CH="iēiūnāvit: he fasted; 3rd person singular perfect from iēiūnō, iēiūnāre"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illūminābat: he gave sight (literally brightened); 3rd person singular imperfect from illūminō, illūmināre, illūmināvī, illūminātus"/>
                 <para PARENT="Vocab"/>
@@ -10270,7 +10270,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="colōris: color; singular masculine genitive from color, colōris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōnsūmentur: they will consume; 3rd person plural future passive from cōnsūmō, cōnsūmere, cōnsūmpsī, cōnsūmptus"/>
+                <ITEXT CH="cōnsūmentur: they will be consumed; 3rd person plural future passive from cōnsūmō, cōnsūmere, cōnsūmpsī, cōnsūmptus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēlēbuntur: they will be removed; 3rd person plural future passive from dēleō, dēlēre, dēlēvī, dēlētus"/>
                 <para PARENT="Vocab"/>
@@ -10419,8 +10419,10 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" Moysēs et Patricius: id est angelō colloquente in rubō igneō: secundō modō in monte quadrāgintā diēbus et quadrāgintā noctibus ieiūnāvit: tertiō modō similēs fuērunt aetāte 120 annīs: quārtō modō sepulchrum illīus nēmō scit, sed in occultō humātus"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" est nēmine sciente. Quīndecim annīs in captīvitāte, in vīcēsimō quīntō annō ab Amathēō sānctō epīscopō subrogātur, octōgintā et quīnque annīs in Hiberniā praedicāvit. Rēs autem exigēbat"/>
+                <ITEXT CH=" est nēmine sciente. Quīndecim annīs in captīvitāte, in vīcēsimō quīntō annō ab Amathēō sānctō epīscopō subrogātur, octōgintā et quīnque annīs in Hiberniā praedicāvit"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=". Rēs autem exigēbat"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" amplius loquī dē Sānctō Patriciō, sed tamen prō compendiō sermōnis voluī breviāre."/>
                 <para PARENT="Latin"/>
             </StoryText>
@@ -10474,7 +10476,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="id: it"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iēiūnāvit: he fasted"/>
+                <ITEXT CH="iēiūnāvit: he fasted; 3rd person singular perfect from iēiūnō, iēiūnāre"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="igneō: fiery; singular masculine ablative from igneus, ignea, igneum"/>
                 <para PARENT="Vocab"/>
@@ -10482,7 +10484,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="loquī: to speak, to say; present infinitive"/>
+                <ITEXT CH="loquī: to speak, to say; present infinitive from loquor, loquī, locūtus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="modīs: ways; plural masculine ablative from modus, modī"/>
                 <para PARENT="Vocab"/>
@@ -10536,9 +10538,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sepulchrum: grave; singular neuter nominative from sepulchrum, sepulchrī"/>
+                <ITEXT CH="sepulchrum: grave; singular neuter accusative from sepulchrum, sepulchrī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sermōnis: conversation, speech; plural masculine ablative from sermō, sermōnis"/>
+                <ITEXT CH="sermōnis: conversation, speech; plural masculine genitive from sermō, sermōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="similēs: similar; plural masculine nominative from similis, simile"/>
                 <para PARENT="Vocab"/>
@@ -10561,9 +10563,9 @@
                 <ITEXT CH="IV. Arthuriāna"/>
                 <para PARENT="Chapter Heading"/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="56"/>
-                <ITEXT CH=" In illō tempore Saxonēs invalēscēbant in multitūdine et crēscēbant in Brittanniā. Mortuō autem Hengistō Octhā fīlius eius trānsīvit dē sinistrālī parte Britanniae ad rēgnum Cantōrum et dē ipsō ortī sunt rēgēs Cantōrum. Tunc Arthur pugnābat contrā illōs in illīs diēbus cum rēgibus Brittōnum, sed ipse erat dux"/>
+                <ITEXT CH=" In illō tempore Saxonēs invalēscēbant in multitūdine et crēscēbant in Brittanniā. Mortuō autem Hengistō Octha fīlius eius trānsīvit dē sinistrālī parte Britanniae ad rēgnum Cantōrum et dē ipsō ortī sunt rēgēs Cantōrum. Tunc Arthur pugnābat contrā illōs in illīs diēbus cum rēgibus Brittōnum, sed ipse erat dux"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" bellōrum. Prīmum bellum fuit in ōstium flūminis quod dīcitur Glein. Secundum et tertium et quārtum et quīntum super aliud flūmen, quod dīcitur Dubglās et est in regiōne Linnuis. Sextum bellum super flūmen, quod vocātur Bassās. Septimum fuit bellum in silvā Celidōnis, id est Cat Coit Celidōn. Octāvum fuit bellum in castellō Guinnion, in quō Arthur portāvit imāginem Sānctae Mariae perpetuae virginis super humerōs suōs et pāgānī versī sunt in fugam in illō diē et caedēs magna fuit super illōs per virtūtem Dominī nostrī Iēsu Chrīstī et per virtūtem Sānctae Mariae genetrīcis eius."/>
+                <ITEXT CH=" bellōrum. Prīmum bellum fuit in ōstium flūminis quod dīcitur Glein. Secundum et tertium et quārtum et quīntum super aliud flūmen, quod dīcitur Dubglās et est in regiōne Linnuis. Sextum bellum super flūmen, quod vocātur Bassās. Septimum fuit bellum in silvā Celidōnis, id est Cat Coit Celidōn. Octāvum fuit bellum in castellō Guinnion, in quō Arthur portāvit imāginem Sānctae Marīae perpetuae virginis super humerōs suōs et pāgānī versī sunt in fugam in illō diē et caedēs magna fuit super illōs per virtūtem Dominī nostrī Iēsu Chrīstī et per virtūtem Sānctae Marīae genetrīcis eius."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -10576,7 +10578,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Arthur: the Arthur often referred to as King Arthur"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ARTHVRIANA: things related to Arthur"/>
+                <ITEXT CH="Arthuriāna: things related to Arthur"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="autem: but, however, moreover"/>
                 <para PARENT="Vocab"/>
@@ -10739,6 +10741,8 @@
                 <ITEXT CH="silvā: forest; singular feminine ablative from silva, silvae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sinistrālī: left (either north or west), singular feminine ablative from sinistra, sinistrae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sunt: they were; 3rd person plural present for sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suōs: their; plural accusative of suus"/>
                 <para PARENT="Vocab"/>
@@ -15303,8 +15307,10 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="He raised a number, up to nine, of the dead."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="He wrote 365 or more primers. abegetōria is likely a variant spelling from abecedārium, which, strictly speaking, is a book teaching the alphabet."/>
-                <ITEXT CH=" Here the meaning is more likely a primer on the Christian faith."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="He wrote 365 or more primers. abegetōria"/>
+                <ITEXT FONT="DejaVu Serif Book" CH=" is likely a variant spelling from "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="abecedārium"/>
+                <ITEXT FONT="DejaVu Serif Book" CH=", which, strictly speaking, is a book teaching the alphabet. Here the meaning is more likely a primer on the Christian faith."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="On which hill he gently requested, sending three petitions into the air for these, those of the Irish who received the faith."/>
@@ -15334,6 +15340,9 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="But in secret they were buried (with) no one knowing."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH="Some of these times overlap; assuming the 85 years in Ireland went right up until his death, he started preaching in Ireland when he was 120-85=35 years old."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="The thing (that is, the account of the life of Saint Patrick) demanded to speak more of Saint Patrick."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
