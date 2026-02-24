@@ -278,14 +278,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="64916.2511999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="156" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="157" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="158" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1293856947" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="952542569796.326" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1293856947" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="953791406599.671" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1293853427" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14091733450.0008" gYpos="952541910021.366" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1293853427" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14114698750.0008" gYpos="953790746824.711" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -13279,11 +13279,13 @@
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="70"/>
                 <ITEXT CH=" Est aliud mīrābile in regiōne Cinlipiūc. Est ibī fōns nōmine Finnaun Guur Helic; nōn fluit rīvus ex eō neque in eō. Vādunt hominēs piscārī ad fontem, aliī vādunt in fontem ad partem orientis et dēdūcunt piscēs ex eā parte, aliī ad dextram"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=", aliī ad sinistram, ad occidentamque, et trahuntur piscēs ex eā parte. Et aliud genus piscium trahitur ex omnibus partibus. Magnum mīrābile piscēs invenīrī in fonte, dum nōn flūmen fluit in eō neque ex eō, et in eō inveniuntur quattuor genera piscium et nōn est dē magnitūdine neque dē profunditāte. Profunditās illīus usque genua, vīgintī pedēs sunt in logitūdīne et lātitūdine, rīpās altās habet ex omnī parte."/>
+                <ITEXT CH=", aliī ad sinistram, ad occidentamque, et trahuntur piscēs ex eā parte. Et aliud genus piscium trahitur ex omnibus"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" partibus. Magnum mīrābile piscēs invenīrī in fonte, dum nōn flūmen fluit in eō neque ex eō, et in eō inveniuntur quattuor genera piscium et nōn est dē magnitūdine neque dē profunditāte. Profunditās illīus usque genua, vīgintī pedēs sunt in logitūdīne et lātitūdine, rīpās altās habet ex omnī parte."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="Iuxtā flūmen, quod vocātur Guoy, pōma inveniuntur super fraxinum in prōclīvō saltus, quī est prope ōstiō flūminis."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="Est aliud mīrābile in regiōne quae vocātur Guent. Est ibī fovea, ā quā ventus īnflat per omne tempus sine intermissiōne, et quandō nōn flat ventus in tempore aestātis, dē illā foveā incessanter flat, ut nēmō possit sustinēre neque ante foveae profunditātem. Et vocātur nōmen eius Vith Guint Brittannīcō sermōne, Latīnē autem flātiō ventī. Magnum mīrābile est ventus dē terrā flāre."/>
+                <ITEXT CH="Est aliud mīrābile in regiōne quae vocātur Guent. Est ibī fovea, ā quā ventus īnflat per omne tempus sine intermissiōne, et quandō nōn flat ventus in tempore aestātis, dē illā foveā incessanter flat, ut nēmō possit sustinēre neque ante foveae profunditātem. Et vocātur nōmen eius 'Vith Guint' Brittannīcō sermōne, Latīnē autem 'flātiō ventī'. Magnum mīrābile est ventus dē terrā flāre."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -13364,7 +13366,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Guent: the Kingdom of Gwent, a region in modern-day Wales"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Guint: Vith Guint, the name of a whole from which a wind blows; the name probably means 'wind-hole' in Welsh"/>
+                <ITEXT CH="Guint: Vith Guint, the name of a hole from which a wind blows; the name probably means 'wind-hole' in Welsh"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Guoy: possibly the River Wye in Wales"/>
                 <para PARENT="Vocab"/>
@@ -13392,7 +13394,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="invenīrī: to be found; passive infinitive from invenio, invenire, inveni, inventus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="inveniuntur: they are discovered; 3rd person plural present passive from invenio, invenire, inveni, inventus"/>
+                <ITEXT CH="inveniuntur: they are found; 3rd person plural present passive from invenio, invenire, inveni, inventus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iuxtā: near, nearly"/>
                 <para PARENT="Vocab"/>
@@ -13440,7 +13442,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="piscārī: to fish; infinitive"/>
+                <ITEXT CH="piscārī: to fish; infinitive from the deponent piscor, piscārī, piscātum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="piscēs: fishes; plural masculine nominative from piscis, piscis"/>
                 <para PARENT="Vocab"/>
@@ -13502,7 +13504,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trahuntur: they are drawn, dragged; 3rd person plural present passive from trahō, trahere, trāxī, tractus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ūsque: until, all the way, up until"/>
+                <ITEXT CH="usque: up to"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ut: so that"/>
                 <para PARENT="Vocab"/>
@@ -13514,7 +13516,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīgintī: 20"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Vith: Vith Guint, the name of a whole from which a wind blows; the name probably means 'wind-hole' in Welsh"/>
+                <ITEXT CH="Vith: Vith Guint, the name of a hole from which a wind blows; the name probably means 'wind-hole' in Welsh"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vocātur: it is called; 3rd person singular present passive from vocō, vocāre, vocāvī, vocātus"/>
                 <trail PARENT="Vocab"/>
@@ -13527,9 +13529,9 @@
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="71"/>
                 <ITEXT CH=" Est aliud mīrābile in Guyr altāre"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=", quod est in locō, quī dīcitur Loyngarth, quod nūtū deī fulcītur. Historia istīus altāris melius mihi vidētur nārrāre quam reticēre. Factum est autem dum sānctus Iltūtus ōrābat in spēluncā, quae est iuxtā mare, quod alluit terram suprā dictī locī, os autem spēluncae ad mare est, et ecce nāvis nāvigābat ad sē dē marī et duo virī nāvigantēs eam et corpus sānctī hominis erat cum illīs in nāvī et altāre"/>
+                <ITEXT CH=", quod est in locō, quī dīcitur Loyngarth, quod nūtū deī fulcītur. Historia istīus altāris melius mihi vidētur nārrāre quam reticēre. Factum est autem dum sānctus Iltūtus ōrābat in spēluncā, quae est iuxtā mare, quod alluit terram suprā dictī locī, ōs autem spēluncae ad mare est, et ecce nāvis nāvigābat ad sē dē marī et duo virī nāvigantēs eam et corpus sānctī hominis erat cum illīs in nāvī et altāre"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" suprā faciem eius, quod nūtū deī fulciēbātur et prōcessit homō deī obviam illīs et corpus sānctī hominis et altāre īnsēparābiliter suprā faciem sānctī corporis stābat. Et dīxērunt ad sānctum Iltūtum: ille homō deī commendāvit nōbīs, ut dēdūcerēmus illum ad tē et sepelīrēmus eum tēcum et nōmen eius nōn revēlēs ūllō hominī, ut nōn iūrent"/>
+                <ITEXT CH=" suprā faciem eius, quod nūtū Deī fulciēbātur et prōcessit homō deī obviam illīs et corpus sānctī hominis et altāre īnsēparābiliter suprā faciem sānctī corporis stābat. Et dīxērunt ad sānctum Iltūtum: ille homō deī commendāvit nōbīs, ut dēdūcerēmus illum ad tē et sepelīrēmus eum tēcum et nōmen eius nōn revēlēs ūllō hominī, ut nōn iūrent"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" per sē hominēs."/>
                 <para PARENT="Latin"/>
@@ -13584,7 +13586,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eum: to him; singular masculine accusative from is, ea, id"/>
+                <ITEXT CH="eum: him; singular masculine accusative from is, ea, id"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="faciem: face; singular feminine accusative from faciēs, faciēī"/>
                 <para PARENT="Vocab"/>
@@ -13664,7 +13666,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōrābat: he was praying; 3rd person singular imperfect active from ōrō, ōrāre, ōrāvī, ōrātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="os: bone; singular neuter nominative from ōs, ōris"/>
+                <ITEXT CH="ōs: mouth; singular neuter nominative from ōs, ōris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
@@ -13676,7 +13678,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quī: who; plural masculine nominative of quis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
+                <ITEXT CH="quod: that, because, which; singular neuter nom. or acc. of qui"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="reticēre: to keep silent; present infinitive from reticeō, reticēre, reticuī, -"/>
                 <para PARENT="Vocab"/>
@@ -13702,7 +13704,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tē: to you, accusative from tu"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūllō: any; singular masculine dative from ūllus, ūlla, ūllum (gen -ius)"/>
                 <para PARENT="Vocab"/>
@@ -15449,7 +15451,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="59596.2288" OwnPage="141" ItemID="1583315331" PTYPE="4" WIDTH="522" HEIGHT="42.3476484076891" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 42.3476 L0 42.3476 L0 0 Z" copath="M0 0 L522 0 L522 42.3476 L0 42.3476 L0 0 Z" gXpos="136.0008" gYpos="59596.2288" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="59596.2288" OwnPage="141" ItemID="1583315331" PTYPE="4" WIDTH="522" HEIGHT="88.5610089172042" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 88.561 L0 88.561 L0 0 Z" copath="M0 0 L522 0 L522 88.561 L0 88.561 L0 0 Z" gXpos="136.0008" gYpos="59596.2288" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -15461,6 +15463,9 @@
                 <ITEXT CH=" fit well with "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="occidentam"/>
                 <ITEXT CH="."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH="Presumably the mavel here is that such a small pond has a different type of fish on each side."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -15472,7 +15477,7 @@
                 <ITEXT CH=" It appears, from the next page, that the altar levitates in the air."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="And an alter above his face."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And an altar above his face."/>
                 <ITEXT CH=" We are told later in this sentence that it 'stands inseparably from his face', so apparently the altar levitates above the man's body, wherever the body is moved."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
