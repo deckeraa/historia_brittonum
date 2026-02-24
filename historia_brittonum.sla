@@ -278,14 +278,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="64916.2511999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="156" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="157" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="158" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1293856947" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="951025561721.526" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1293856947" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="951898432918.812" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1293853427" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14063836654.0008" gYpos="951024901946.566" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1293853427" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14079888190.0008" gYpos="951897773143.852" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -12931,11 +12931,15 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="68"/>
-                <ITEXT CH=" Quārtum mīrāculum est: fontēs in eadem inveniuntur dē salō, ā quibus fontibus sāl coquitur: inde dīversa cibāria saliuntur et nōn prope sunt marī, sed dē terrā ēmergunt."/>
-                <para PARENT="Latin"/>
-                <ITEXT CH="Aliud mīrāculum et Duorig Habren, id est duo"/>
+                <ITEXT CH=" Quārtum mīrāculum est: fontēs in eadem inveniuntur dē salō"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" rēgēs Sabrīnae. Quandō inundantur mare ad sissam in ōstium Sabrīnae, duo cumulī spūmārum congregantur sēparātim et bellum faciunt inter sē in modum arietum et prōcēdit ūnusquisque ad alterum et collīdunt sē ad invicem et iterum sēcēdit alter ab alterō et iterum prōcēdunt in ūnāquāque sissā. Hoc faciunt ab initiō mundī usque in hodiernum diem."/>
+                <ITEXT CH=", ā quibus fontibus sāl coquitur: inde dīversa cibāria saliuntur et nōn prope sunt marī, sed dē terrā ēmergunt."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Aliud mīrāculum est Duorig Habren, id est duo"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" rēgēs Sabrīnae. Quandō inundantur mare ad sissam in ōstium Sabrīnae, duo cumulī spūmārum congregantur sēparātim et bellum faciunt inter sē in modum arietum"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" et procēdit ūnusquisque ad alterum et collīdunt sē ad invicem et iterum sēcēdit alter ab alterō et iterum prōcēdunt in ūnāquāque sissā. Hoc faciunt ab initiō mundī usque in hodiernum diem."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -12978,6 +12982,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="duo: two"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="Duorig: Dourig Habren, Welsh name for a phenomenon where two waves collide in the River Severn"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="eadem: the same (place), plural neuter accusative from īdem, eadem, idem"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ēmergunt: they emerge, appear; 3rd person plural present active from ēmergō, ēmergere, ēmersī, ēmersus"/>
@@ -12991,6 +12997,8 @@
                 <ITEXT CH="fontēs: fountains; plural masculine nominative from fōns, fontis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fontibus: fountains; plural masculine ablative from fōns, fontis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Habren: Dourig Habren, Welsh name for a phenomenon where two waves collide in the River Severn"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hoc: this; singular neuter nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
@@ -13028,7 +13036,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōstium: door; singular neuter nominative from ōstium, ōstiī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="procēdit: he proceeds; 3rd person singular present active from procēdō, procēdere, processī, processus"/>
+                <ITEXT CH="procēdit: it proceeds; 3rd person singular present active from procēdō, procēdere, processī, processus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="procēdunt: they proceed; 3rd person plural present active from procēdō, procēdere, processī, processus"/>
                 <para PARENT="Vocab"/>
@@ -13040,15 +13048,19 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quārtum: for the fourth time"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quibus: what; plural ablative of qui"/>
+                <ITEXT CH="quibus: which; plural ablative of qui"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rēgēs: kings; plural masculine nominative or accusative from rēx, rēgis"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="Sabrīnae: the River Severn, the longest river in Britain. Sabrīnae is probably in the nominative case here."/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="sāl: salt; singular masculine nominative from sāl, salis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="saliuntur: they are salted; 3rd person plural passive present from saliō, salīre, saliī, salītus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="salō: high sea; singular neuter ablative from salum, salī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="se: himself"/>
+                <ITEXT CH="sē: themselves"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sēcēdit: it withdraws; 3rd person singular present active from sēcēdō, sēcēdere, sēcessī, sēcessus"/>
                 <para PARENT="Vocab"/>
@@ -13056,25 +13068,21 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sēparātim: separately, apart"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="sissā: rocky shore (?), this was not in any dictionary I consulted"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sissam: rocky shore (?), this was not in any dictionary I consulted"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="spūmārum: of foam; plural feminine genitive from spūma, spūmae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sunt: they are; 3rd person plural present active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terra: land; singular feminine nominative from terra, terrae"/>
+                <ITEXT CH="terrā: land; singular feminine ablative from terra, terrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Duorig: Dourig Habren, Welsh name for a phenomenon where two waves coollide in a certain river"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="Habren: Dourig Habren, Welsh name for a phenomenon where two waves coollide in a certain river"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="Sabrinae: the River Severn, the longest river in Britain. Sabrinae is probably in the nominative case here."/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="sissa: rocky shore (?), this was not in any dictionary I consulted"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="sissam: rocky shore (?), this was not in any dictionary I consulted"/>
+                <ITEXT CH="ūnāquāque: each one (ablative case)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūnusquisque: each one"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ūsque: until, all the way, up until"/>
+                <ITEXT CH="usque: until, all the way, up until"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -15407,12 +15415,20 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="57726.6783592357" OwnPage="137" ItemID="1582918467" PTYPE="4" WIDTH="522" HEIGHT="48.6114649681476" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 48.6115 L0 48.6115 L0 0 Z" copath="M0 0 L522 0 L522 48.6115 L0 48.6115 L0 0 Z" gXpos="136.0008" gYpos="57726.6783592357" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="57726.6783592357" OwnPage="137" ItemID="1582918467" PTYPE="4" WIDTH="522" HEIGHT="77.8566726114368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 77.8567 L0 77.8567 L0 0 Z" copath="M0 0 L522 0 L522 77.8567 L0 77.8567 L0 0 Z" gXpos="136.0008" gYpos="57726.6783592357" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Saltwater springs are found in the same place, from which springs salt is prepared (for cooking)."/>
+                <ITEXT CH=" The marvel here is that there are saltwater springs disconnected from the ocean."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="That is, two kings of the River Severn."/>
                 <ITEXT CH=" The 'two kings' are the two waves that 'battle' each other in the river."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="They (the waves) make battle between themselves in the manner of rams"/>
+                <ITEXT CH=". Much like how male rams will push each other using their horns, thus also the waves collide with one another."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
