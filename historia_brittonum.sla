@@ -278,14 +278,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="64916.2511999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="156" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="157" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="65748.2543999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="158" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1293856947" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="951898432918.812" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1293856947" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.0008" gYpos="952542569796.326" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1293853427" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14079888190.0008" gYpos="951897773143.852" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1293853427" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14091733450.0008" gYpos="952541910021.366" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -13091,9 +13091,9 @@
                 <DefaultStyle/>
                 <para/>
                 <ITEXT FONT="DejaVu Serif Condensed Bold" CH="69"/>
-                <ITEXT CH=" Aliud mīrāculum est, id est Oper Līnn Liuān. Ōstium flūminis illīus fluit in Sabrīnā et quandō Sabrīna inundātur ad sissam, et mare inundātur similiter in ōstiō suprā dictī flūminis et in stāgnō ōstiī recepitur in modum vorāginis et mare nōn vādit sūrsum et est lītus iuxtā flūmen et quamdiū Sabrīna inundātur ad sissam, istud lītus nōn tegitur et quandō recēdit mare et Sabrīna, tunc stāgnum Liuān ēructat omne quod dēvorāvit dē marī et lītus istud tegitur et īnstar montis in ūnā undā ēructat et rumpit. Et sī fuerit exercitus tōtīus regiōnis, in quā est, et dīrēxerit faciem contrā undam, et exercitum"/>
+                <ITEXT CH=" Aliud mīrāculum est, id est Oper Līnn Liuān. Ōstium flūminis illīus fluit in Sabrīnā et quandō Sabrīna inundātur ad sissam, et mare inundātur similiter in ōstiō suprā dictī flūminis et in stagnō ōstiī recipitur in modum vorāginis et mare nōn vādit sūrsum et est lītus iuxtā flūmen et quamdiū Sabrīna inundātur ad sissam, istud lītus nōn tegitur et quandō recēdit mare et Sabrīna, tunc stagnum Liuān ērūctat omne quod dēvorāvit dē marī et lītus istud tegitur et īnstar montis in ūnā undā ēructat et rumpit. Et sī fuerit exercitus tōtīus regiōnis, in quā est, et dīrēxerit faciem contrā undam, et exercitum"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" trahit unda per vim hūmōre replētīs vestibus et equī similiter trahuntur. Sī autem exercitus terga versūs fuerit contrā eam, nōn nocet"/>
+                <ITEXT CH=" trahit unda per vim hūmōre replētīs vestibus et equī similiter trahuntur. Sī autem exercitus terga versus fuerit contrā eam, nōn nocet"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" eī unda et quandō recesserit mare, tōtum tunc lītus, quod unda tegit, retrō dēnūdātur et mare recēdit ab ipsō."/>
                 <para PARENT="Latin"/>
@@ -13126,7 +13126,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eī: to him, her, or it; singular dative from is, ea, id"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="equī: horse; plural masculine nominative from equus, equī"/>
+                <ITEXT CH="equī: horses; plural masculine nominative from equus, equī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ērūctat: it erupts, vomits; 3rd person singular present active from ērūctō, ērūctāre, ērūctāvī, ērūctātus"/>
                 <para PARENT="Vocab"/>
@@ -13158,29 +13158,29 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnstar: as big as"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="inundatur: it is flooded; 3rd person singular present passive from inundō, inundāre, inundāvī, inundātus"/>
+                <ITEXT CH="inundātur: it is flooded; 3rd person singular present passive from inundō, inundāre, inundāvī, inundātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ipsō: itself; singular masculine or neuter ablative from ipse, ipsa, ipsum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="istud: that; singuglar neuter nominative and accusative from iste, ista, istud"/>
+                <ITEXT CH="istud: that; singular neuter nominative and accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iuxtā: near, nearly"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Linn: Oper Līnn Liuān, likely 'Mouth of the pool of Liuān"/>
+                <ITEXT CH="Līnn: Oper Līnn Liuān, likely 'Mouth of the pool of Liuān'"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lītus: beach, shore; singular neuter nominative or accusative from lītus, lītoris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Liuan: Oper Līnn Liuān, likely 'Mouth of the pool of Liuān"/>
+                <ITEXT CH="Liuān: Oper Līnn Liuān, likely 'Mouth of the pool of Liuān'"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mare: sea; singular neuter nominative from mare, maris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="marī: sea; singular neuter  from mare, maris"/>
+                <ITEXT CH="marī: sea; singular neuter ablative from mare, maris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mīrāculum: miracle; singular neuter nominative from mīrāculum, mīrāculī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="modum: mode, manner, way, measure, size; singular masculine accusative from modus, modī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="montis: mountains; singular masculine genitive from mōns, montis"/>
+                <ITEXT CH="montis: mountain; singular masculine genitive from mōns, montis; the genitive is used because īnstar takes the genitive"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nocet: it harms; 3rd person singular present active from noceō, nocēre, nocuī, nocitus"/>
                 <para PARENT="Vocab"/>
@@ -13220,7 +13220,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rumpit: it breaks; 3rd person singular present active from rumpō, rumpere, rūpī, ruptus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Sabrina: the River Severn, the longest river in Britain. Sabrina is probably in the nominative case here."/>
+                <ITEXT CH="Sabrīna: the River Severn, the longest river in Britain. Sabrīna is probably in the nominative case here."/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sī: if"/>
                 <para PARENT="Vocab"/>
@@ -13254,19 +13254,21 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūnā: one; singular feminine ablative from ūnus -a -um, prīmus -a -um, singulī -ae -a, semel"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="unda: wave; singular feminine nominative from unda, undae"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="undā: wave; singular feminine ablative from unda, undae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="undam: wave; singular feminine accusative from unda, undae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vādit: he goes; 3rd person singular present active from vādō, vādere, vāsī, -"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="versus: verse, poetic line; singular masculine nominative perfect passive participle from "/>
+                <ITEXT CH="versus: towards"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vestibus: clothing; plural feminine ablative from vestis, vestis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vim: strength; singular feminine accusative from vīs, vīs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vorāginis: abyss, gulf, depth; singular feminine genitive from vorāgō, vorāginis"/>
+                <ITEXT CH="vorāginis: whirlpool, abyss, gulf, depth; singular feminine genitive from vorāgō, vorāginis"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -15437,13 +15439,13 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And the wave drags the army through the strength of the liquid, drenching their clothes, and the horses are similarly dragged."/>
-                <ITEXT CH=" This refers to a natural phenomenon known as a tidal bore, and still occurs today in the River Severn. Videos can be found online of surfers riding a 3-foot wave produced by this tidal bore in the River Severn."/>
+                <ITEXT CH=" This refers to a natural phenomenon known as a tidal bore and still occurs today in the River Severn. Videos can be found online of surfers riding a 3-foot wave produced by the tidal bore in the River Severn."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="The wave does not hurt it (the army)"/>
                 <ITEXT CH=". "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Nocēre"/>
-                <ITEXT CH=" takes the dative intead of the accusative."/>
+                <ITEXT CH=" takes the dative instead of the accusative."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
